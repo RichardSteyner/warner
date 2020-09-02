@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "8d541332-3c34-4f56-a832-de0f4c38b47d",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "2c4de2f4-381d-497a-98a0-8ed5f037b82b",
+  "label" : "TALENT_Andy_Lassner",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-andy-lassner",
+  "type" : "route",
+  "urlPrefix" : "talent-andy-lassner"
+}

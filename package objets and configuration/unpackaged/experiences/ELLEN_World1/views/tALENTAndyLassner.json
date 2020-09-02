@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "8d541332-3c34-4f56-a832-de0f4c38b47d",
+  "label" : "TALENT_Andy_Lassner",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_33.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "be8dc573-542d-4524-a510-daedaac73267",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ad3039b8-a25c-4725-86ea-cfce3f512bc9",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Andy_RT.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2b84153b-505d-4b9c-b0b1-83bbef5741aa",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "810f39dc-3ad9-4dbf-b591-c7c4d9bfbc2a",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;ANDY LASNER&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Ellen’s Executive Producer Andy is fantastic at being a producer and extremely average at everything else—and that’s why the world loves him! Andy is perfectly himself every time Ellen sends him somewhere, which always results in laugh-out-loud hilarity every step of the way. Fans love Andy for being Andy! </span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Andy is relatable and real and out of his element, and it’s why his fans are always rooting for him! Over the course of 17 seasons, Ellen has sent Andy to places like hockey practice with the LA Kings, swimming lessons with Michael Phelps, wrestling with WWE Superstar Ronda Rousey, and—everyone’s absolute favorite—Andy’s yearly hysterical, scaredy-pants trek inside Universal’s Hollywood’s Haunted House. Andy’s social media has skyrocketed to over a half million followers, proving that fans always want more Andy (If you’re not following Andy’s Slow Walking ‘Movement’ on Instagram, what are you waiting for? It’s taking social media by storm!)&nbsp;</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "89a54817-3117-4473-a7ac-b71fea902c7e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "d42db131-e6e0-42d4-b409-f989987654be",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8ad7c342-0c8b-4cc6-8dc6-b0fb5cf6eb1d",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "f0196da8-1eb8-4ba6-9986-7b08f96dbf4d",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_Andy_Lassner"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "dcbab757-8304-4a0f-a827-3e2406629e0b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fe147f0f-90ab-49a0-8b86-ddaf44d6ed2b",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-andy-lassner"
+}

@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "88175d3f-1700-4919-b622-34d5c2d2892c",
+  "label" : "TALENT_Landon_Gregory",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "565fd8cd-6a4f-4d62-ba0b-43a39fab7566",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d6799be9-e7bf-49b0-90ec-dd17c1e69b9f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.landon1.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d0da1210-1bf5-406a-a27c-08422e0312c4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2d5836c2-c5c5-4d8b-b866-0979cf0ebd0d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "8f6b052c-08c0-4141-8ddd-c3aac4bba79d",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "8c3c527d-4a3a-4f5c-93d2-a1b57ddb20b9",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1b5e941a-7bee-4cd7-94d0-83780f3d2734",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); font-size: 36px; color: rgb(255, 255, 255);\">&nbsp;&nbsp;LANDON GREGORY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Landon Gregory is a six-year-old geography expert from Collinsville, Oklahoma. Though he’s only been studying for about a year, he can already name all of the states, countries, and their associated capitals on a blank map. His wish came true when he was invited on The Ellen DeGeneres Show to meet his idol, Nate Seltzer, her resident geography expert. The pair have since become best friends and pen pals, sharing their love of states, countries, capitals, and flags—and creating amazing and adorable content together.&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "21c8f67f-1a76-4bed-b755-c9060fa771cc",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "ac7765c9-957e-4bf2-b1e9-c0f724ed8015",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "dfd42245-2074-4d63-93a8-7707194b59ec",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-landon-gregory"
+}

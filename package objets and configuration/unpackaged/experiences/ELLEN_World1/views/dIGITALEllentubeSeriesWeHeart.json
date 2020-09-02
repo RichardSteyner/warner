@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "39491d01-a4ac-4d04-85e9-1268622ebfe3",
+  "label" : "DIGITAL_ellentube_series_WeHeart",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "4ceb0917-1b0d-43fc-bf22-b19f6fd79fa2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3d3ccc04-2b11-4134-980d-55dae47abf72",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;WE HEART IT&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Celebrities show off their top 3 most liked Instagram posts and provide interesting details about what went into to making the post great; i.e. How many times did they take the photo, how they came up with a caption, why they think the post was the most liked post, etc.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include: media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "87f67859-58c4-4bc0-be9a-baa9907ef547",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "cd826b99-391f-46d0-ad63-e2a9211e5590",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "73941476-4bf8-4235-98e5-54061bd4b544",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "42d8b929-1990-4014-9607-52de554bfdf6",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "403eae71-6ccd-4256-ba74-292404257793",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "25862d0e-c984-4aa0-8199-4d28d8252f6d",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.We_Heart_It_Alpha.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "96a19e3c-3f8d-40a4-9064-03d866c8f986",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b54ead98-69bb-46e9-b42a-1945be451aa4",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-weheart"
+}

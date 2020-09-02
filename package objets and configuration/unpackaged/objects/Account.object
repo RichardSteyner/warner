@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Category__c</fullName>
+        <description>TPX use only, Brand category</description>
+        <externalId>false</externalId>
+        <label>Category</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Accessories</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Accessories</label>
+                </value>
+                <value>
+                    <fullName>Alcohol</fullName>
+                    <default>false</default>
+                    <label>Alcohol</label>
+                </value>
+                <value>
+                    <fullName>Apparel</fullName>
+                    <default>false</default>
+                    <label>Apparel</label>
+                </value>
+                <value>
+                    <fullName>Automotive</fullName>
+                    <default>false</default>
+                    <label>Automotive</label>
+                </value>
+                <value>
+                    <fullName>Banking</fullName>
+                    <default>false</default>
+                    <label>Banking</label>
+                </value>
+                <value>
+                    <fullName>Beauty</fullName>
+                    <default>false</default>
+                    <label>Beauty</label>
+                </value>
+                <value>
+                    <fullName>Be Kind. Product Line</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Be Kind. Product Line</label>
+                </value>
+                <value>
+                    <fullName>Books</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Books</label>
+                </value>
+                <value>
+                    <fullName>Consumer Electronics</fullName>
+                    <default>false</default>
+                    <label>Consumer Electronics</label>
+                </value>
+                <value>
+                    <fullName>Consumer Package Goods</fullName>
+                    <default>false</default>
+                    <label>Consumer Package Goods</label>
+                </value>
+                <value>
+                    <fullName>E-Commerce</fullName>
+                    <default>false</default>
+                    <label>E-Commerce</label>
+                </value>
+                <value>
+                    <fullName>Education</fullName>
+                    <default>false</default>
+                    <label>Education</label>
+                </value>
+                <value>
+                    <fullName>ELLEN Merch</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>ELLEN Merch</label>
+                </value>
+                <value>
+                    <fullName>Entertainment</fullName>
+                    <default>false</default>
+                    <label>Entertainment</label>
+                </value>
+                <value>
+                    <fullName>Events and Ticket Brokers</fullName>
+                    <default>false</default>
+                    <label>Events and Ticket Brokers</label>
+                </value>
+                <value>
+                    <fullName>Fashion</fullName>
+                    <default>false</default>
+                    <label>Fashion</label>
+                </value>
+                <value>
+                    <fullName>Financial Services</fullName>
+                    <default>false</default>
+                    <label>Financial Services</label>
+                </value>
+                <value>
+                    <fullName>Food &amp; Beverage</fullName>
+                    <default>false</default>
+                    <label>Food &amp; Beverage</label>
+                </value>
+                <value>
+                    <fullName>Games</fullName>
+                    <default>false</default>
+                    <label>Games,Toys</label>
+                </value>
+                <value>
+                    <fullName>Health &amp; Wellness</fullName>
+                    <default>false</default>
+                    <label>Health &amp; Wellness</label>
+                </value>
+                <value>
+                    <fullName>home</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>home</label>
+                </value>
+                <value>
+                    <fullName>Household</fullName>
+                    <default>false</default>
+                    <label>Household</label>
+                </value>
+                <value>
+                    <fullName>Insurance</fullName>
+                    <default>false</default>
+                    <label>Insurance</label>
+                </value>
+                <value>
+                    <fullName>Mobile Phones</fullName>
+                    <default>false</default>
+                    <label>Mobile Phones</label>
+                </value>
+                <value>
+                    <fullName>Non-Profit</fullName>
+                    <default>false</default>
+                    <label>Non-Profit</label>
+                </value>
+                <value>
+                    <fullName>Other</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Other</label>
+                </value>
+                <value>
+                    <fullName>Packaged Foods</fullName>
+                    <default>false</default>
+                    <label>Packaged Foods</label>
+                </value>
+                <value>
+                    <fullName>Pet</fullName>
+                    <default>false</default>
+                    <label>Pet</label>
+                </value>
+                <value>
+                    <fullName>Pharmaceutical</fullName>
+                    <default>false</default>
+                    <label>Pharmaceutical</label>
+                </value>
+                <value>
+                    <fullName>Professional Services</fullName>
+                    <default>false</default>
+                    <label>Professional Services</label>
+                </value>
+                <value>
+                    <fullName>QSR/Fast Food</fullName>
+                    <default>false</default>
+                    <label>QSR/Fast Food</label>
+                </value>
+                <value>
+                    <fullName>Restaurants</fullName>
+                    <default>false</default>
+                    <label>Restaurants,QSR,Fast Food</label>
+                </value>
+                <value>
+                    <fullName>Retail</fullName>
+                    <default>false</default>
+                    <label>Retail,Apparel,Grocery</label>
+                </value>
+                <value>
+                    <fullName>Tech</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Tech</label>
+                </value>
+                <value>
+                    <fullName>Technology / Electronics</fullName>
+                    <default>false</default>
+                    <label>Technology / Electronics</label>
+                </value>
+                <value>
+                    <fullName>Telecommunications</fullName>
+                    <default>false</default>
+                    <label>Telecommunications</label>
+                </value>
+                <value>
+                    <fullName>Travel</fullName>
+                    <default>false</default>
+                    <label>Travel</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+</CustomObject>

@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "808b7059-239d-4e93-859c-e6945cb3bf06",
+  "label" : "DIGITAL_ellentube_series_LadyParts",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f1612290-b1f4-4ab9-9087-3101af23d9cb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5967a89a-bc0d-4ae5-8c6c-835b19f1ad83",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); font-size: 36px; color: rgb(255, 255, 255);\">&nbsp;&nbsp;LADY PARTS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">Introducing… Lady Parts! It’s a SHOW, a PODCAST and a new way of thinking and talking with a community that’s ready to have an open conversation!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">Lady Parts is all about the bold truth telling about being authentic when it comes to sex and body issues. It’s all discussed with purpose, humor, honesty and an open mind, coming from a brand that people trust, ELLEN!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">Hosted by a comedic celebrity host, co-hosted by expert physician and gynecologist to the stars Dr. Sherry Ross, and a rotating panel of celebrity guests, Lady Parts will change the way that women talk about their bodies!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(68, 68, 68); font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "69913b58-e565-4da2-afcb-c44a8b97206e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "62dc9e63-c249-4906-90dd-7f0a85c3244e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0e5a888f-d7eb-46ad-8478-59ea4fbb1049",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "4f1586be-f836-4193-8d3b-fc6ebc0922df",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_LadyParts"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "35a1e26d-a74c-4481-b6f4-c6c950030097",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d8a87121-bf84-4a6a-af45-a9e2f2de065a",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OOqlIAG",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "3d50e7f0-73b8-4f86-9946-68fb9558d0a0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "56bd1416-eeef-48a1-9d06-6d7d90820157",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-ladyparts"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "7ca7e9eb-d921-48f2-98cb-b27527dfea05",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "b43458eb-972f-4c6e-ae2b-4818936792ad",
+  "label" : "DIGITAL_ellentube_series_CanICome",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-canicome",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-canicome"
+}

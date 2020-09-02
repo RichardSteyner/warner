@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "15a5a7d1-e307-4a1c-a18e-06aa81cd0743",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "f9aaa4fb-8689-4c98-bd67-5b6236b387b7",
+  "label" : "TALENT_Ayesha_Curry",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-ayesha-curry",
+  "type" : "route",
+  "urlPrefix" : "talent-ayesha-curry"
+}

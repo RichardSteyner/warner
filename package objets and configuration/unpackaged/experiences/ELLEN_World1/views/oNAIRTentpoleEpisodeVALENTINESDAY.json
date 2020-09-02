@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "d1b1208c-1a3d-4c5d-a4d4-f7833af61e03",
+  "label" : "ON-AIR_Tentpole_Episode_VALENTINE’S_DAY",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5f92333e-7426-4c36-8e93-81413372f533",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bdef38a9-6e63-459e-9fbc-35437e29bc9e",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">FEBRUARY</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;VALENTINE'S DAY SHOW&nbsp;&nbsp;</b></p><p><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Love is in the air…and it’s a HUGE part of The Ellen DeGeneres Show! Every year, cupid finds his way to ELLEN to spread romance in a special Valentine’s Day themed episode.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2a705d69-aacd-41fe-b600-e932af6c1ef5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "adeb5cda-189c-4d9d-a2ed-8ca6637afef0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0dfa2bae-10b3-4d06-9f96-c137d2d33cf2",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "059a316e-1fbf-4305-87dd-d715090351ea",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "dc2bbffe-eb9b-4359-971a-6aefcab225c3",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5e77fcd3-6579-49bd-9e42-329f613a5363",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.CA_WalnutsValentines.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "22c9a58f-1474-43f2-b220-d6b1d9cff152",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f568be3a-474e-4dac-8eee-9738d3a87385",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-valentines-day"
+}

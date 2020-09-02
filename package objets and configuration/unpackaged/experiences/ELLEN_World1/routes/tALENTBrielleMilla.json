@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "415a1552-7d90-490c-b93b-2ce5dd3554a5",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "236861f2-bdc3-44eb-adf7-517a82a80571",
+  "label" : "TALENT_Brielle_Milla",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-brielle-milla",
+  "type" : "route",
+  "urlPrefix" : "talent-brielle-milla"
+}

@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "f8cdcd1f-680f-41d6-9697-8fe1fdce5ad0",
+  "label" : "DIGITAL_digital_media",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2a40af0f-e7b0-4168-af4b-d1f9f4b39738",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5eeef9d4-7bcf-49e7-a1dd-4154be1c35fc",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;DIGITAL MEDIA&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Harness the power of the Ellen Digital Network to extend your brand’s campaign messaging. Across the expansive network, ELLEN can reach your brand’s desired audience through geographic, behavioral and demographic targeting.&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "95c30eec-b944-4b26-bfbf-4ac129050147",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "58cfde86-1be6-421e-ad0b-8b3be1af8892",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f308a8f1-dc79-4231-a920-2ff320e988ca",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ffdc3bfc-85c7-484d-84d9-be4a5d19d368",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_digital_media"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d1de62aa-6c56-45ae-88e3-9856c604d243",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e03ea5b2-e5b6-4e81-ab6a-97421c370102",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-digital-media"
+}

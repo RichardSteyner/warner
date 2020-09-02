@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "adb82371-1abb-4a57-933a-0fd50586fea3",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "def0d014-08ab-401b-b6a1-64cf825752d9",
+  "label" : "ON-AIR_Tentpole_Episode_OSCARS",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-oscars",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-oscars"
+}

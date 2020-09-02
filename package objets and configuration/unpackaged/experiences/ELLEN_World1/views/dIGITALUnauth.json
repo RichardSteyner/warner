@@ -1,0 +1,142 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "aba949f6-1240-46b5-beca-304b71ffc7c7",
+  "label" : "DIGITAL unauth",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><span style=\"font-size: 14px;\">Welcome to the Ellen Digital Network! What was once just an hour of TV is now billions of videos of highly shareable, hilarious, eventful, and fun content happening 24-hours of the day across ELLEN’s platforms.&nbsp;This powerful platform is an organic ecosystem, bringing together our massive social reach with video, apps and games…and most importantly creating a home for our millions of fans. </span></p><p><br></p><p><span style=\"font-size: 14px;\">How we work: Leveraging Ellen’s massive social and digital reach, we build 360 digital partnerships that are innovative, effective and one-of-a-kind. </span></p><p><br></p><p><span style=\"font-size: 14px;\">Let’s work together! Complete the brand pitch doc below so ELLEN can start ideating on how your brand can come to life across ELLEN’s platforms.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "4b6a1693-9608-4225-91f5-600a1dcb8750",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c908ebd5-b2e1-460a-b8b3-4aaae788dc98",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "NewCase",
+          "isPublic" : true
+        } ],
+        "label" : "Click Here To Submit Your Brand Pitch"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "5add9ed4-c038-4250-8a2a-f3bfb6e35d59",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tabsetConfig" : {
+          "UUID" : "9f215b16-aef3-421d-930e-c4613fbb478b",
+          "activeTab" : "",
+          "useOverflowMenu" : false,
+          "tabs" : [ {
+            "UUID" : "d0a6ea03-0078-4499-806d-8eef472663df",
+            "tabName" : "ellentube Series",
+            "tabKey" : "1",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "216cbf16-d701-45d5-8a30-fa11975a5b34",
+            "tabName" : "Custom Opportunities",
+            "tabKey" : "2",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "c7c01135-f9f2-432f-8b21-d95a671a7cb3",
+            "tabName" : "Digital Media",
+            "tabKey" : "7c2e8",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          } ]
+        }
+      },
+      "componentName" : "forceCommunity:tabset",
+      "id" : "9f215b16-aef3-421d-930e-c4613fbb478b",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p>Through powerful storytelling, ELLEN creates an array of digital-first programming that draws the viewer in and engages them, appealing to all demographics and life stages. Check out ELLEN’s 2020 Slate of Content below!&nbsp;</p><p><br></p><p>Momsplaining with Kristen Bell Season 6</p><p style=\"text-align: justify;\">The Build Up</p><p style=\"text-align: justify;\">Lady Parts</p><p style=\"text-align: justify;\">Not Great with Lauren</p><p style=\"text-align: justify;\">A Decent Proposal with Hannah Hart</p><p style=\"text-align: justify;\">tWitch Please… Help Me Dance</p><p style=\"text-align: justify;\">Life’s First Evers Season 3</p><p style=\"text-align: justify;\"><span style=\"color: windowtext;\">Anyone vs Kid Experts</span></p><p style=\"text-align: justify;\">Can I Come Home Now?</p><p style=\"text-align: justify;\">Do It Scared</p><p style=\"text-align: justify;\">Kiss + Makeup</p><p style=\"text-align: justify;\">Holey Roller on The Road</p><p style=\"text-align: justify;\">We Heart It</p><p><br></p><p>&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "32ce6f26-bc86-4cbe-9542-d8e7b0330031",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "d0a6ea03-0078-4499-806d-8eef472663df",
+        "regionLabel" : "ellentube Series",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p>Leverage the talent of ELLEN’s Emmy award-winning team to produce fun and exciting content inspired by your brand that can be distributed across ellentube, Ellen’s YouTube channel and official social platforms!&nbsp;&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "7cb3b6e6-57b4-4c85-8b52-1776c45fdfe1",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "216cbf16-d701-45d5-8a30-fa11975a5b34",
+        "regionLabel" : "Custom Opportunities",
+        "regionName" : "2",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p>Harness the power of the Ellen Digital Network to extend your brand’s campaign messaging. Across the expansive network, ELLEN can reach your brand’s desired audience through geographic, behavioral and demographic targeting.</p><p>Be Kind Subscription Box. by ellen!: For 17 years, Ellen DeGeneres’ talk show guests, viewers, and audience members have all felt the same unifying experience when they watch The Ellen DeGeneres Show—one that lightens their mood, lifts their spirit, and makes their heart smile. This experience is distinct and undeniable. It’s uniquely ELLEN. To share this experience with people <i>everywhere</i>, Ellen is now curating her very own subscription box: BE KIND. by ellen!</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "0f50607b-7e89-4603-98a4-9e4be91359e1",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "c7c01135-f9f2-432f-8b21-d95a671a7cb3",
+        "regionLabel" : "Digital Media",
+        "regionName" : "7c2e8",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fdbaa46d-94df-4e3c-96db-684776f4d089",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "353b1333-4510-4d57-af36-3fc48cf6e68e",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "821acb44-caaa-46ba-817c-633749b56401",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "553eb473-207f-4b35-b50c-6ff8c4c0db84",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital"
+}

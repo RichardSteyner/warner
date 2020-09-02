@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "2f977f8d-de80-4321-8cc4-88464de60626",
+  "label" : "DIGITAL_ellentube_series_Young_Dylan’s_M",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "00a13977-b6bb-4d68-81dd-0e59d8e0a8f5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "020e266b-316d-4214-a8b4-c891bbdb6632",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;YOUNG DYLAN'S&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\"> MIXTAPE&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Introducing the newest member to ELLEN’s talented roster of kids, Young Dylan! This adorable 10-year-old rapper and style icon from Annapolis, Maryland has been surprising and delighting viewers! Young Dylan is so popular among ELLEN’s audience that his clips from The Show have garnered over </span><b style=\"font-size: 18px; color: black;\">76 million</b><span style=\"font-size: 18px; color: black;\"> cross-platform views. Now that’s a ton of eyeballs tuning in!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Just this month, Young Dylan’s all-new ellentube series, Young Dylan’s Mixtape, dropped featuring the talented superstar Cardi B and was an immediate hit garnering over </span><b style=\"font-size: 18px; color: black;\">2.7 million</b><span style=\"font-size: 18px; color: black;\"> views on Facebook alone!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a8a7792e-2e90-4ca9-a538-5f44689eda37",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "02479da6-bec8-46e8-9d02-0b9725e37e1d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "91459823-f7b6-4d57-9cd8-ab6aa224f953",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Logo_Isolated_Young_Dylans_Mixtape.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "7475346c-0253-4145-990f-b7c1033827dd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fffbd7fe-eced-4386-a905-a49dd8f2d15a",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "0a4840fe-6334-468c-8898-3300f0464b3c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d0d37bfa-e09c-46ce-958a-8fcb73476c56",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5ed41cd7-e597-4fa5-8500-8c8ca2c857ce",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-young-dylans-m"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "b5f0f16d-cf6f-4c5d-b87d-36aedec47286",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "7ce9916c-a8a8-47e6-82fa-6743dd8978e5",
+  "label" : "DIGITAL_ellentube_series_Momsplaining",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-momsplaining",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-momsplaining"
+}

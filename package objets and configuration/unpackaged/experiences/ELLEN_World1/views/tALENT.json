@@ -1,0 +1,68 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "b0758b43-dfad-4df6-b1e8-1d31f61ea25c",
+  "label" : "TALENT",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "38fe672a-65c3-4aeb-a1ad-b2db229ae2bf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f9d47816-7edc-41f4-b273-afc33dd8ead8",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "TALENT"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "bce277a8-5c7e-4adc-a53d-6f72645ae2b1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "80844944-bca9-4d9e-afe4-2bf93c822659",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0843f57f-8111-43dd-93b9-dabe765d2e3b",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "bfc168a7-2360-435d-bfdc-9c51e04e709e",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "881f6b11-ac71-4af3-abf5-1153c92b08f3",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4d0c99a9-79b2-461e-86cd-6de6cd359f67",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8131b260-6aba-43c2-b966-90f413ded263",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent"
+}

@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "452c2136-cfbc-47fa-8e53-dea4ea273905",
+  "label" : "Momsplaining Test",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_GENERAL_BANNER.1}\" width=\"1373\" height=\"191\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "874fc517-2024-4d0b-bdf1-2fe55c98d09b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "001d085d-98d6-453d-a65d-7715a59f86c9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ab3b5d9b-53a6-4e9e-8c1b-8251336218d9",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><b style=\"font-size: 20px; color: black; background-color: rgb(255, 255, 255);\">Momsplaining with Kristen Bell Season 6</b></p><p><br></p><p><span style=\"font-size: 18px;\">Co-produced by Ellen DeGeneres and Kristen Bell, Momsplaining is ellentube’s Emmy-Award Nominated, top performing digital series!</span></p><p><br></p><p><span style=\"font-size: 18px;\">Season after season Momsplaining continues to make a real difference in viewers’ lives regardless if they are a parent or not, because it offers an unfiltered glimpse into the ups and downs of what it takes to raise tiny humans with a few tips along the way!</span></p><p><br></p><p><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p><p><br></p><p><br></p><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "ef0dbdcf-8766-4813-97f7-e4866db93467",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5d91ab48-c531-49fd-8043-c202443895dc",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OP9TIAW",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "c89e0182-c07b-43d5-bf7a-f1781079e4df",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6e8dc4a7-ca7d-44a0-b995-9fe7ee54319b",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "ab019160-81a2-4be2-b386-cc9346affd4f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Momsplaining Test"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4c324beb-fb00-409a-9968-d18c8dd18688",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a95042f7-6b98-4047-921a-fcd2795da49a",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-momsplaining-test"
+}

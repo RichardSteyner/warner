@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "b2d56f27-c1b1-495b-8209-2553220a8d21",
+  "label" : "ON-AIR_Tentpole_Episode_GRAMMYS",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "8d078b36-ed76-4ec8-b515-090202aa6b91",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bdcdd24f-eebc-429c-9860-6df477a4e997",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">FEBRUARY</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;GRAMMYS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN celebrates the best artists with a special GRAMMY-themed episode full of musical moments surrounding the biggest night in music!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "08b145d2-c227-4f49-977d-09b4fc508d06",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "8c57d397-c9d8-4a0c-b94b-cc0615e1e999",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f0815b16-19a8-43ab-93db-0b8eb0f8f7ab",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "5471a116-f7b5-423d-a9a5-eef0241d9932",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "df003a0b-6176-4a3e-921c-9a63f8f99a07",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9d83cb02-f7ee-4631-9293-c8d6ced4de38",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Grammys.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a51dceba-14f2-478d-bba8-933ce699b7f1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "970db15e-2910-4f43-a9d2-c544e22c834c",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-grammys"
+}

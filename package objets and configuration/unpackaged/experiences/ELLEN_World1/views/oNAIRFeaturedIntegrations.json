@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "d8928326-6998-4eda-964c-001986e4295c",
+  "label" : "ON-AIR_Featured Integrations",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e06ad26a-ca6b-4c44-a9d9-4dcdf31e759f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "daf569ea-b64b-4c21-93f6-a843812042ae",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">ON-AIR</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(102, 163, 224); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;FEATURED INTEGRATIONS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The Ellen DeGeneres Show is known for signature observational comedy that is relatable to everyone. Our Emmy Award-Winning writers have created custom segments for brand partners that weave marketing messages into the DNA of The Show. These&nbsp;Featured Integrations are the most robust type of integration and give brand partners the opportunity to educate ELLEN fans while keeping them wildly entertained. As part of the custom segment, ELLEN surprises and delights her in-studio audience with a giveaway from your brand, giving The Show an opportunity to make your brand the hero while closing the segment with joy and excitement!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">In addition to your brand’s robust linear segment, all featured integrations include a digital distribution plan to further extend reach of your brand's messaging.</span></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "71a5c3d0-290f-4895-be04-71e48206d0e9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "17ce0d33-c22a-4e88-a423-367861f21950",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3b1102c4-46aa-4bb1-ad20-3afbd957b788",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "430527af-b3d4-458f-807a-1540aa88d32a",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Featured Integrations"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "dbb347c9-d809-4f83-b52f-710a7c8e0ea2",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "582dc786-82a9-4546-a28c-fd46e078f58f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OfwWIAS",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "0f171e71-4726-4ce3-9018-20a50f4a3763",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "43f43098-443d-4a54-8577-eadff1d912fa",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-featured-integrations"
+}

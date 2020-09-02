@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "1778f7b1-ddc5-431f-8527-831a2a909c2a",
+  "label" : "ON-AIR_Tentpole_Episode_HALLOWEEN",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5670cd18-1027-421c-9604-1327a0552d61",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a3ac475a-d14a-4499-9cbe-68e3ce4fdcd2",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">OCTOBER</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;HALLOWEEN&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">From celebrity scares to Ellen and her entire audience in outrageous costumes, the Halloween Episode is full of viral, spook-tacular fun!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "394a56c9-bbab-4a19-be48-7304c59cf6a6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "39cf3131-83c0-494b-8d39-3b8367e0a3cf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1eaaca18-6dfb-4fff-9fbf-5a2b0d88fc42",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "0a5a81e6-eff0-4b74-9d9b-41c181bbf3ec",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b3318ec5-9531-43d9-bd66-bf6be9f7f31a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4afc119c-4439-46dc-965a-ee3108618514",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.GeicoHalloween.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a76d0129-3449-4b7c-9b8f-d7373c46399c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "86558bb0-a86f-4e8e-9f2a-2c799050debc",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-halloween"
+}

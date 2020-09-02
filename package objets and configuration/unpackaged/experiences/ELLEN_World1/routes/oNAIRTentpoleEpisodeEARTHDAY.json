@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "c16ac8dd-9fbe-4c5a-bae7-17022cc1c7b9",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "ed9b6b6d-3e6e-4b03-a36d-8569f0025861",
+  "label" : "ON-AIR_Tentpole_Episode_EARTH_DAY",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-earth-day",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-earth-day"
+}

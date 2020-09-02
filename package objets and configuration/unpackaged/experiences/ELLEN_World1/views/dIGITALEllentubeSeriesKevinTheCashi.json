@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "7b41fb28-a0fd-4679-8083-3da6ad4d074b",
+  "label" : "DIGITAL_ellentube_series_Kevin_the_Cashi",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "86a69909-d86f-48da-b546-17f84b15b7bd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3e8ca194-eae0-4786-8473-b8ec2912426d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;KEVIN THE CASHIER </b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\"> PLAYED BY ADAM&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Fans around the country know Adam Yenser as the beloved comedian and Emmy Award-winning writer for The Ellen DeGeneres Show. On top of appearing on Conan, having written for the Oscars, and being a freelance contributor to SNL’s Weekend Update, Adam is known for his sharp observational humor in the popular, recurring hidden camera segment on The Ellen DeGeneres Show, Kevin the Cashier Played by Adam.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">In this laugh-out-loud segment, Ellen sends her favorite prankster to stores disguised as a cashier. Hilarity always ensues as Adam gives unsuspecting guests more than what they bargained for during their shopping trips.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">This segment has garnered millions of views and laughs, which is why ELLEN is excited to spread the hilarity even further by creating the first-ever, standalone Kevin the Cashier Played by Adam digital-first series.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">In this new digital series, the ELLEN will lean into Adam’s comedic expertise in retail environments, but also look forward to taking Adam to new places, which could include: theme parks, restaurants, schools, stadiums and more. Perhaps your brand will inspire the next Adam ambush!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">If your brand is looking to align with fun, water cooler moments that reach a mass demo, we look forward to working with you on this new season of Kevin the Cashier Played by Adam.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e7cae6c8-3926-41b1-bf40-207c96d84a5d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "83d64dd7-3377-4f9a-96e6-b0287b71e540",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0f512cc1-a86b-4ae5-b636-e7d84f55c9e8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Kevin.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1ee7b814-4c1a-49f5-baf4-00c859ee274a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2e36597a-a8ee-4f1a-ac0e-4941f25c4d49",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "c68752e0-d6aa-472a-9ca2-491c46352176",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "fac4e074-4d6e-44ae-8a8a-8334f7e62b9f",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ab3552a9-4ae4-486c-820d-2052cda7a3ab",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-kevin-the-cashi"
+}

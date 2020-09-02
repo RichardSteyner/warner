@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "e47c2d5a-6050-4d99-839d-2ed83d13b482",
+  "label" : "TALENT_Nandi_Bushell",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "604a15a2-b31e-4dcf-9258-3442bebf241b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "61933108-8f8e-40ea-8540-58384ec1f98e",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Nandi.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "47cf36f2-953a-4a66-8381-c01f8bee0845",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c47f5301-0fbf-475a-958e-961e28c3f161",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "0df22a30-f952-49f0-98ba-6cafdfc7ba2b",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "7cbd5c04-1d92-44f3-8652-a940ce883b19",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "43cc37c6-7bee-4edb-b89e-77be2b07bbf4",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;NANDI BUSHELL&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Nine-year-old drumming sensation Nandi Bushell’s got the beat, alright—she also has the attention and admiration of real-life rockers including Questlove and Lenny Kravitz, who she got to jam with in London last year. Inspired by Ringo Starr to pick up the sticks at just four years old, the Ipswich, England native has achieved viral fame (more than 16.1 million views) on social media after uploading her cymbal-crashing, scream-singing, face-beaming covers of Nirvana, Prince, The Police, Rage Against the Machine, and more. Nandi was gifted a guitar by Ellen during her first appearance on The Show last year, and fans can’t wait to hear what’s next from the musical prodigy.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "fdcc958c-b2a1-4624-a7fd-ef27fe791bbb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "cc2e5e15-0438-432a-8557-b80d1174c909",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "442ff0b4-429e-4d57-a77e-454438c04941",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-nandi-bushell"
+}

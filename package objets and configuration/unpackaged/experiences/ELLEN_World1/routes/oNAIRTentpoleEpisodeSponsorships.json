@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "65a4a077-171f-4d90-92ef-10096329fbbc",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "d3dea7dc-04a0-4b93-abd0-618fb31aa4ac",
+  "label" : "ON-AIR_Tentpole_Episode_Sponsorships",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-sponsorships",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-sponsorships"
+}

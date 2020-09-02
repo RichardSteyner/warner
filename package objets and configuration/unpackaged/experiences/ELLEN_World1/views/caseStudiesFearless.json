@@ -1,0 +1,77 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "cb593131-906f-4c07-a905-29bfa35f97ba",
+  "label" : "Case_Studies_Fearless",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_GENERAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0e5075e9-1780-46e5-8129-0b39fbbe63ed",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f97eafa1-2ee0-4833-9d17-269fa1ed9445",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "FileName1" : "069R0000001Ox8FIAS",
+        "Title1" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "4acfecc3-dbdf-4525-8577-84a2a6781d72",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "24ac6441-0e47-4a44-b334-ba43e43e659f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(194, 133, 255); font-size: 18px;\">CASE STUDY</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(194, 133, 255); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;FEARLESS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Where do you go when you want to launch a campaign to change lives? Through a strategic partnership with Total Wireless, we were able to break through the clutter of the big four carriers and build more awareness for total wireless around the total confidence messaging. Here’s what we did.﻿</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "494b3144-6dc2-4042-9184-3bde9d1172e2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "85cd4d55-6fe2-4c52-b0a2-6e8f0ea1f22a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f145d2b2-c8ca-4813-9689-9b2c2d7c5d58",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "02f1355b-f731-4c4f-a847-dc5ed86cbeac",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "Case_Studies_Bubby"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "f35c1d56-e540-44b8-a521-809b322a5815",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "349fb761-d0b1-4b2e-bf39-0c1db0aac507",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-case-studies-fearless"
+}

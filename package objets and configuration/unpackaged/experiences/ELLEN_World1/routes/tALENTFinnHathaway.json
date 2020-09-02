@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "a3f7f17f-44a7-4636-a241-2b0d36f78d1b",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "c9275250-1a18-4a88-85a3-e80c462016b4",
+  "label" : "TALENT_Finn_Hathaway",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-finn-hathaway",
+  "type" : "route",
+  "urlPrefix" : "talent-finn-hathaway"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "43a7d6d0-4fdd-49ec-bca8-5c5cf48ee1ef",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "46d7f666-34d6-49ef-a655-3abe0b829784",
+  "label" : "DIGITAL_custom_social_posts",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-custom-social-posts",
+  "type" : "route",
+  "urlPrefix" : "digital-custom-social-posts"
+}

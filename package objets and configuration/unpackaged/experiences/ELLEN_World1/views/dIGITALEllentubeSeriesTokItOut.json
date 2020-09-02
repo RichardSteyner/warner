@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "2c107c03-bacb-4a85-9a6a-45fb7bc85a0c",
+  "label" : "DIGITAL_ellentube_series_Tok_it_Out",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b15d1589-91bd-4582-8495-24eb0b6c036c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "106226e0-13ae-4c85-86e0-3727ba29da62",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;TOK IT OUT&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">What started off as simply another way to share and create memes, internet challenges, and dance videos has caught on like viral wildfire, especially with Gen Z and millennials, but also with celebrities, influencers, and leading brands. Yup, we’re talking about video-sharing platform TikTok, currently the world’s fastest-growing social media app and a major hit with the ELLEN audience (seriously, we had them at the word “dance”).</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">The global obsession with creating and watching these short, funny, and strangely addictive videos isn’t stopping anytime soon — and neither is the never-ending FOMO among people of all ages. That’s why no one can afford to miss Tok It Out, a curated roundup of the app’s hottest pass-it-on moments and trends. Distributed across social platforms and ellentube.com, this weekly digital series will feature different viral buzz-makers breaking down their top five faves, making it a regular destination for viewers who want to stay in the know…or just dance like no one’s watching!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a51e664b-3538-49d3-9e86-7b03ab4d1c5c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "911b3083-b5af-447d-b16b-bd9ed729fbe6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4a8061c9-4fbd-4d16-806f-60039abc2a32",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Logo_TOK_it_Out_White_Version.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "fe3bcd57-43bc-455b-bb0b-89438542ba6a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "73c80e3e-45d6-45a7-8f24-d33800ead551",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "1558b545-cce9-4347-bf95-cea943faab2d",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "0b0fe1b4-c1e1-46e3-9357-fecd5490099d",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e0cb86f6-5582-4392-9a3d-953bf7964b88",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-tok-it-out"
+}

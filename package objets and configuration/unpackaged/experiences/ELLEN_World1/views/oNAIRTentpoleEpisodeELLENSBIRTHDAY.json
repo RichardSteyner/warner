@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "a2a1698f-29f7-4967-bddb-6e1573117410",
+  "label" : "ON-AIR_Tentpole_Episode_ELLEN’S_BIRTHDAY",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b3b0efdb-8e2c-4b25-bb2c-345b63e071ab",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3e236e70-092c-40d1-a002-3d3b5462ed6f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">JANUARY</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;ELLEN'S BIRTHDAY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Ellen’s annual Birthday Show is always an incredible party! Join in on the birthday fun as we help Ellen celebrate her birthday!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "213d00ec-c630-4f3a-8a01-65f08dcb8d51",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "1cdd308b-4109-430d-9a12-30f0826a08d3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e7b6ac54-cef2-4b72-96c6-80f3807fa3f4",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ffdd699a-a262-49a7-9dc5-67255695cc45",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "fcd83ccc-21f8-4f63-8df3-ca6fe8410586",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3ed5ca4c-7908-439c-9e25-29eea38ae389",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Ellens_Birthday.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "dc945552-6b9a-408a-ad22-911cbfce94e0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f811e6ff-adfe-4352-9a71-2351994ccd9e",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-ellens-birthday"
+}

@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "43a7d6d0-4fdd-49ec-bca8-5c5cf48ee1ef",
+  "label" : "DIGITAL_custom_social_posts",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1dc3ef57-da9c-41b0-99a9-a26aa5ec0d71",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "df410844-746f-4ca2-98b2-293bd8e61f37",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;CUSTOM SOCIAL POSTS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN has a tremendous massive reach with over </span><b style=\"font-size: 18px;\">195 million </b><span style=\"font-size: 18px;\">followers across Facebook, Twitter and Instagram. Let’s leverage her massive social audience for your brand with a series of snackable social pushes!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Ellen will drive massive awareness to her robust social audience through a series of custom, snackable, and super shareable posts.</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">By inserting advertisers into the world of ELLEN, your brand can align with ELLEN’s signature style of comedy all while harnessing the power of her social reach to keep your brand top-of-mind as they scroll through their social feeds!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5be6cf0e-4560-4350-a399-9a48f71bff9f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "195cf03c-831a-4dd7-8917-c15eb23a98e1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a3ed643f-197d-4253-925a-7452dbbc2e81",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "1895211b-0ff3-4693-bd90-b56dace5889c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_custom_social_posts"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "26f7ccae-707e-4cd0-aa5c-f91449c09421",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2a873fa4-4599-4c96-914c-2a861a012789",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-custom-social-posts"
+}

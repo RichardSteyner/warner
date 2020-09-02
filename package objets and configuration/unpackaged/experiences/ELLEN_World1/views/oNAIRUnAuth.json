@@ -1,0 +1,103 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "id" : "16e4194c-3789-43c5-b0f8-e7fc57db5667",
+  "label" : "ON-AIR_UnAuth",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><span style=\"font-size: 14px;\">Welcome to The Ellen DeGeneres Show! For 17 Seasons, ELLEN has been creating heartwarming, hilarious and unforgettable moments that surprise and delight our millions of viewers. Through a variety of offerings such as a Featured Integration, or a tentpole episode sponsorship, ELLEN can integrate your brand within the DNA of The Ellen Show. We work between the brand and The Show’s writers and producers to activate integrations against your brand’s objectives. </span></p><p><br></p><p><span style=\"font-size: 14px;\">Let’s work together! Complete the brand pitch doc below so ELLEN can start ideating on how your brand can come to life across ELLEN’s platforms.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b60dc1cd-6252-428e-b6a5-ffa6ca807f2d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3a93dc36-f070-4ca9-8e2f-51f63a3eead8",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tabsetConfig" : {
+          "UUID" : "e822f4d1-e8bd-477e-9e5c-05fa77440e30",
+          "activeTab" : "",
+          "useOverflowMenu" : false,
+          "tabs" : [ {
+            "UUID" : "27069ccf-6ded-4e04-8d71-70cb8f350980",
+            "tabName" : "Trade-Out",
+            "tabKey" : "3",
+            "locked" : false,
+            "allowGuestUser" : true,
+            "seedComponents" : [ ]
+          } ]
+        }
+      },
+      "componentName" : "forceCommunity:tabset",
+      "id" : "e822f4d1-e8bd-477e-9e5c-05fa77440e30",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p>Whether its Ellen’s iconic 12 Days of Giveaways or the Mother’s Day tentpole episode, Ellen loves to spoil her fans! Over the course of a Season on The Ellen DeGeneres Show, Ellen gifts her audience with jaw-dropping prizes and trips! We invite your brand to be a part of these big moments on-air through trade out opportunities!&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "5d1760d1-e6e1-47c3-8f1c-db9c4d944c07",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "27069ccf-6ded-4e04-8d71-70cb8f350980",
+        "regionLabel" : "Trade-Out",
+        "regionName" : "3",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "86d4458d-55aa-47d4-a47c-a4236bc6b4b1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "c65c70fd-b6fb-4536-a83c-dee550b0f132",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "09f83389-33a7-4f9d-8a41-c31f19f43a3e",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "24109d0d-fd02-4c4f-926f-7bcb1bc8d44c",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "NewCase",
+          "isPublic" : true
+        } ],
+        "label" : "Click Here To Submit Your Brand Pitch"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "e69e3116-0e88-4cdf-9675-01b370199ba8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "df6035d8-a420-4b66-9e92-bd52ed4f6dc3",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air"
+}

@@ -1,0 +1,73 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "ae20edd9-f8ce-4261-98b5-68a7becbc83c",
+  "label" : "MOBILE GAMES_ELLENS_Game_of_Games",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_MOBILE_GAMES_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "120f80a5-5ce1-46ed-bd72-0cd39bb09216",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a4cbadba-e67f-431e-953e-19b6514ff4ac",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(107, 36, 178); font-size: 18px;\">MOBILE GAMES</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(107, 36, 178); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;ELLEN'S GAME OF GAMES&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Ellen is the ultimate destination for fun, family-friendly games that deliver emotionally rewarding experiences for players. That’s why ELLEN created a mobile game where users can play their favorite games from Ellen’s hit primetime NBC show, </span><i style=\"font-size: 18px;\">Ellen’s Game of Games.</i></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">&nbsp;</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">This app is played like Ellen’s hit game show. Challenge other players live to trivia games like Make it Rain or One Eyed Monster for the chance to become the champion of </span><i style=\"font-size: 18px;\">Ellen’s Game of Games</i><span style=\"font-size: 18px;\">! ELLEN presents two first-to-market opportunities, check it out!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f0685f09-1534-421b-ab40-e730604e6381",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tileMenuEditor" : "Ellen_s_Game_of_Games"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "4fb46816-54c6-452a-8aa0-236419110731",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "f9b57cfe-b28a-4527-8689-28a30ef4c931",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "34158217-a508-431c-9e70-f2a58fb07022",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "6e49d07f-3c17-48bf-9e84-ff69bbde1efd",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "MOBILE GAMES_ELLENS_Game_of_Games"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "e597e216-df6d-4b5a-9ff9-56463ae07dcb",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "206c0c72-c8ac-4563-9a7e-4f4b4ae77ae7",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-mobile-games-ellens-game-of-games"
+}

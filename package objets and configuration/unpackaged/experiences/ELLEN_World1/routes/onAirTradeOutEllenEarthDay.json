@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "771c942a-556b-4acb-9082-1de762c5769a",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "daa48fa7-86ad-4323-aaf6-c6577bd42da8",
+  "label" : "on-air-trade-out_Ellen earth day",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-trade-out-ellen-earth-day",
+  "type" : "route",
+  "urlPrefix" : "on-air-trade-out-ellen-earth-day"
+}

@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "ec9aaa95-c56e-4f9f-9290-f72424f8bfdb",
+  "label" : "DIGITAL_ellentube_series_Date!_My!_Frien",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "119607c0-141e-4dcc-a9fc-70b7929792ee",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1712e2e3-93b9-47c7-8d3d-69e13497a5c7",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;DATE! MY! FRIEND!&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">It’s got influencers. It’s got a tribe of besties. It’s got social media and it’s smartphone-savvy. It’s Date! My! Friend! — a digital dating show for the way we match-make and relate in 2020.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Each episode of this new ellentube original series focuses on a popular YouTube personality (think Vlog Squad’s Matt King and David Dobrick or YouTubers Emma Chamberlain and Elle Mills) who is single and ready to mingle. Because they may have exercised poor relationship judgement in the past, they’ll hand over the reins to the pals who know them best; the wingmen/women will identify the best potential matches through deep dives through their phones, intense questioning based on some serious social media creeping, and whatever else it takes.&nbsp;</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Once a match is chosen, an epilogue vlog will present a sizzle reel of the date’s highs and lows, as well as selfie videos revealing whether a second date (and true love?) is in their future.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a4d45475-4d0a-451f-8ac7-6565e93c1e06",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "e2b8318d-49e6-4cd1-9b96-4579d147577d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fa97599f-81d1-48b2-9c4c-68db9f856cf6",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Date_My_Friend_Mock_Logo01.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1003a661-2a37-4954-8eee-9ca9f1f410b2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f6d84ab6-a682-46c8-adf3-d1d0930a25ec",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "ee668f05-548b-43fb-9d4e-a69b4b5466c2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "3c2e8403-fa08-47af-9b4b-f95de7f43272",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b5ebf994-c2ff-49f9-9177-032b279caf3c",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-date-my-frien"
+}

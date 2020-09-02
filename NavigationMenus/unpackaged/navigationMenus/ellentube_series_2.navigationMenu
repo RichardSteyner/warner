@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NavigationMenu xmlns="http://soap.sforce.com/2006/04/metadata">
+    <container>ELLEN World</container>
+    <containerType>Network</containerType>
+    <label>ellentube series 2</label>
+    <navigationMenuItem>
+        <label>WE HEART IT</label>
+        <menuItemBranding>
+            <tileImage>We_Heart_It</tileImage>
+        </menuItemBranding>
+        <position>1</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-weheart</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>AVERAGE ANDY</label>
+        <menuItemBranding>
+            <tileImage>Average_Andy_Title_Still</tileImage>
+        </menuItemBranding>
+        <position>2</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-average-andy</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>RICO&apos;S RANDOM ACTS OF KINDNESS</label>
+        <menuItemBranding>
+            <tileImage>rico</tileImage>
+        </menuItemBranding>
+        <position>3</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/account-management</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>FEARLESS WITH ASHLEY GRAHAM</label>
+        <menuItemBranding>
+            <tileImage>fearless</tileImage>
+        </menuItemBranding>
+        <position>4</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-fearless-with-a</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>KEVIN THE CASHIER PLAYED BY ADAM</label>
+        <menuItemBranding>
+            <tileImage>Kevin</tileImage>
+        </menuItemBranding>
+        <position>5</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-kevin-the-cashi</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>FEMPIRE WITH AYESHA CURRY</label>
+        <menuItemBranding>
+            <tileImage>Logo_Ayesha</tileImage>
+        </menuItemBranding>
+        <position>6</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-fempire-with-ay</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>THINK TANK</label>
+        <menuItemBranding>
+            <tileImage>think_tank</tileImage>
+        </menuItemBranding>
+        <position>7</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-think-tank</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>DATE MY FRIEND</label>
+        <menuItemBranding>
+            <tileImage>Date_My_Friend_Mock_Logo01</tileImage>
+        </menuItemBranding>
+        <position>8</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-date-my-frien</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>TOK IT OUT</label>
+        <menuItemBranding>
+            <tileImage>Logo_TOK_it_Out_White_Version</tileImage>
+        </menuItemBranding>
+        <position>9</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-tok-it-out</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>AIDAN&apos;S MAGIC CORNER</label>
+        <menuItemBranding>
+            <tileImage>Titlecard_Logo_Isolated</tileImage>
+        </menuItemBranding>
+        <position>10</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-aidans-magic-c</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>YOUNG DYLAN&apos;S MIXTAPE</label>
+        <menuItemBranding>
+            <tileImage>Logo_Isolated_Young_Dylans_Mixtape</tileImage>
+        </menuItemBranding>
+        <position>11</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-young-dylans-m</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>OMKALEN</label>
+        <menuItemBranding>
+            <tileImage>Logo_Alpha2</tileImage>
+        </menuItemBranding>
+        <position>12</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/digital-ellentube-series-omkalen</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+</NavigationMenu>

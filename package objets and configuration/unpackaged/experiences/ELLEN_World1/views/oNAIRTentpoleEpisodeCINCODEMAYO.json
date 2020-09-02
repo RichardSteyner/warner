@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "4208878f-cb16-4d2e-8df4-cbad0fc40898",
+  "label" : "ON-AIR_Tentpole_Episode_CINCO_DE_MAYO",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a6675648-463e-450b-bfda-f856b92fe3d3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6e3c5110-17e0-457b-bdaa-0be630bb2d85",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">MAY</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;CINCO DE MAYO&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">This May, ELLEN will celebrate Cinco de Mayo by breaking out the margaritas and the guacamole for a festive fiesta for all to enjoy!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "25af8c85-2272-47c3-8812-3c707ba3ccd6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "72f555b0-7b3f-4020-a01a-b8b14706bfe4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3a700569-b870-41b6-b23d-19bbabebd8fa",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "21cd5380-679f-48c4-a184-cfe16ed7ef0c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "27fd9f4a-4e77-49ef-b94a-65a9518d5992",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "44f8e762-5112-4514-a7a0-a115dc1c8e07",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.asset_5_Second_RuleCinco_de_Mayo.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f1552dce-752c-480c-980e-99f94e7148b8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "636dfedf-45b6-421b-b826-f9394945df07",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-cinco-de-mayo"
+}

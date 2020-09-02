@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "eeeba326-826f-4d13-85d5-b177d2363512",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "6d246f7c-2e0b-46e7-811b-542e74a6cefb",
+  "label" : "TALENT_Kym_Douglas",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-kym-douglas",
+  "type" : "route",
+  "urlPrefix" : "talent-kym-douglas"
+}

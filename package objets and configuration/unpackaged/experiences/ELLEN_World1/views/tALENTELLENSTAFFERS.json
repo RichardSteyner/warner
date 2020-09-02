@@ -1,0 +1,47 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "870778ee-82e9-44e3-9858-3d5dd7a11848",
+  "label" : "TALENT_ELLEN_STAFFERS",
+  "regions" : [ {
+    "id" : "19afa2a3-ebdc-42c8-8270-6782f03544f0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "ELLEN_STAFFERS"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "b7d3ae24-15b0-4172-b32a-1ce76c077e00",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "386df1ec-9bef-4979-a6b8-f774221a72d8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "f88653a3-0102-4fe0-a339-bc2cdc0a20f0",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_ELLEN_STAFFERS"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "6055c473-3884-4e1a-a9c8-c305c9605f87",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "627b3be7-54f7-4c26-99da-bba0c2df58fd",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-ellen-staffers"
+}

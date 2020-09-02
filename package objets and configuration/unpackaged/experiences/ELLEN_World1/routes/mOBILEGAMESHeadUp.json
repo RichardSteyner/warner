@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "f410c5da-52bb-4b32-bd2d-03c93825bc54",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "8e4362bf-359d-46ac-84c9-cbd3d3684979",
+  "label" : "MOBILE GAMES_Head_Up!",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-mobile-games-head-up",
+  "type" : "route",
+  "urlPrefix" : "mobile-games-head-up"
+}

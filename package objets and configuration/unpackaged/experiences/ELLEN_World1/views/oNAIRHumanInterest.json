@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "a8dd4cfd-6ce2-47de-a18a-4f889dd47e64",
+  "label" : "ON-AIR_Human_Interest",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5047c027-757e-4787-9b43-2626f67a4773",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "46bf5674-b656-41f6-b6e7-3d7b4b7351c4",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">ON-AIR</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(102, 163, 224); font-size: 36px;\">&nbsp;&nbsp;HUMAN INTEREST&nbsp;&nbsp;</b></p><p><br></p><p><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The Emmy Award-Winning producers of The Ellen DeGeneres Show have discovered the most heart-warming and compelling human interest stories. Let us bring your marketing objectives to life through these intimate television moments by making your brand the hero of the segment. Our producers could cast a story that aligns with your brand, creating an organic moment for your messaging to be woven into the payoff. Whether it is a new car, a life-changing check or a much-needed vacation—ELLEN fans will celebrate the generosity of the brand making their dreams a reality.<ins> </ins><del> </del>The good feelings won't stop when the integration airs, because your brand will enjoy a digital distribution plan inclusive of social and digital media support</span><span style=\"font-size: 14px;\">.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a703801e-c918-473b-8606-e91ba9f73584",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "fa02c60d-026f-4ac0-b948-ab565ef1506f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b7e4fe76-02b2-499b-842c-851dee42e099",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "d0894c7f-98d3-4761-a197-aeb6dd209590",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Human_Interest"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "aa0c1afa-a844-4d05-bf84-6d20862806f1",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0b02a01f-d55b-4cd7-b638-b50f4abf015b",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OiSAIA0",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "37190f16-1adb-4c1f-bf08-748a43262e11",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4adb13d7-0f2b-4a13-968e-38993ff2fc60",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-human-interest"
+}

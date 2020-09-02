@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "5f4cc714-8105-4bfc-ae13-0751b6176411",
+  "label" : "ON-AIR_Tentpole_Episode_Ellen’s_Skybox",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "77fd0c12-0095-44e0-9ba1-d32003bd9cb4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d47ef57a-2825-455b-af7e-ae0bfa251a61",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">EVERGREEN</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;ELLEN'S SKYBOX&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">In Season 14, ELLEN unveiled a one-of-a-kind Skybox perched above the studio audience! This exclusive space offers a VIP view of the Ellen stage, and has become an integral part of the ELLEN landscape.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "cad1c0cf-c4bc-4615-9457-b191b5ec5f47",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "96272ff0-71a2-485d-b4c2-b7af39f3176e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "be74727d-d14a-46be-9581-cb6c21b360f1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "4f1861fc-6d6f-4eba-9886-e9f38ab95b52",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "144e150a-0fa4-4b53-a4dd-2f20cc1fc841",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c8832927-794c-41fa-b8cc-eaff7de1a9f2",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.GeicoSkybox.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1b2e6191-ab4e-4678-9dc2-660b032de57d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6104f2e8-9a57-4bd1-a1a0-e1c84f76cc32",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-ellens-skybox"
+}

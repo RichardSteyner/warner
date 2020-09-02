@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "b9b4ebc9-2a24-4a64-87bd-ed960dc41c40",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "bc9a5e9c-6120-4c86-87a7-686985071aca",
+  "label" : "TALENT_Kid",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-kid",
+  "type" : "route",
+  "urlPrefix" : "talent-kid"
+}

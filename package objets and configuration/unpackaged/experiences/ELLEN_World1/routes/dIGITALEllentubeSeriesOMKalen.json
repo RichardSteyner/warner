@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "672c54d2-aced-49bc-a66c-353ca463dd80",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "e0161beb-abcd-4a17-b62e-f2b7ef3eafd7",
+  "label" : "DIGITAL_ellentube_series_OMKalen",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-omkalen",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-omkalen"
+}

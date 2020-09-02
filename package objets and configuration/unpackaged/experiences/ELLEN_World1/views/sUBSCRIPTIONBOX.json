@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "c817a74c-16cf-4829-a382-7d04825bc946",
+  "label" : "SUBSCRIPTION BOX",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_BOX_BANNER.2}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b4ab05c1-528c-42fb-840e-ce25c89e29b3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "444cea82-62b9-4955-b285-be13abc03d8e",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Ellen thoughtfully crafts each quarterly box filled with </span><b style=\"font-size: 18px;\">5 to 8</b><span style=\"font-size: 18px;\"> </span><b style=\"font-size: 18px;\">products she loves that do something kind for the world. </b><span style=\"font-size: 18px;\">Ellen’s quarterly box spreads kindness by spotlighting brands who do the same. The box is the ultimate place for fans to connect with Ellen.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">Upcoming Boxes:</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Fall 2020</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Launching September 2020</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Holiday 2020</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Launching December 2020</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Spring 2021</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Launching February 2021</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "bc9eb8ed-05d5-439a-94db-c23475d09a7e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "32c1c315-064a-45e3-96ab-bd59aa738a31",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "639d4c00-0f4e-4c30-95df-09ece1c9d69d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Sub_box.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "362be0e4-4570-4e65-a02b-70f58541dc2e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d8b8decb-581e-4e72-84e9-a8b22abdd3b6",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "1a5ba5c3-77d7-4957-a41f-b6258657e26c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "SUBSCRIPTION BOX"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "72bfcc07-353d-4c46-b44b-2137ac7f8892",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "876d310a-412a-4632-b2e2-165a6e209aa7",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-subscription-box"
+}

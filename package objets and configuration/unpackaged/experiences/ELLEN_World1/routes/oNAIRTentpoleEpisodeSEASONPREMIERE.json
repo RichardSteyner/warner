@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "3606ffd4-a769-4669-a67f-bd3fe3fc1f15",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "06d492a7-fc30-485d-a639-fc8efcb6e2cf",
+  "label" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-season-premiere",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-season-premiere"
+}

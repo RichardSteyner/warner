@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "dc5229cf-7606-43c6-a6f8-499d4262e1d9",
+  "label" : "DIGITAL_ellentube_series_Average_Andy",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2c36f102-ec0b-4d35-b5a6-349753f00067",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1f090f87-89c5-4990-b4ec-0904d30418fc",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;AVERAGE ANDY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Ellen’s Executive Producer, Andy, is fantastic at being a producer and extremely average at everything else — and that’s why the world loves him! Andy is perfectly himself every time Ellen sends him somewhere, which always results in laugh-out-loud hilarity every step of the way.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Andy is relatable and real and out of his element, and it’s why his fans are always rooting for him! Over the course of 17 seasons, Ellen has sent Andy to places like hockey practice with the LA Kings, swimming lessons with Michael Phelps, wrestling with WWE Superstar Ronda Rousey, and — everyone’s absolute favorite — Andy’s yearly hysterical, scaredy-pants trek inside Universal Hollywood’s Haunted House.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Andy’s social media has skyrocketed to over a half million followers, proving that fans always want more Andy (if you’re not following Andy’s Slow Walking ‘Movement’ on Instagram, what are you waiting for? It’s taking social media by storm!) And that’s why we’re excited to announce an official season of Average Andy —&nbsp;available for advertisers to align with the always hilarious and fun fan-favorite, Andy!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">We invite your brand to be the exclusive sponsor of our new Average Andy digital video series! Brands that join the Average Andy bandwagon will not only benefit from the millions of views that these videos garner but will extend your campaign messaging to a captivated audience.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0230e05a-4f9c-4b9d-805d-e73d410eab8c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "5e90e41a-8aed-4bc0-b637-84227f32161f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "cb90e864-e3e6-48cc-b45a-38e5c6dda11b",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Average_Andy_Title_Still.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "20efdbf7-e4ff-4970-873b-8090bd062d95",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "859d0743-2c67-441a-af8c-507763f8485c",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "1ab404a7-896f-4b9d-8f93-212ee1eaa71f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "780ca8ba-5130-4be0-af36-194ca5e46e8a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "32a576b3-38bf-4f43-aefa-607534584939",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-average-andy"
+}

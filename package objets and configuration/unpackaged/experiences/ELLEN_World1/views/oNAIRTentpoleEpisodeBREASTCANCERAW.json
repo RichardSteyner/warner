@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "cd8e13a3-dd9f-4167-a417-69aa5fc7fe9b",
+  "label" : "ON-AIR_Tentpole_Episode_BREAST_CANCER_AW",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "dedd9166-61e8-48c8-b690-25caf429e809",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d3eea719-ffb1-445f-978d-fe648dbeb0c5",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">OCTOBER</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;BREAST CANCER&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;AWARENESS MONTH&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The Ellen DeGeneres Show raises money for Breast Cancer Research all throughout the month of October while educating women on ways to protect themselves.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f584f617-8045-47cb-adcc-32ece3e85ddc",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "9e77c111-b222-43d1-9493-f73c7046cd16",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "420df423-71d7-4dc8-ae79-cee13d7abd96",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "7efc8e5f-9c93-46ee-88f6-c9053f55fe15",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "0424de62-6289-4752-b65a-b6b9a4de9632",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "28d8ef1c-12c6-4488-bf02-939721ce6211",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.BublyBreast_Cancer.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "6a8ec280-c5a3-4d71-98d4-7f71154e8579",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1048510e-3d68-4035-8941-e604f5594515",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-breast-cancer-aw"
+}

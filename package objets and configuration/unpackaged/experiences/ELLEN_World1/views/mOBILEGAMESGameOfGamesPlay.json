@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "bc99a9bf-2d03-4a1d-8d71-b58306fc7d02",
+  "label" : "MOBILE GAMES_Game_of_Games_Play",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_MOBILE_GAMES_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "810fed1e-1641-48a4-a16e-fbeb00640495",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "098f6f09-4a68-4f7b-aba0-187fcab1a344",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(107, 36, 178); font-size: 18px;\">MOBILE GAMES</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(107, 36, 178);\">&nbsp;&nbsp;ELLEN'S GAME OF GAMES&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(107, 36, 178);\">&nbsp;&nbsp;PLAY ALONG LIVE EXPERIENCE&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Hit primetime NBC show, </span><i style=\"font-size: 18px;\">Ellen's Game of Games</i><span style=\"font-size: 18px;\">, is coming back and ELLEN is presenting a very exciting opportunity to be part of this massive show!</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">&nbsp;</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Introducing, </span><i style=\"font-size: 18px;\">Ellen's Game of Games</i><span style=\"font-size: 18px;\"> Play Along Live AR experience! Users who tune-in to </span><i style=\"font-size: 18px;\">Ellen's Game of Games</i><span style=\"font-size: 18px;\"> will find an on-air graphic which can be redeemable within the </span><i style=\"font-size: 18px;\">Ellen's Game of Games</i><span style=\"font-size: 18px;\"> app via AR scanning.&nbsp;Prizes range from in-app currency to tickets to see </span><i style=\"font-size: 18px;\">The Ellen DeGeneres Show</i><span style=\"font-size: 18px;\">.</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">&nbsp;</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">While the mocks are for illustrative purposes only, ELLEN will integrate your brand into the AR Experience through custom graphics and prominent branding. ELLEN’s Play Along Live experience allows your brand the opportunity to engage and reach ELLEN’s games-loving audience across multiple platforms!</span></p><p><br></p><p><i style=\"font-size: 18px;\">Integration Opportunities could include:</i></p><ul><li><span style=\"font-size: 18px;\">Logo inclusion across various screens within the AR Play Along Live Experience such as countdown screen, pop up flyer, home screen, and more.</span></li><li><span style=\"font-size: 18px;\">Opportunity includes a robust supporting digital media campaign inclusive of paid social promotion.&nbsp;</span></li></ul><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "455bb7a3-42d1-4155-8bf9-dbcb68ad7f14",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "e98e72e6-e14e-4219-944a-50ef3539fc7b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7a2744d8-0ca1-42e5-85eb-e84a0fc1bd59",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "fe70cff0-588f-47af-8daa-3a90fd5caa71",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "MOBILE GAMES_Game_of_Games_Play"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "bdc14610-e2ee-428e-9180-502b9892e47a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7c6664a3-acd7-42ac-999f-7d921e61cf08",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-mobile-games-game-of-games-play"
+}

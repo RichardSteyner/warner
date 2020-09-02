@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "cd3b3a0c-eaa3-47e9-90de-2ecb19dbe3f5",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "e5f46bd3-5b63-4b10-9de6-ab5c72e10fac",
+  "label" : "DIGITAL_ellentube_series_Rico_Random",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-rico-random",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-rico-random"
+}

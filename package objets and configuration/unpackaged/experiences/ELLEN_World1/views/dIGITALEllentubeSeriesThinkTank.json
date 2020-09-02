@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "34c3b19e-6739-4e4b-ae1e-36e9171d317e",
+  "label" : "DIGITAL_ellentube_series_Think_Tank",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1e0af00b-49bf-4e6f-8400-9d9bdd191e97",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e4d5f182-01a9-406c-85e4-8432a8bb09b0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;THINK TANK&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">George Resch, aka “Tank Sinatra,” knows the value of a good laugh and the delicate art of wordsmith-ing the perfect meme. The gregarious (and hilarious) social media personality, who resembles a massive, bodybuilder version of Ol’ Blue Eyes, can caption just about anything. And that’s exactly what he does on the reg to the delight of 2.2 million Instagram followers.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">But what if someone — or two — were to challenge today’s foremost meme master? Fans are about to find out in Think Tank, the latest ellentube digital series that pits the Long Island-based father and husband against two influencers, each with their own unique point-of-view, whether it’s a Gen Z pop culture blogger or a millennial reality TV star. As everyone takes a turn captioning the same trending user-generated video or viral photo, this friendly showcase of comedic skill might just result in a winner that breaks the Internet.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "af6ac574-4db5-4f23-ba9f-652b9e2de4a6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "fbe90090-a0e2-487e-a5c9-8345ce5b7b0a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bc36286c-56fa-46bd-959b-cd58be0aace3",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br /></p>\n<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.X00_Titlecard_ThinkTank_Still_Alpha.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "cafa3043-1857-457a-9b9d-4b8e8cfc6b16",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "869fa1f3-12a1-4fb6-af6a-d9477d7fe2ba",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "a33b5939-abb5-43e6-91bb-3ba94c750d21",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "3950ea01-feb3-4eea-bc40-8fa2ac089d6a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d50a90cc-48d7-4f72-8189-d5a804cf3a10",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-think-tank"
+}

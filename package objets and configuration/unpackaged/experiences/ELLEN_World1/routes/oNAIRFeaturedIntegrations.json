@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "d8928326-6998-4eda-964c-001986e4295c",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "eead02c7-de9b-443b-80ee-437d21285ae0",
+  "label" : "ON-AIR_Featured Integrations",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-featured-integrations",
+  "type" : "route",
+  "urlPrefix" : "on-air-featured-integrations"
+}

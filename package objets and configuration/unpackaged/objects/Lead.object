@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <businessProcesses>
+        <fullName>Ellen Process New</fullName>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Contact Built</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Lead</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Offer Received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Outreach</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pitched</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Spam</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <fields>
+        <fullName>Brand_Category__c</fullName>
+        <description>“Ellen Community”</description>
+        <externalId>false</externalId>
+        <label>Brand Category</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Automotive</fullName>
+                    <default>false</default>
+                    <label>Automotive</label>
+                </value>
+                <value>
+                    <fullName>Consumer Package Goods</fullName>
+                    <default>false</default>
+                    <label>Consumer Package Goods</label>
+                </value>
+                <value>
+                    <fullName>Beauty</fullName>
+                    <default>false</default>
+                    <label>Beauty</label>
+                </value>
+                <value>
+                    <fullName>Alcohol</fullName>
+                    <default>false</default>
+                    <label>Alcohol</label>
+                </value>
+                <value>
+                    <fullName>Apparel</fullName>
+                    <default>false</default>
+                    <label>Apparel</label>
+                </value>
+                <value>
+                    <fullName>Banking</fullName>
+                    <default>false</default>
+                    <label>Banking</label>
+                </value>
+                <value>
+                    <fullName>Education</fullName>
+                    <default>false</default>
+                    <label>Education</label>
+                </value>
+                <value>
+                    <fullName>Entertainment</fullName>
+                    <default>false</default>
+                    <label>Entertainment</label>
+                </value>
+                <value>
+                    <fullName>Fashion</fullName>
+                    <default>false</default>
+                    <label>Fashion</label>
+                </value>
+                <value>
+                    <fullName>QSR/Fast Food</fullName>
+                    <default>false</default>
+                    <label>QSR/Fast Food</label>
+                </value>
+                <value>
+                    <fullName>Financial Services</fullName>
+                    <default>false</default>
+                    <label>Financial Services</label>
+                </value>
+                <value>
+                    <fullName>Food and Beverage</fullName>
+                    <default>false</default>
+                    <label>Food &amp; Beverage</label>
+                </value>
+                <value>
+                    <fullName>Games</fullName>
+                    <default>false</default>
+                    <label>Games,Toys</label>
+                </value>
+                <value>
+                    <fullName>Health and Wellness</fullName>
+                    <default>false</default>
+                    <label>Health &amp; Wellness</label>
+                </value>
+                <value>
+                    <fullName>Household</fullName>
+                    <default>false</default>
+                    <label>Household</label>
+                </value>
+                <value>
+                    <fullName>Insurance</fullName>
+                    <default>false</default>
+                    <label>Insurance</label>
+                </value>
+                <value>
+                    <fullName>Mobile Phones</fullName>
+                    <default>false</default>
+                    <label>Mobile Phones</label>
+                </value>
+                <value>
+                    <fullName>Packaged Foods</fullName>
+                    <default>false</default>
+                    <label>Packaged Foods</label>
+                </value>
+                <value>
+                    <fullName>Restaurants</fullName>
+                    <default>false</default>
+                    <label>Restaurants,QSR,Fast Food</label>
+                </value>
+                <value>
+                    <fullName>Retail</fullName>
+                    <default>false</default>
+                    <label>Retail,Apparel,Grocery</label>
+                </value>
+                <value>
+                    <fullName>Technology / Electronics</fullName>
+                    <default>false</default>
+                    <label>Technology / Electronics</label>
+                </value>
+                <value>
+                    <fullName>Telecommunications</fullName>
+                    <default>false</default>
+                    <label>Telecommunications</label>
+                </value>
+                <value>
+                    <fullName>Travel</fullName>
+                    <default>false</default>
+                    <label>Travel</label>
+                </value>
+                <value>
+                    <fullName>Events and Ticket Brokers</fullName>
+                    <default>false</default>
+                    <label>Events and Ticket Brokers</label>
+                </value>
+                <value>
+                    <fullName>Pharmaceutical</fullName>
+                    <default>false</default>
+                    <label>Pharmaceutical</label>
+                </value>
+                <value>
+                    <fullName>Professional Services</fullName>
+                    <default>false</default>
+                    <label>Professional Services</label>
+                </value>
+                <value>
+                    <fullName>E-Commerce</fullName>
+                    <default>false</default>
+                    <label>E-Commerce</label>
+                </value>
+                <value>
+                    <fullName>Pet</fullName>
+                    <default>false</default>
+                    <label>Pet</label>
+                </value>
+                <value>
+                    <fullName>Non-Profit</fullName>
+                    <default>false</default>
+                    <label>Non-Profit</label>
+                </value>
+                <value>
+                    <fullName>Consumer Electronics</fullName>
+                    <default>false</default>
+                    <label>Consumer Electronics</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Brand_Name__c</fullName>
+        <description>“Ellen Community”</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Brand Name / Product</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Budget__c</fullName>
+        <description>“Ellen Community”</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Budget</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Details_of_Marketing_Campaign__c</fullName>
+        <description>Ellen Community</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Details of Marketing Campaign</label>
+        <length>3000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Important_things_about_Brand__c</fullName>
+        <description>Ellen Community</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Important things about Brand</label>
+        <length>3000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Main_KPIs__c</fullName>
+        <description>Ellen Community</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Main KPIs</label>
+        <length>3000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Message_To_Ellen_Team__c</fullName>
+        <description>“Ellen Community”</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Message To Ellen Team</label>
+        <length>500</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Priority_elements__c</fullName>
+        <description>Ellen Community</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Priority elements</label>
+        <length>3000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Timing_of_Integration__c</fullName>
+        <description>“Ellen Community”</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <label>Timing of Integration</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>What_do_you_want_to_learn_about__c</fullName>
+        <description>“Ellen Community”</description>
+        <externalId>false</externalId>
+        <label>What do you want to learn about?</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>On air</fullName>
+                    <default>false</default>
+                    <label>On air</label>
+                </value>
+                <value>
+                    <fullName>Branded Digital content</fullName>
+                    <default>false</default>
+                    <label>Branded Digital content</label>
+                </value>
+                <value>
+                    <fullName>Mobile Games</fullName>
+                    <default>false</default>
+                    <label>Mobile Games</label>
+                </value>
+                <value>
+                    <fullName>Digital media</fullName>
+                    <default>false</default>
+                    <label>Digital media</label>
+                </value>
+                <value>
+                    <fullName>Subscription box</fullName>
+                    <default>false</default>
+                    <label>Subscription box</label>
+                </value>
+                <value>
+                    <fullName>Podcast</fullName>
+                    <default>false</default>
+                    <label>Podcast</label>
+                </value>
+                <value>
+                    <fullName>Ellen’s Influencers</fullName>
+                    <default>false</default>
+                    <label>Ellen’s Influencers</label>
+                </value>
+                <value>
+                    <fullName>Trade Out and Social</fullName>
+                    <default>false</default>
+                    <label>Trade Out and Social</label>
+                </value>
+                <value>
+                    <fullName>App</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>App</label>
+                </value>
+                <value>
+                    <fullName>Branded content</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Branded content</label>
+                </value>
+                <value>
+                    <fullName>Social Media</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Social Media</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>X2_3_Key_Messages__c</fullName>
+        <description>“Ellen Community”</description>
+        <encryptionScheme>None</encryptionScheme>
+        <externalId>false</externalId>
+        <inlineHelpText>In consumer language, what are the 3 most important points to communicate in this integration?   PLEASE NOTE: Number of key messages included in integration will be determined by mutually agreed contract terms.</inlineHelpText>
+        <label>2-3 Key Messages</label>
+        <length>3000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <recordTypes>
+        <fullName>Ellen_Community</fullName>
+        <active>true</active>
+        <businessProcess>Ellen Process New</businessProcess>
+        <label>Ellen Community</label>
+        <picklistValues>
+            <picklist>Brand_Category__c</picklist>
+            <values>
+                <fullName>Alcohol</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Apparel</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Automotive</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Banking</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Beauty</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Consumer Electronics</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Consumer Package Goods</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>E-Commerce</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Education</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Entertainment</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Events and Ticket Brokers</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Fashion</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Financial Services</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Food and Beverage</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Games</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Health and Wellness</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Household</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Insurance</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Mobile Phones</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Non-Profit</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Packaged Foods</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pet</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pharmaceutical</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Professional Services</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>QSR%2FFast Food</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Restaurants</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Retail</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Technology %2F Electronics</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Telecommunications</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Travel</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Industry</picklist>
+            <values>
+                <fullName>Agriculture</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Apparel</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Banking</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Biotechnology</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Chemicals</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Communications</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Construction</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Consulting</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Education</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Electronics</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Energy</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Engineering</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Entertainment</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Environmental</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Finance</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Food %26 Beverage</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Government</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Healthcare</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Hospitality</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Insurance</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Machinery</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Manufacturing</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Media</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not For Profit</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Recreation</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Retail</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Shipping</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Technology</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Telecommunications</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Transportation</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Utilities</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>LeadSource</picklist>
+            <values>
+                <fullName>Advertisement</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Another WB Department</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Development Leads</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Direct Contact</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Employee Referral</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Existing Relationship - Sales Relationship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Existing Relationship - Studio Relationship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Existing Relationship - Talent Relationship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>External Referral</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>IMDB</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Partner</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Phone Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Public Relations</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Seminar - Internal</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Seminar - Partner</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Studio System</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Trade Show</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Warner Bros%2E Productions</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Web</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Word of mouth</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Name</picklist>
+            <values>
+                <fullName>Dr%2E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Mr%2E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Mrs%2E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ms%2E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Prof%2E</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Rating</picklist>
+            <values>
+                <fullName>Cold</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Hot</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Warm</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>What_do_you_want_to_learn_about__c</picklist>
+            <values>
+                <fullName>Branded Digital content</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Digital media</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ellen%E2%80%99s Influencers</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Mobile Games</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On air</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Podcast</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Subscription box</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Trade Out and Social</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+</CustomObject>

@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "88da3539-f96b-4342-8486-530060f56c1c",
+  "label" : "DIGITAL_ellentube_series_KissMakeup",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2f424de7-51db-4e37-a6aa-d6949313b631",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "32dc716c-2c17-46df-9681-a8c08ca0a2a5",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;KISS + MAKEUP&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Would you ever let your partner take charge of your glam? That’s the premise of Kiss + Make Up, an all-new ellentube digital series centered around relationships, beauty, and some friendly competition. From flawless drag queen eyes to trippy makeup illusions, participants will have a seat, hold their breath, and guide their partners through the creation of meticulous, now-trending looks. But they’re not just doing it for the Insta, they’re in it for the win, too!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">In the “nailed it/failed it” spirit of today’s most popular comedic competition shows, ELLEN is pitting three couples against each other for the wildest, edgiest, laugh-out-loudest “face-off” viewers have ever seen. Will communication skills beat artistic talents? Fortunately, the host (something of a dating and relating expert herself) is on-hand to keep the #makeupgoals strong in more ways than one.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0590b6b7-96e4-4043-9e48-7c62d4a442ec",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "8a0d10a7-e1cd-41f5-806f-c97b5a948273",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b8b72faa-5bb2-483d-a845-e7b0d4965f0d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "0a84853e-0e1f-47d4-bc45-c7398b58639b",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_KissMakeup"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "5f9c7ce4-082f-4bfd-8be3-bb7dd4b798b9",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a1d157e4-6a4b-44e0-9cc2-821a382becff",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Kiss_Make_Up_Mock_Logo.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "04e462b8-129a-4607-bbc0-1b79221d9fb7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "613d6783-a004-4b72-8c8e-2fb01fa11926",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-kissmakeup"
+}

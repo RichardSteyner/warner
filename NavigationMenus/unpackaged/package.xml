@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CaseStudy</members>
+        <members>DIGITAL_Ellentube_Series</members>
+        <members>Default_Navigation5</members>
+        <members>Digital_Navigation</members>
+        <members>ELLEN_STAFFERS</members>
+        <members>Ellen_s_Game_of_Games</members>
+        <members>KID_TALENT</members>
+        <members>Mobil_Games</members>
+        <members>ON_AIR_Tentpole_Episode</members>
+        <members>ON_AIR_Trade_out</members>
+        <members>ON_Air</members>
+        <members>TALENT</members>
+        <members>TALENT2</members>
+        <members>ellentube_series_2</members>
+        <name>NavigationMenu</name>
+    </types>
+    <version>48.0</version>
+</Package>

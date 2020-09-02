@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "5ebf4649-2ee0-42f5-a021-218b6741b3c8",
+  "label" : "TALENT_Kristen_Bell",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "627fb5c0-7801-407b-bd77-7969b5802b19",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7be2cffa-d0d2-4670-9a7c-1a0809475c1a",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Kristen.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "7f2dfc69-b65b-4f0e-9a1a-edac3ca94979",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d1fe1060-9368-4729-872f-a188aeb7447f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "6103d931-fb9f-4991-b445-c68b5a4b3353",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "40d4976e-797f-44e6-93c4-e1fd695677d1",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "dad303d9-e16a-4ec8-9cb7-a372d63f31c9",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;KRISTEN BELL&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">She may be a real-life Disney Princess (Frozen) and the star of beloved TV shows The Good Place (NBC), Encore (Disney +) and Veronica Mars (Hulu), but Kristen Bell’s most popular role may be her low-key, relatable and hilariously authentic self. Married to actor Dax Shepard, with whom she shares two daughters, Lincoln (6) and Delta (4)—and a line of plant-based baby products called “Hello Bello”—she’s won mad props in and especially outside of Hollywood for her signature “truth bombs” about everything from marriage and parenthood to work-life balance and social media. That fun, light-hearted, and LOL take on life is front and center in “Momsplaining,” her Emmy-nominated digital series on Ellentube, now in its fifth season.&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "8ff23df7-5182-4d08-abcf-241b8281d328",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "d3181e7d-677d-43a0-9682-0b4cfdb35338",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7a5ba628-2e2e-4a7a-b161-095f9dd1c822",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-kristen-bell"
+}

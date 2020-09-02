@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "3606ffd4-a769-4669-a67f-bd3fe3fc1f15",
+  "label" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "701e7ca7-c895-4ace-9f63-d6c5ff5dd876",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1e28518c-d423-4251-b243-640ac59f5538",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">SEPTEMBER</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;SEASON PREMIERE&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN returns in a BIG way! After a summer of anticipation, we’ll kick of Season 17 with superstar guests and buzz-worthy, unexpected surprises.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d43a135f-e4b2-4109-bc17-2a435863a0e9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "ff86fd35-e656-4a2c-b2cf-b0f56accb748",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "494e4b5c-b465-4160-8276-5882addbede8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "2e505629-d09d-4f7f-9129-5335307e9135",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "564f1f67-3a20-4950-8a5a-c85cfaf2302b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e3a534ff-b233-4d5d-9b78-2866b2ca902a",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Season_Premiere1.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "446d42c6-119f-448c-916f-d7b3e1fd355b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6db73a5b-e8dc-45ca-9ac9-8358b9a229e6",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-season-premiere"
+}

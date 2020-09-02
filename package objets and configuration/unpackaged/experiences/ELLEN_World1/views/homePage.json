@@ -1,0 +1,91 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "id" : "59dec5da-efa0-4c2a-a440-999e961b82e4",
+  "label" : "Home Page",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_GENERAL_BANNER_31.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2905a50f-5ea9-4473-90f3-313b01c0947e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d793ddf3-f165-41f8-a43d-4d1065e46499",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "5345a684-b153-4fb2-b17b-62a9a3f8e5c1",
+    "regionName" : "featured",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(0, 102, 204);\">LET'S WORK TOGETHER</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(0, 102, 204); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;WELCOME!&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">We are the ELLEN Brand Content &amp; Partnerships Team — a custom media and content group that is part of the Warner Bros. portfolio of brands. We work with brands and agencies as a strategic partner to deliver world-class 360 partnerships that seamlessly align brands with the world of ELLEN.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">By leveraging the Emmy-award-winning writers, producers, and digital talent at The Ellen DeGeneres Show, we are a full-functioning ad agency that provides highly custom cross-platform content that garners millions of views.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">Let’s motivate ELLEN’s millions of fans for your brand by partnering together on your next campaign. Complete the brand pitch doc below so ELLEN can start ideating on how your brand can come to life across ELLEN’s properties.</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">﻿</span></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "55a015a5-aec5-4f4a-9e53-2b0c29edff50",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "b0970488-8ad1-4d49-b596-c228f61000b5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "cabc8431-727e-4509-a415-310939e2ec01",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "align" : "center",
+        "byLine" : "from",
+        "handle" : "theellenshow",
+        "hasBorder" : false,
+        "heading" : "Tweets",
+        "height" : "600",
+        "linkColor" : "820bbb",
+        "showHandle" : true,
+        "showReplies" : true,
+        "theme" : "light"
+      },
+      "componentName" : "SS_TF:SS_TwitterFeed",
+      "id" : "ff514304-bab1-4be9-b407-3c7caf8f72d8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "41fb64af-1455-402a-8c13-540ac51197ae",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "7a70225c-8882-4413-8dd2-27c5cfe60ab1",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "HOME"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "0f008efd-5228-4d69-9aee-951c88193af0",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2ccaf29b-b71f-47a2-932b-b5a79c952bc8",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

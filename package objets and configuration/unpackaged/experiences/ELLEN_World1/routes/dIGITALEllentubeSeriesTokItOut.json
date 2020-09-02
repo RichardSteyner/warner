@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "2c107c03-bacb-4a85-9a6a-45fb7bc85a0c",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "703108d8-4754-4e4c-87d7-4bbe9069ff7c",
+  "label" : "DIGITAL_ellentube_series_Tok_it_Out",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-tok-it-out",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-tok-it-out"
+}

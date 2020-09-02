@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "52896950-b342-4836-8cae-b19ff6eb79ff",
+  "label" : "DIGITAL_ellentube_series_DoItScared",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "71a10c61-23b9-46da-8e8d-807c5cf7ec61",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "33c9f603-1ae6-47df-85b3-6cf68c0849fe",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;DO IT SCARED&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Since meeting and bonding over the idea of seeking personal growth through discomfort in 2015, the guys of internationally renowned digital media brand Yes Theory have amassed nearly 5 million subscribers.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">From her delight in on-screen scares to her dedication to helping viewers build a long-lasting habit of courage and empowerment, ELLEN is the perfect partner for this wildly popular threesome, and her massively successful universe of fans, followers and viewers is the ideal place for their next major adventure: an all-new ellentube series, Do It Scared. Episodes will feature the world’s biggest stars overcoming fears as common as donating blood and as adrenaline-charged as open-water swimming, all with the same purpose—personal transformation through uncomfortable confrontation.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "11d2d019-a524-413b-80b9-5556f1fb7b3e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "cb6a16e2-a23d-44ab-b5fb-2a2a1efc2072",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fc917756-5f7f-4dc6-9bf1-3b39cd80c37e",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "4c5e0d51-95c6-46ce-b7a3-efc97225155b",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_DoItScared"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "6060e06b-6060-4286-855e-34ae42c3497a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7c10cc17-f5f7-43cc-8654-da002e36d5f4",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Do_It_Scared_Mock_Logo.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "05bd4bf4-be3e-4ed6-89a6-6bfb7ed60500",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e0aefe90-d483-4189-a7ef-1cf5c3bb8e09",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-doitscared"
+}

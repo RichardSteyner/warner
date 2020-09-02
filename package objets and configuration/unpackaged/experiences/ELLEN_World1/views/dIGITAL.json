@@ -1,0 +1,77 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "997cab7f-aa98-4c74-9f45-86b2c73a7e9f",
+  "label" : "DIGITAL",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1cedb3cd-b66e-44af-b88f-eec0921a681c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9dd4c803-63f5-4348-b49e-dbc7c684944d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">LET'S WORK TOGETHER</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;WELCOME TO THE ELLEN DIGITAL NETWORK&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">What was once just an hour of TV is now billions of videos of highly shareable, hilarious, eventful, and fun content happening 24-hours of the day across ELLEN’s platforms. This powerful platform is an organic ecosystem, bringing together our massive social reach with video, apps and games...and most importantly creating a home for our millions of fans. </span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">How we work: Leveraging Ellen’s massive social and digital reach, we build 360 digital partnerships that are innovative, effective and one-of-a-kind. </span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Let’s work together! Complete the brand pitch doc below so ELLEN can start ideating on how your brand can come to life across ELLEN's platforms.</span></p><p style=\"text-align: center;\">&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "446c2ba5-4346-4cc1-867e-4af3bbc4a893",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tileMenuEditor" : "Digital_Navigation"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "5bacdf92-ce41-414a-bf70-296e0aa36ea5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "ef650448-1fc3-4ed4-bd44-b23762cec2a6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b038239f-664b-43a0-9d43-24d7c4e05cf6",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "bbdc1b17-f555-4459-923a-ad8a706452e1",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "481aa64e-ffe0-4fa7-b7e7-7fc179374cc9",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d53a45d8-9d7b-4a62-b0dc-d14a7e308914",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "17168844-7527-421e-a920-c7f6c1e11922",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital"
+}

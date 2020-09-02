@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "19c68add-a9a0-4798-a550-b5c90a16a534",
+  "label" : "ON-AIR_Tentpole_Episode_SUPER_BOWL",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "08616e4d-b803-4837-9941-a05f960f1cba",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e7526db8-b624-49ea-a8bc-192b9539d306",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">JANUARY</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;SUPERBOWL&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN loves football! Every year, The Ellen DeGeneres Show celebrates the Super Bowl with a special themed episode in advance of the biggest game of the year.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b3960047-69ed-4ddf-824e-55163e2b5975",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "7ebff3ba-a416-4a8d-a4b1-0983deb68673",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a05cbf61-df0d-47dd-a47a-1918e9a7ac70",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ff2e6e89-9185-4637-ab1a-64cc06a552ab",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "850b8a88-8f9a-43d9-869d-58106cbc5802",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9b1d0264-e351-4ed2-9ec6-8ff6a76ab6c1",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Superbowl.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "88eefd2c-4be2-4c4b-9ba1-0629de0a4163",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f6a417d0-269e-4b60-b4a4-850d4ca0e6f2",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-super-bowl"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "39491d01-a4ac-4d04-85e9-1268622ebfe3",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "1ec9927c-d6fc-4dee-bdde-08b4d17db0a8",
+  "label" : "DIGITAL_ellentube_series_WeHeart",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-weheart",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-weheart"
+}

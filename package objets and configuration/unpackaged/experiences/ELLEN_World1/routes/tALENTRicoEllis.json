@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "370cba6c-67d5-476f-b6a2-a9ecd41405e1",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "2508feb9-6a7c-46a0-88ba-90ac3274835f",
+  "label" : "TALENT_Rico_Ellis",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-rico-ellis",
+  "type" : "route",
+  "urlPrefix" : "talent-rico-ellis"
+}

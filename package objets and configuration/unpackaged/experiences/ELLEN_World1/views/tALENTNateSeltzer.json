@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "7ccdc31f-2f4f-4f09-bced-933ef900ec9f",
+  "label" : "TALENT_Nate_Seltzer",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "fef6927a-16f9-41b4-a14f-8963162be056",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7d4932ae-000d-4b48-94a8-6480b501d58d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Nate_Seltzer.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "387f24d7-79c3-4084-b196-c3741ef069d9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6fb048e8-df89-4d7c-970b-0be756983a55",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "f19e37c9-d19d-4a30-a34e-82a0a7d5383a",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "35172fea-86f0-4dab-8272-84d70806bd66",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b73ac43b-9a99-441f-aab6-e83581bc8978",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;NATE SELTZER&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">At just eight years old, this Stratford, CT prodigy can identify states or countries by their outline, any flag in the world, or a city just by looking at a grid. As her resident geography genius, Nate’s been on The Ellen DeGeneres Show multiple times over the past three years, playing “Are You Smarter Than a Five-Year-Old?” against producer Andy, sharing his screenwriting aspirations, and hob-nobbing with other kid experts Macey, Brielle, and Lil’ Mushroom. After being introduced to fan and fellow geography expert Landon Gregory on The Show last season, the pair have become best friends and pen pals who have no trouble sharing the spotlight. Fans can follow Nate on Instagram at @thatmapkid.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "cdcb5e05-17f0-4e0b-bfa6-a85e95c45cc6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "58313d78-2d98-4962-9e82-e3dffedbc542",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "37993da7-9760-4104-8072-58fc501c2392",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-nate-seltzer"
+}

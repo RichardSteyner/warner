@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "2b7d7aa4-b490-4185-a457-7358c03f35a6",
+  "label" : "DIGITAL_ellentube_series_HoleyRoller",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "c9f3e232-44c1-46db-a407-e3575d8f9288",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d0dc334a-7489-42fd-b20d-328685c3de31",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;HOLEY ROLLER ON THE ROAD&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Holey Roller is a game where contestants have only one chance to get a hole in one to win a cash prize!&nbsp;If the contestant misses, Ellen keeps things rollin’ till the next day, when a new player has a chance to win an even bigger cash prize!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "c2073261-1076-4b0f-b32b-ebf68c85efca",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "35214c71-899f-4e5f-ac60-d7f0f5c9320e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f71f54ff-1424-4e6f-a7ae-1ea6ce98e3d8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9d9d85a1-6a6b-4e7f-a831-f702aff1a60c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_HoleyRoller"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "83fc448a-4130-4c52-aadb-f9bf7a6e6b57",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f41980fa-a566-47c0-a416-1b22c88746af",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OOpYIAW",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "030dbfa7-43a8-46ed-8d8d-20bc6f46fb3c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ee714d00-c85b-4684-902f-f8ac71648bbd",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-holeyroller"
+}

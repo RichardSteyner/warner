@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NavigationMenu xmlns="http://soap.sforce.com/2006/04/metadata">
+    <container>ELLEN World</container>
+    <containerType>Network</containerType>
+    <label>CELEB/INFLUENCER TALENT</label>
+    <navigationMenuItem>
+        <label>ASHLEY GRAHAM</label>
+        <position>1</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-ashley-graham</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>AYESHA CURRY</label>
+        <position>2</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-ayesha-curry</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>DOVE CAMERON</label>
+        <position>3</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-dove-cameron</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>DR. SHERRY ROSS</label>
+        <position>4</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-dr-sherry-ross</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>HANNAH HART</label>
+        <position>5</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-hannah-hart</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>JOHN COLANERI &amp; ANTHONY CARRINO</label>
+        <position>6</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-john-colaneri-and-anthony-carrino</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>JON DORENBOS</label>
+        <position>7</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-jon-dorenbos</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>KALEN ALLEN</label>
+        <position>8</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-kalen-allen</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>KRISTEN BELL</label>
+        <position>9</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-kristen-bell</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>KYM DOUGLAS</label>
+        <position>10</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-kym-douglas</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>SARAH HYLAND</label>
+        <position>11</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-sarah-hyland</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>TANK SINATRA</label>
+        <position>12</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-tank-sinatra</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+</NavigationMenu>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NavigationMenu xmlns="http://soap.sforce.com/2006/04/metadata">
+    <container>ELLEN World</container>
+    <containerType>Network</containerType>
+    <label>ON-AIR_Tentpole_Episode</label>
+    <navigationMenuItem>
+        <label>SEASON PREMIERE</label>
+        <menuItemBranding>
+            <tileImage>Season_Premiere1</tileImage>
+        </menuItemBranding>
+        <position>1</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-season-premiere</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>BREAST CANCER AWARENESS MONTH</label>
+        <menuItemBranding>
+            <tileImage>Breast_cancer_Awareness_Month11</tileImage>
+        </menuItemBranding>
+        <position>2</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-breast-cancer-aw</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>HALLOWEEN</label>
+        <menuItemBranding>
+            <tileImage>Halloween</tileImage>
+        </menuItemBranding>
+        <position>3</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-halloween</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>12 DAYS OF GIVEAWAYS</label>
+        <menuItemBranding>
+            <tileImage>X12_Days_of_Giveaways</tileImage>
+        </menuItemBranding>
+        <position>4</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-12-days-of-givea</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>ELLEN’S BIRTHDAY</label>
+        <menuItemBranding>
+            <tileImage>Ellens_Birthday</tileImage>
+        </menuItemBranding>
+        <position>5</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-ellens-birthday</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>SUPER BOWL</label>
+        <menuItemBranding>
+            <tileImage>Super_Bowl2</tileImage>
+        </menuItemBranding>
+        <position>6</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-super-bowl</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>GRAMMYS</label>
+        <menuItemBranding>
+            <tileImage>Grammys</tileImage>
+        </menuItemBranding>
+        <position>7</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-grammys</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>VALENTINE’S DAY</label>
+        <menuItemBranding>
+            <tileImage>Valentines_Days</tileImage>
+        </menuItemBranding>
+        <position>8</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-valentines-day</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>OSCARS</label>
+        <menuItemBranding>
+            <tileImage>Oscars</tileImage>
+        </menuItemBranding>
+        <position>9</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-oscars</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>EARTH DAY</label>
+        <menuItemBranding>
+            <tileImage>Earth_Day</tileImage>
+        </menuItemBranding>
+        <position>10</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-earth-day</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>MOTHER’S DAY</label>
+        <menuItemBranding>
+            <tileImage>Mothers_Day1</tileImage>
+        </menuItemBranding>
+        <position>11</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-mothers-day</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>CINCO DE MAYO</label>
+        <menuItemBranding>
+            <tileImage>Cinco_De_Mayo</tileImage>
+        </menuItemBranding>
+        <position>12</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-cinco-de-mayo</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>ELLEN&apos;S SKYBOX</label>
+        <menuItemBranding>
+            <tileImage>Ellens_Skybox</tileImage>
+        </menuItemBranding>
+        <position>13</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-ellens-skybox</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>MUSICAL PERFORMANCES</label>
+        <menuItemBranding>
+            <tileImage>Musical_Performances</tileImage>
+        </menuItemBranding>
+        <position>14</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-tentpole-episode-musical-performa</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+</NavigationMenu>

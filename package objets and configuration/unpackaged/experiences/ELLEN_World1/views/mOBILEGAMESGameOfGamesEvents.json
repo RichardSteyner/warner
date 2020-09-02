@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "990a9f8e-4981-41cb-abc6-fd1d24bb23ba",
+  "label" : "MOBILE GAMES_Game_of_Games_Events",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_MOBILE_GAMES_BANNER_31.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e35ae5b3-d663-467f-a044-44036dea73e6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "702c645d-9ab4-49e2-92f5-11546884f2cc",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(107, 36, 178);\">MOBILE GAMES</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(107, 36, 178); color: rgb(255, 255, 255);\">&nbsp;&nbsp;ELLEN'S GAME OF GAMES EVENTS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px;\">﻿</b></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Introducing, Events in </span><i style=\"font-size: 18px;\">Ellen's Game of Games</i><span style=\"font-size: 18px;\">. This first-to-market opportunity is designed to super-charge users by offering them an enticing limited-time opportunity to win BIG. Players have a chance for a special prize by playing the game, but only if they can progress to the end of the map before the event is over. We invite your brand to be the exclusive sponsor of this all-new experience and keep your brand top-of-mind as they are playing one of Ellen’s signature games.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN will capture the fun and playful spirit of your brand and integrate it through multiple screens within the game for the 1 to 2 week-long event. A game board will be created for and inspired by your brand. Users will play games like Make it Rain and One Eyed Monster to earn special gems in order to progress along the game board.</span></p><p style=\"text-align: center;\"><br></p><p><i style=\"font-size: 18px;\">Integration Opportunities could include:</i></p><ul><li><span style=\"font-size: 18px;\">Custom event board inspired by your brand’s campaign with logo inclusion across various screens within the event such as countdown screen, pop up flyer, home screen, and more. Opportunity includes a robust supporting digital media campaign inclusive of paid social promotion.</span></li></ul><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b3b53897-1593-4ef6-bb71-75bfaaffe961",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "9265c9eb-5474-4b0d-8e32-154035638ce0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "24bfdcc9-c9ec-46fe-be27-a4bfca7707b8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "8441065b-b45a-405c-b6cf-52bd341664ed",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "MOBILE GAMES_Game_of_Games_Events"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4a15ee5b-b157-4e34-bdab-6b13ca9e9e9a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ca72bc1a-e56e-41a0-aba5-7a3900fc07d2",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-mobile-games-game-of-games-events"
+}

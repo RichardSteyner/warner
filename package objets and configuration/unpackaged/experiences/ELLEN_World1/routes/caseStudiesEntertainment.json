@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "e36b4f54-64d9-4ff5-956f-3a18f960f67a",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "8ce322cf-a98d-4a5b-b146-d2ad11b41681",
+  "label" : "Case_Studies_Entertainment",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-case-studies-entertainment",
+  "type" : "route",
+  "urlPrefix" : "case-studies-entertainment"
+}

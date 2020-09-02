@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "6c55e8af-761c-4096-b703-20ef2319b07d",
+  "label" : "TALENT_“Young_Dylan”_Gilmer",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "ea115347-821f-4220-9303-e8357546f857",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ef2642c7-2923-464b-8fec-119d17a5563c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Young_Dylan_Gilmer.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b04f881c-5a92-4d9b-9456-372b011019ba",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "87265979-549b-4208-a6a9-f0b2a8697d76",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "cae89ae9-ea9c-464e-a2eb-b44ff787520c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "0a50dc5f-17b7-4996-8cd0-339c3e87d7dd",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e8b0b2fd-4246-4404-b917-f4f031163893",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); font-size: 36px; color: rgb(255, 255, 255);\">&nbsp;&nbsp;\"YOUNG DYLAN\" GILMER&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">Hailing from Annapolis, MD, 11-year-old Dylan Gilmer, aka Young Dylan, has been wowing ELLEN audiences with his flows—not to mention his slick threads—since season 14. He’s gone on to serve as a correspondent at the 2017 and 2019 NBA All-Star Games, as well as the 2017 Billboard Music Awards. In addition to covering Kayne West, Kendrick Lamar, Meek Mills, and a offering a taste of his own freestyle on the ELLEN stage, Young Dylan currently has his own digital series on ellentube called “Young Dylan’s Mixtape,” where he leads sit-down interviews with some of hip-hop’s biggest stars, including Cardi B, Chance the Rapper, and Will Smith. During a surprise visit with Tyler Perry, it was recently revealed on The Show that Young Dylan will soon be starring in his own Nickelodeon show about an aspiring hip-hop star, which will be written by Perry himself.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "164c4abb-807d-4fde-b0d8-52dc6da14685",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "ff5698d9-4c23-4b68-a237-5c698b4e2bfd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3f0f4410-f5de-48f4-96f3-5e3bbe2ea662",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-young-dylan-gilmer"
+}

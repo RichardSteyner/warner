@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "cd3b3a0c-eaa3-47e9-90de-2ecb19dbe3f5",
+  "label" : "DIGITAL_ellentube_series_Rico_Random",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "30e6f5d0-a20e-4b14-a80a-6fbdc665b560",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2a34ac4f-bb68-45ff-bf05-c2d6d193d1e0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;RICO'S RANDOM ACTS </b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\"> OF KINDNESS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Rico took up sign-spinning to help his mother pay the family bills, but after appearing on a life-changing episode of “Ellen’s Greatest Night of Giveaways,” her primetime holiday hit on NBC, he spun his way into the hearts of millions.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">All signs point to positivity! Rico is on a mission to pay it forward and spread the kindness Ellen showed him on “Ellen’s Greatest Night of Giveaways.” Our resident sign-spinner will captivate, charm, and surprise unsuspecting fans and attendees on the street, at schools, businesses, concerts, sporting events, fairs, or festivals — you never know where he might pop up! And suddenly, it’s game time! Rico will spin a sign with a different game on either side (à la heads or tails). The contestant plays the chosen game (perhaps it’s 5 Second Rule, trivia, or Ellen’s Emoji Exploji!) while Rico gets to know their story.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Your brand is invited to help Rico spread love with this new, premium digital series all about acts of kindness, which is needed today more than ever. With your brand aligned to this heartwarming content, everyone is a winner: individuals Rico meets in his community, viewers watching with happy hearts at home, and your growing consumer base who will always associate your brand to content changing the world.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "824a2aa9-1d33-4384-b041-29a2a98ca5dd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "12357be3-522f-4426-ad24-2fe59d401805",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1808e887-6e30-4a91-998e-f41ae21efcb8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.rico1.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "14669efa-d189-46de-827c-b8e06f928a68",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d9ddcf09-5fad-4ae6-9d8c-fe3f1fbaa7d4",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "5fe6021a-da04-4602-b5f1-4197c637971f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "9865bc96-03b9-40dd-b130-20a73e3b81da",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "772da552-258c-4070-8c74-20751baa4caa",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-rico-random"
+}

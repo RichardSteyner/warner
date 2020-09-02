@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "d58416d7-cfab-4217-8212-b9e546629370",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "aa43fd68-f529-4e20-8d66-f98afb39c388",
+  "label" : "ON-AIR_Tentpole_Episode_12_DAYS_OF_GIVEA",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-12-days-of-givea",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-12-days-of-givea"
+}

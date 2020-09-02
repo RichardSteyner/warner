@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "8e9b4158-9e0e-4750-87f6-7df177ce7237",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "9d113aa5-d665-4f98-b630-481da571ca79",
+  "label" : "DIGITAL_ellentube_series_ADecentProposal",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-adecentproposal",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-adecentproposal"
+}

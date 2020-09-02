@@ -1,0 +1,73 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "4dd98210-af7a-4008-aea4-a456cf54d18f",
+  "label" : "DIGITAL_ellentube_series",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "4441bf29-16f7-40b8-a38d-4956adfc264c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6a8dadd5-7d73-4642-a408-a0e711418b02",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "DIGITAL_Ellentube_Series"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "d7e07446-bbfb-4670-a878-8bb2a4d9140d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tileMenuEditor" : "ellentube_series_2"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "5e64eabf-49e8-436e-9c32-653d0a742306",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "e11ab2aa-ef2e-48d6-bb96-695fb984c198",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ae3c9367-2098-453c-90c7-6b45f4dbce7c",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "e9a32ba4-99a9-4662-92c0-8f4d40262251",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b92ab16a-53bb-481b-9335-b5a0e1583632",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f30ad2d9-ad33-4873-b55e-c0be3e0bab49",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series"
+}

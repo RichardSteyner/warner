@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "3d39a8f3-f8e7-4693-b143-659c50506021",
+  "label" : "Case_Studies_Bubby",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_GENERAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "364a1f49-c15f-4b6c-94c4-ab025e2b7ff0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a7db1984-e52a-4951-b316-c47b0f957034",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001Ox8AIAS",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "90baf371-dc39-42e4-a8ec-d67e32d8ebbf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9389ae3d-24a7-44ab-b6c9-c288afc6e464",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(194, 133, 255);\">CASE STUDY</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(194, 133, 255); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;BUBLY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Where do you go when you want to launch a product? ELLEN! This is a three year look back at the ELLEN + bubly partnership where bubly’s objectives were to build mass awareness and buzz around the launch of a new product in order to drive consideration and trail by delivering cultural relevance and reach.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "194cdc5c-465a-4cb5-a16a-5e784d151d77",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "74a5301d-801d-4e09-af60-3a915a85fef0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "82a3191d-d966-4173-88cf-29c6c81cbfe0",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "63319298-b6db-4596-be7d-e67d52cfe378",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Case_Studies_Bubby"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "df422704-cad6-4c36-b46d-324bd3b106c4",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f5976ce1-f788-444d-b0bc-801e19976944",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-case-studies-bubby"
+}

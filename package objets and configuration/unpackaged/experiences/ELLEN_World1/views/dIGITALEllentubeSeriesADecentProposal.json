@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "8e9b4158-9e0e-4750-87f6-7df177ce7237",
+  "label" : "DIGITAL_ellentube_series_ADecentProposal",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2a36d5f6-0382-4d32-8713-a2bc730c5461",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "05b01671-a8e2-4c65-b07b-3d89807396f9",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;A DECENT PROPOSAL WITH&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;HANNAH HART&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Lover of LOVE and YouTuber Hannah Hart is here to help deserving couples get the surprise proposal of a lifetime in big, new, and unconventional ways. From picking the ring to coming up with the perfect plan, Hannah is here to make their dream proposal a reality.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "90b930fa-9059-449c-8651-230f037da049",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "5e0ab5ea-554d-4f42-aa3b-9b0c82916506",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "57a6631a-304f-460f-9aa8-578f647fad14",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9e372246-4a80-420a-8000-29f7f01fb55f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_ADecentProposal"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "13a9c320-49bf-4703-9edd-d5603dc9e1a3",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "664027c5-802d-4d66-82be-b485e3787bfe",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OOnSIAW",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "01f3fb32-3d2f-497c-bd39-cac0a73fa997",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "789ac38a-4c0f-4831-a663-d55df3ea2ff7",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-adecentproposal"
+}

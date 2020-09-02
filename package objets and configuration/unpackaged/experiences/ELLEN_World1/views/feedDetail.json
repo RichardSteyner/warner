@@ -1,0 +1,36 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "id" : "28292ab7-a9d0-4336-9b91-57b5c557a253",
+  "label" : "Feed Detail",
+  "regions" : [ {
+    "id" : "5423dfa7-cab2-4581-9806-acde7b81fd65",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "id" : "{!recordId}"
+      },
+      "componentName" : "forceCommunity:feedItemDetail",
+      "id" : "d72292a3-a521-4f24-9e1a-a87a78dc83d2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ca2409e5-f144-4472-845c-09d2dd312872",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9d82b996-ad4e-42b1-8548-b7f7568997cc",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "67daa0fc-91a7-4eab-994e-9051a660898d",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "feeditem-generic"
+}

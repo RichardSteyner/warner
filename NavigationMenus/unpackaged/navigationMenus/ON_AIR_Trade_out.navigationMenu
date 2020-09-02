@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NavigationMenu xmlns="http://soap.sforce.com/2006/04/metadata">
+    <container>ELLEN World</container>
+    <containerType>Network</containerType>
+    <label>ON-AIR_Trade_out</label>
+    <navigationMenuItem>
+        <label>ELLEN&apos;S BIRTHDAY SHOW</label>
+        <menuItemBranding>
+            <tileImage>Birthday_Show_Tradout1</tileImage>
+        </menuItemBranding>
+        <position>1</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-trade-out-ellen-bday-show</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>ELLEN&apos;S EARTH DAY</label>
+        <menuItemBranding>
+            <tileImage>Earth_Day_Tradout</tileImage>
+        </menuItemBranding>
+        <position>2</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-trade-out-ellen-earth-day</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>GAME PRIZING</label>
+        <menuItemBranding>
+            <tileImage>Gaming_Tradout1</tileImage>
+        </menuItemBranding>
+        <position>3</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/on-air-trade-out-game-prizing</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+</NavigationMenu>

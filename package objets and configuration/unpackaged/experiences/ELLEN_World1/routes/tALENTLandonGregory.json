@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "88175d3f-1700-4919-b622-34d5c2d2892c",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "2a68a19c-b807-4ecc-a022-cb0eb80991b4",
+  "label" : "TALENT_Landon_Gregory",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-landon-gregory",
+  "type" : "route",
+  "urlPrefix" : "talent-landon-gregory"
+}

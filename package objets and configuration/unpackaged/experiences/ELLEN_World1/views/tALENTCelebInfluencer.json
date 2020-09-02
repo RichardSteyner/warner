@@ -1,0 +1,57 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "bd426ab5-b8b8-4b07-9993-ff24c1c358ea",
+  "label" : "TALENT_Celeb_Influencer",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_32.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a52682e6-af4a-4e7b-ac17-94976e48f25b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "107323f8-fa30-4031-ba49-d718a4b33e3c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "TALENT"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "d0588469-b80d-466d-938d-45784da800c6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "68299b8c-8b59-4933-a633-50ebe7509058",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "41ab80af-6730-4699-a255-b4180e63d80c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_Celeb_Influencer"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "7e1eb40d-5865-4b9f-a2e4-7d761cea177f",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4cc1f9e8-2655-45ce-97b9-f9622a3a0834",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-celeb-influencer"
+}

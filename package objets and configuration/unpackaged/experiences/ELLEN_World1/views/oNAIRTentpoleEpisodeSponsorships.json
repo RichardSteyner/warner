@@ -1,0 +1,81 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "65a4a077-171f-4d90-92ef-10096329fbbc",
+  "label" : "ON-AIR_Tentpole_Episode_Sponsorships",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "7b3cb2c1-0b62-4c32-8579-693fe903cfd6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5618b320-713c-44d9-a375-f62b22066fa6",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "ON_AIR_Tentpole_Episode"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "75e615a2-22d8-4920-8b1f-7f12bd1db005",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "6a1ce64a-c0c6-43da-8793-4532b9f951e3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001P3aeIAC",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "a42e9df2-6905-4c4a-befe-b3b992c76853",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "655b2cae-8ed1-4103-aba6-b2ef776893c7",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "33b2fb3f-639b-4d7d-9195-27ef0d787b36",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Tentpole_Episode_Sponsorships"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "547292ce-f80c-455d-aabe-c51e99ed042c",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "31f4756d-70d9-44d5-bce2-8bcbca79890f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-sponsorships"
+}

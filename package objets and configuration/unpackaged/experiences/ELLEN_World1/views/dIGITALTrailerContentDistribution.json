@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "e933e61b-c3bc-423a-aa89-fe9b334315e9",
+  "label" : "DIGITAL_trailer_content_distribution",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "bd2a8bfb-82fc-4b20-870a-15b74a9ea943",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "749d9b84-8ef1-426d-8f29-a864826fb084",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;TRAILER + CONTENT DISTRIBUTION&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN has a MASSIVE audience of millions of followers across her official digital and social platforms and they eagerly consume the content posted each day. Give ELLEN fans what they crave by debuting an EXCLUSIVE SNEAK PEEK or a spot to Ellen’s followers!&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "516c5af8-6766-43d8-b75d-5ab45a03cd29",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "3dd1ed8a-80f7-4d24-b04c-4722ae8c3a3d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7de0ad29-abc2-426f-81b2-31d8563e1486",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "79d515d7-a9dd-44ea-8dfe-3f37a38f5c4a",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_trailer_content_distribution"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "32149b03-9a0c-4d9c-aa2d-02ac5f1aa0a2",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9292c41e-8fa3-435f-961a-be27a2b7506e",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-trailer-content-distribution"
+}

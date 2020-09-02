@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "370cba6c-67d5-476f-b6a2-a9ecd41405e1",
+  "label" : "TALENT_Rico_Ellis",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_37.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2f4fe0a5-7aee-4537-95eb-43ffce3a93b3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1422ea82-a440-4934-b3ad-de8edd046d1f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.MIoQ6hXmRVpsEH2JlgU4tJgavIg402Cgpm8.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "ead05b14-723d-4e82-b5c9-397087db0b50",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5830f23f-6f3b-4a89-8bda-4f7da2cb65fa",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); font-size: 36px; color: rgb(255, 255, 255);\">&nbsp;&nbsp;RICO ELLIS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">25-year-old Rico Ellis was sign spinning in Los Angeles when he was featured in </span><i style=\"font-size: 18px;\">Ellen’s Greatest Night of Giveaways </i><span style=\"font-size: 18px;\">where we learned about his hardships with homelessness and depending on public transportation to get to work. Even though Rico faced this adversity he dedicates his time to volunteer in his community and strives to be the best person he can be. Ellen loved Rico and his story so much she offered him a job at The Ellen Show where Rico works as a creative production assistant and as an Ellen Digital Ventures correspondent to pay it forward on “Rico’s Acts of Kindness” and upcoming series “Hearts Up!”</span></p><p><br></p><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "350183a1-f04b-4428-aee7-d3f8bcd6c95f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "976fe08d-1de4-44a0-8591-f09f5a4a68e0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0bb79710-7b4b-48e1-8d06-6d1907588554",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "a4bab6cb-4ce6-4eda-a9a1-d95b1769f81f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_Rico_Ellis"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b0d498ab-917b-47f0-a1cb-5a8374c730f7",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "825cef40-74a9-4664-9d65-4dc870f39a49",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-rico-ellis"
+}

@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "4ebdc15e-202f-4c3d-9fe6-8b1072446958",
+  "label" : "TALENT_Jon_Dorenbos",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "755a1318-e61c-43d6-9647-2f61013f93fd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "db96d839-884e-4fb1-a248-2296e5f63754",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Jon_Dorenbos.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "082bcead-dc1a-4b96-8b74-8cc7b65c31d7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c5938ab8-a07a-4daa-9294-1f52727c8f50",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9275975b-e03d-4c90-8626-e41734d0548f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "a0572750-5a3c-47ee-a96f-62048491a71b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1259ba66-2d3a-48f1-8f1a-9db45326a962",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;JON DORENBOS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Jon Dorenbos’ personal history of turning tragedy into triumph, combined with a determination to help and inspire others, has made him one of the most renowned motivational speakers on the circuit today—and a longtime friend of the ELLEN show. Though initially known for his 14 seasons in the NFL, Jon later gained fame as an elite magician, showcasing his skills in the finals of America’s Got Talent in 2016 and 2019. Since his football career came to an early end due to a life-threatening medical condition, he’s continued to be a role model for choosing happiness as the author of the Amazon bestseller Life Is Magic, through speaking engagements with prominent organizations such as National FFA, Jackson Hewitt, and ING Group, and as the host of ELLEN’s “Dollars from Dorenbos” segment. Jon lives in California with his wife, Annalise and their young daughter.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "4cdae666-5ade-4894-a813-372aa6c043a7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "a944eefd-3451-4bb6-868c-f10986f8ae3e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7aa61aa7-1006-4ab2-bd08-74bf997f2cfb",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-jon-dorenbos"
+}

@@ -1,0 +1,121 @@
+{
+  "activeBrandingSetId" : "655899a5-b07c-4ed9-b90a-3248ca86b5ca",
+  "customCSS" : ".forceCommunityTileMenu .tileMenuItemList {\n    justify-content: center;\n}",
+  "developerName" : "cpt",
+  "id" : "e03098ed-731a-481e-ac4d-93a8fa91e2e0",
+  "label" : "Customer Account Portal",
+  "layouts" : {
+    "Inner" : "848af662-f1c5-41f7-bef4-c81caeccb721",
+    "Login" : "dfbced42-41f4-4403-b148-767e118b72a8"
+  },
+  "type" : "theme",
+  "views" : [ {
+    "componentName" : "salesforceIdentity:loginBody2",
+    "id" : "dfbced42-41f4-4403-b148-767e118b72a8",
+    "label" : "Login",
+    "regions" : [ {
+      "id" : "3b69b4e0-324c-4a29-a432-05a89ed4a341",
+      "regionName" : "header",
+      "type" : "region"
+    }, {
+      "id" : "fa4315b0-ca25-40d4-a64c-8071e63d6e1c",
+      "regionName" : "content",
+      "type" : "region"
+    }, {
+      "id" : "a05180ba-cab3-4e57-bfb5-c475f668773a",
+      "regionName" : "footer",
+      "type" : "region"
+    } ],
+    "type" : "view"
+  }, {
+    "componentName" : "siteforce:cptBody",
+    "id" : "848af662-f1c5-41f7-bef4-c81caeccb721",
+    "label" : "Default",
+    "regions" : [ {
+      "components" : [ {
+        "componentAttributes" : {
+          "richTextValue" : "<p style=\"text-align: center;\"><br></p>"
+        },
+        "componentName" : "forceCommunity:richTextInline",
+        "id" : "beb8c838-ec4a-4bf3-9e48-5540035d5fa1",
+        "renditionMap" : { },
+        "type" : "component"
+      } ],
+      "id" : "1e42f686-5377-49e2-b541-f7fc0a6efcca",
+      "regionName" : "customHeader",
+      "type" : "region"
+    }, {
+      "components" : [ {
+        "componentAttributes" : {
+          "maxAutoCompleteResults" : 5,
+          "searchLabel" : "Search...",
+          "searchObjects" : [ {
+            "name" : "KnowledgeArticleVersion",
+            "isPublic" : true
+          }, {
+            "name" : "ContentDocument",
+            "isPublic" : true
+          } ]
+        },
+        "componentName" : "forceCommunity:globalSearchInput",
+        "id" : "3d1c2ff7-0219-4c3b-a492-4aa1f346ceda",
+        "renditionMap" : { },
+        "type" : "component"
+      } ],
+      "id" : "1df761aa-6841-479d-8857-8bdb5bfff28c",
+      "regionName" : "search",
+      "type" : "region"
+    }, {
+      "components" : [ {
+        "componentAttributes" : {
+          "accountManagementLabel" : "Account Management",
+          "communityBuilderLabel" : "Community Builder",
+          "communitySetupLabel" : "Community Setup",
+          "contactSupportLabel" : "Contact Support",
+          "filterName" : "MyCases",
+          "homeLabel" : "Home",
+          "includeContactSupport" : false,
+          "includeMessages" : false,
+          "loginLabel" : "Login",
+          "logoutLabel" : "Logout",
+          "myAccountLabel" : "My Account",
+          "showAccountManagement" : false,
+          "showUserSettings" : false,
+          "userSettingsLabel" : "My Settings",
+          "viewProfileLabel" : "My Profile"
+        },
+        "componentName" : "selfService:userProfileMenu",
+        "id" : "7e088f89-9b7f-4f3c-8b3f-fb3c08f1c197",
+        "renditionMap" : { },
+        "type" : "component"
+      } ],
+      "id" : "df1c6c43-3e27-4977-b0da-ef5611a0eed6",
+      "regionName" : "profileMenu",
+      "type" : "region"
+    }, {
+      "components" : [ {
+        "componentAttributes" : {
+          "NavigationMenuEditorRefresh" : "Default_Navigation5",
+          "hideAppLauncher" : true,
+          "hideHomeText" : false
+        },
+        "componentName" : "forceCommunity:globalNavigation",
+        "id" : "14d05897-46f0-42cb-ae65-b742682ded18",
+        "renditionMap" : { },
+        "type" : "component"
+      } ],
+      "id" : "00f7aa02-9b05-4d1f-a602-481e28c476db",
+      "regionName" : "navBar",
+      "type" : "region"
+    }, {
+      "id" : "7e8a6297-392b-4025-a970-a10ca1e316da",
+      "regionName" : "customRegion",
+      "type" : "region"
+    }, {
+      "id" : "eb0d2788-afa4-4f7d-86df-9137afb2b2a2",
+      "regionName" : "footer",
+      "type" : "region"
+    } ],
+    "type" : "view"
+  } ]
+}

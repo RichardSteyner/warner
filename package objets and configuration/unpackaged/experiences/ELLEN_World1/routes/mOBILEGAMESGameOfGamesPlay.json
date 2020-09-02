@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "bc99a9bf-2d03-4a1d-8d71-b58306fc7d02",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "6b54c439-7c3b-4814-8dca-6e5fa9cd11e4",
+  "label" : "MOBILE GAMES_Game_of_Games_Play",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-mobile-games-game-of-games-play",
+  "type" : "route",
+  "urlPrefix" : "mobile-games-game-of-games-play"
+}

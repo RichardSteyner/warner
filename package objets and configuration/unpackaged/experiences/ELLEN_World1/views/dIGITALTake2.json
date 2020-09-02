@@ -1,0 +1,186 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "a93dcdf9-1ba7-4c3f-963a-dffca3bf4c12",
+  "label" : "DIGITAL take 2",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Welcome to the Ellen Digital Network! What was once just an hour of TV is now billions of videos of highly shareable, hilarious, eventful, and fun content happening 24-hours of the day across ELLEN’s platforms. This powerful platform is an organic ecosystem, bringing together our massive social reach with video, apps and games...and most importantly creating a home for our millions of fans. </span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">How we work: Leveraging Ellen’s massive social and digital reach, we build 360 digital partnerships that are innovative, effective and one-of-a-kind. </span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Let’s work together! Complete the brand pitch doc below so ELLEN can start ideating on how your brand can come to life across ELLEN's platforms.</span></p><p> </p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "dd2f61cc-2938-45ec-8004-24609b6c031b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4846deef-cbbc-4f1a-97b2-c943b28d5cd3",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "New_Branding_Pitch",
+          "isPublic" : true
+        } ],
+        "label" : "Click Here To Submit Your Brand Pitch"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "53289926-6752-436f-8e3e-d90c9e7f414d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tabsetConfig" : {
+          "UUID" : "f3a8893f-63ab-4a9b-b687-bfa2be1a6040",
+          "activeTab" : "",
+          "useOverflowMenu" : false,
+          "tabs" : [ {
+            "UUID" : "11fce364-d3da-4ffb-bac8-64553b3d628a",
+            "tabName" : "ellentube Series",
+            "tabKey" : "1",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "2170ac05-f6cd-497d-9999-098eb72933fe",
+            "tabName" : "Custom Opportunities",
+            "tabKey" : "2",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "ac7cf606-aaa9-4488-b4ba-a91d697d2274",
+            "tabName" : "Custom Social Posts",
+            "tabKey" : "3",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "c9286de0-35b5-4989-9068-2697a9a3132f",
+            "tabName" : "Trailer + Content Distribution",
+            "tabKey" : "79a03",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "f5a91ff1-692f-4686-a162-47c419766bae",
+            "tabName" : "Digital Media",
+            "tabKey" : "7c2e8",
+            "locked" : false,
+            "allowGuestUser" : false,
+            "seedComponents" : [ ]
+          } ]
+        }
+      },
+      "componentName" : "forceCommunity:tabset",
+      "id" : "f3a8893f-63ab-4a9b-b687-bfa2be1a6040",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><br></p><p><b style=\"color: rgb(0, 0, 0);\">Momsplaining with Kristen Bell Season 6:&nbsp;&nbsp;</b></p><p>Co-produced by Ellen DeGeneres and Kristen Bell, Momsplaining is ellentube’s Emmy-Award Nominated, top performing digital series!<a href=\"null\" target=\"null\"><b> </b></a></p><p><br></p><p>Season after season Momsplaining continues to make a real difference in viewers’ lives regardless if they are a parent or not, because it offers an unfiltered glimpse into the ups and downs of what it takes to raise tiny humans with a few tips along the way!</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><br></p><p>In Season 2 of The Build Up, design and construction experts John and Anthony are giving back to a deserving community that surrounds former NFL player-turned-firefighter, Eric, who was recently diagnosed with ALS. After receiving the devastating news just one month after marrying his college sweetheart, Amanda, the entire community has rallied around this couple for support. Even though Eric’s life has been turned upside down, he is determined to face his future with positivity and determination to make a difference in other people’s lives who are also struggling with ALS.</p><p><br></p><p>John and Anthony are here to give back in a big way with life-changing surprises for the couple, like making their home handicap accessible, and spreading a message of awareness for people fighting ALS across the country.</p><p>In addition to helping Eric and Amanda accomplish some of their dreams, the Cousins John &amp; Anthony are back to spread awareness for ALS and help inspire people across the country to give what they can to help people. Over six episodes of The Build Up, we’ll create powerful moments that leverage ELLEN’s powerful ecosystem to inspire a national movement.</p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b style=\"color: windowtext;\">Lady Parts:</b><span style=\"color: windowtext;\"> </span></p><p><span style=\"color: windowtext;\">Introducing… Lady Parts! It’s a SHOW, a PODCAST and a new way of thinking and talking with a community that’s ready to have an open conversation!</span></p><p><br></p><p><span style=\"color: windowtext;\">Lady Parts is all about the bold truth telling about being authentic when it comes to sex and body issues. It’s all discussed with purpose, humor, honesty and an open mind, coming from a brand that people trust, ELLEN!</span></p><p><br></p><p><span style=\"color: windowtext;\">Hosted by a comedic celebrity host, co-hosted by expert physician and gynecologist to the stars Dr. Sherry Ross, and a rotating panel of celebrity guests, Lady Parts will change the way that women talk about their bodies!</span></p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>Not Great with Lauren:</b></p><p><br></p><p>Lauren is surrounded by strong, fearless, powerful women – she works for one as the head writer of The Ellen Show, she’s married to one – and yet she’s scared of most things. Join Lauren as she’s forced out of her comfort zone and attempts to conquer her fears one terrifying moment at a time. All while feeling… not great.</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>A Decent Proposal with Hannah Hart:</b></p><p><br></p><p>Lover of LOVE and YouTuber Hannah Hart is here to help deserving couples get the surprise proposal of a lifetime in big, new, and unconventional ways. From picking the ring to coming up with the perfect plan, Hannah is here to make their dream proposal a reality.</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>tWitch Please… Help Me Dance:</b></p><p><br></p><p>Ellen’s resident DJ, tWitch, is using his talents to help some Ellen fans learn to dance. Watch him work his magic to help a few individuals prepare for a special occasion with a performance they will never forget!</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><br></p><p>Ten years ago, Ellen made Jeannie’s dreams come true by offering Jeannie her first-ever job, right here at The Ellen DeGeneres Show. Now, Jeannie is paying it forward. She’ll be helping some very special Ellen fans experience some incredible things for the first time.</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b style=\"color: windowtext;\">Anyone vs Kid Experts</b><span style=\"color: windowtext;\">: </span></p><p><br></p><p><span style=\"color: windowtext;\">The President has his Cabinet. Luke Skywalker had Yoda. Ellen has her incredibly cute and amazingly smart team of kid experts including 7-year-old Landon Gregory (geography), 9-year-old Macey Hensley (U.S. Presidents), and more to keep her and the audience schooled in everything from flags of the world (7-year-old Nate Seltzer) to the periodic table of elements (8-year-old Finn Hathaway). And what these pint-size prodigies lack in stature, they more than make up for in viral sensation—consistently surprising and delighting fans across all ages and platforms.</span></p><p><br></p><p><span style=\"color: windowtext;\">Anyone vs. Kid Experts, the latest gameshow-style opportunity from ellentube, features ELLEN fan favorites like 7-year-old science whiz Brielle Milla, and 9-year-old pop-and-lock dancer Lil Mushroom going head-to-head against average Joes and Janes, and perhaps even celebrities who knows who’ll win—or who the audience will be rooting for?!</span></p><p><br></p><p><b>Can I Come Home Now?: </b></p><p><br></p><p>Introducing…Can I Come Home Now? ellentube’s latest digital series built around Kalen, his infectious personality and his signature style of unexpected reactions. We’re taking this home-grown talent out of his comfort zone and dropping him in random destinations across the world, with zero intel on where he’s headed, what he should pack, or what to expect. The game-show twist? Once he shares his unique brand of shock and <i>awwwww, child</i> over his new surroundings, he’ll have to take on 3 challenges before he can come on back. Whether it’s participating in a crazy cultural custom, taste-testing a bizarre food delicacy, or trying a traditional sport or exercise, the reactions are sure to cause a global sensation!</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>Do It Scared:</b></p><p><br></p><p>Since meeting and bonding over the idea of seeking personal growth through discomfort in 2015, the guys of internationally renowned digital media brand Yes Theory have amassed nearly 5 million subscribers.</p><p><br></p><p>From her delight in on-screen scares to her dedication to helping viewers build a long-lasting habit of courage and empowerment, ELLEN is the perfect partner for this wildly popular threesome, and her massively successful universe of fans, followers and viewers is the ideal place for their next major adventure: an all-new ellentube series, Do It Scared. Episodes will feature the world’s biggest stars overcoming fears as common as donating blood and as adrenaline-charged as open-water swimming, all with the same purpose—personal transformation through uncomfortable confrontation.</p><p><br></p><p>Integration opportunities could include: media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>Kiss + Makeup:</b></p><p><br></p><p>Would you ever let your partner take charge of your glam? That’s the premise of Kiss + Make Up, an all-new ellentube digital series centered around relationships, beauty, and some friendly competition. From flawless drag queen eyes to trippy makeup illusions, participants will have a seat, hold their breath, and guide their partners through the creation of meticulous, now-trending looks. But they’re not just doing it for the Insta, they’re in it for the win, too!</p><p><br></p><p>In the “nailed it/failed it” spirit of today’s most popular comedic competition shows, ELLEN is pitting three couples against each other for the wildest, edgiest, laugh-out-loudest “face-off” viewers have ever seen. Will communication skills beat artistic talents? Fortunately, the host (something of a dating and relating expert herself) is on-hand to keep the #makeupgoals strong in more ways than one.</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>Holey Roller on The Road:</b></p><p><br></p><p>Holey Roller is a game where contestants have only one chance to get a hole in one to win a cash prize!&nbsp;If the contestant misses, Ellen keeps things rollin’ till the next day, when a new player has a chance to win an even bigger cash prize!</p><p><br></p><p>Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</p><p><br></p><p><b>We Heart It</b>:</p><p><br></p><p>Celebrities show off their top 3 most liked Instagram posts and provide interesting details about what went into to making the post great; i.e. How many times did they take the photo, how they came up with a caption, why they think the post was the most liked post, etc.</p><p><br></p><p>Integration opportunities could include: media sponsorships, product integrations, trade outs, and more.</p><p>&nbsp;</p><p>&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "66d391a1-0518-4e7c-aa9b-a07415918f9b",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "11fce364-d3da-4ffb-bac8-64553b3d628a",
+        "regionLabel" : "ellentube Series",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><br></p><p><span style=\"font-size: 14px;\">Custom Original Video: Leverage the talent of ELLEN’s Emmy award-winning team to produce fun and exciting content inspired by your brand that can be distributed across ellentube, Ellen’s YouTube channel and official social platforms! We’ll create a custom video that brings to life your brand’s marketing objectives in a way that only ELLEN can do it! Plus, we’ll harness the power of ELLEN’s massive reach to distribute the custom original video across the powerful Ellen Digital Network to drive tons of engagement and views for your brand!&nbsp;&nbsp;</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "f85d5188-5082-4819-b664-99a59465ae2a",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "2170ac05-f6cd-497d-9999-098eb72933fe",
+        "regionLabel" : "Custom Opportunities",
+        "regionName" : "2",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><br></p><p><span style=\"font-size: 14px;\">ELLEN has a tremendous massive reach with over </span><b style=\"font-size: 14px;\">195 million </b><span style=\"font-size: 14px;\">followers across Facebook, Twitter and Instagram! Let’s leverage her massive social audience for your brand with a series of snackable social pushes!</span></p><p><span style=\"font-size: 14px;\">Ellen will drive massive awareness to her robust social audience through a series of custom, snackable, and super shareable posts.</span></p><p><span style=\"font-size: 14px;\">By inserting advertisers into the world of ELLEN, your brand can align with ELLEN’s signature style of comedy all while harnessing the power of her social reach to keep your brand top-of-mind as they scroll through their social feeds!</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "476c9da6-1599-4c0e-a22a-72fc264d90e7",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "ac7cf606-aaa9-4488-b4ba-a91d697d2274",
+        "regionLabel" : "Custom Social Posts",
+        "regionName" : "3",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><br></p><p><span style=\"font-size: 14px;\">ELLEN has a MASSIVE audience of millions of followers across her official digital and social platforms and they eagerly consume the content posted each day! Give ELLEN fans what they crave by debuting an EXCLUSIVE SNEAK PEEK or a spot to Ellen’s followers!&nbsp;</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "cb97af5e-8dc3-4104-9240-6aa21efeda13",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "c9286de0-35b5-4989-9068-2697a9a3132f",
+        "regionLabel" : "Trailer + Content Distribution",
+        "regionName" : "79a03",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><br></p><p><span style=\"font-size: 14px;\">Harness the power of the Ellen Digital Network to extend your brand’s campaign messaging. Across the expansive network, ELLEN can reach your brand’s desired audience through geographic, behavioral and demographic targeting.&nbsp;</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "3bb1689f-e458-40ff-aee5-3f9c38a27772",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "f5a91ff1-692f-4686-a162-47c419766bae",
+        "regionLabel" : "Digital Media",
+        "regionName" : "7c2e8",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a01bf810-d2d5-4fa2-a0df-e901104884f8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "a4437e0b-539d-4fa5-be25-e0cc3fd9a271",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "9d217c08-0bd8-49ea-97e9-cd5c888fb898",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b2c255d4-1b56-4c5a-955f-3505936606b8",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "03c0df00-4083-4dbd-96e9-2a92eaca7f76",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "65c6cd75-e2d1-4399-b7a0-1ae973ae0ca7",
+  "label" : "TALENT_Aidan_McCann",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-aidan-mccann",
+  "type" : "route",
+  "urlPrefix" : "talent-aidan-mccann"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "cb593131-906f-4c07-a905-29bfa35f97ba",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "78fc9036-c127-49ed-b4e4-fd9466e7b015",
+  "label" : "Case_Studies_Fearless",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-case-studies-fearless",
+  "type" : "route",
+  "urlPrefix" : "case-studies-fearless"
+}

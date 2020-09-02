@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "ad58248d-124f-476a-b625-3187b5349f79",
+  "label" : "TALENT_Nick_AND_Sienna_Casas",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d59ec35f-2747-40f9-9893-78a53148f50d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e0c81cfd-6cb0-4c33-999b-a1c42dfc78bb",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Nick_Sienna_Casas.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f9117679-d31d-4833-ad0a-c503b33f1664",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "14c2adb0-eb1c-43c1-a9cc-dde8b756ed70",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "7678f59a-86d8-4c1a-9194-a15e4eb18748",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "cac2649d-10ce-4652-a3a3-cb4b79468538",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "42bee219-e5da-46ed-bea3-1e8ee17ffb3f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;NICK &amp; SIENNA CASAS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Father-daughter singing duo Nick and Sienna skyrocketed to fame last year after posting their cover of “Señorita” to social media, garnering more than 10 million views and shares from the song’s original artists, Shawn Mendes and Camila Cabello. They’ve also caught the eyes (and ears) of the Jonas Brothers, who have shared their covers of “Burnin’ Up” and “Sucker,” as well as a special moment during their recent concert. An Orange County, CA Deputy Sheriff, Nick has loved singing his entire life and enjoys connecting with his daughter and bringing joy to others through music. With more than 2 million followers on TikTok, they’ve also appeared twice on The Ellen DeGeneres Show, where they received standing ovations for their performances.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2696580e-fcf0-48de-afa5-cb74d81e7441",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "121377ca-9a3f-4c30-b21a-6b9d93cb15c4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "232db1bf-2a34-4dc0-9803-8237e2c39a54",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-nick-and-sienna-casas"
+}

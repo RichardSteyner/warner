@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "899883a3-dd05-4091-aceb-1b03413e2f10",
+  "label" : "TALENT_Lauren_Pomerantz",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "553919a9-4459-428c-80c5-7c1cef974e19",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e3469389-64d9-4c91-a9d8-af1f95e0e31f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Lauren_Pomerantz.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "aa57fe5d-b9ee-4415-ac07-d80113eb86bb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "86beeade-c271-449c-babe-2661c126d958",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "4fb6b930-96da-4dc3-b350-2be863f8ddac",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "869e81f9-0982-4465-ac2b-421a39ea4fe8",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5675fead-612f-481f-8bac-51d36d55c239",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); font-size: 36px; color: rgb(255, 255, 255);\">&nbsp;&nbsp;LAUREN POMERANTZ&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">She may have gotten her start as a writer on Saturday Night Live and penned primetime scripted series like Community, but Lauren Pomerantz is best known for her work with The Ellen DeGeneres Show, where she’s been a fixture both behind-the-scenes and on-camera since season 5. A 15-time Daytime Emmy winner, audience favorite, and something of Ellen’s go-to guinea pig, Lauren can be frequently seen in situations ranging from the slightly mortifying (speaking song lyrics to strangers) to the downright terrifying (swimming with sharks)—and the results are always 1000% entertaining. She is currently navigating similar uncomfortable situations for laughs as creator and star of the ellentube original series, “Not Great with Lauren.” Lauren resides in Los Angeles with her wife, Elizabeth (a writer who happens to be the granddaughter of Mary Higgins Clark), and their dog, Sophie Dog.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f387b744-5928-4dd5-91e9-09744a77a962",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "0a26620b-e252-4b73-afda-9afb5414ad0f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "88780003-11c7-4741-9f7a-eb8beae2871c",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-lauren-pomerantz"
+}

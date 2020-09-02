@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "7ca7e9eb-d921-48f2-98cb-b27527dfea05",
+  "label" : "DIGITAL_ellentube_series_CanICome",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f55329ca-4f6e-46cd-b342-1df9ffaedbae",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fc7bed14-d169-49d8-b282-3680a3b6e5bb",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;CAN I COME HOME NOW?&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Introducing…Can I Come Home Now? ellentube’s latest digital series built around Kalen, his infectious personality and his signature style of unexpected reactions. We’re taking this home-grown talent out of his comfort zone and dropping him in random destinations across the world, with zero intel on where he’s headed, what he should pack, or what to expect. The game-show twist? Once he shares his unique brand of shock and </span><i style=\"font-size: 18px;\">awwwww, child</i><span style=\"font-size: 18px;\"> over his new surroundings, he’ll have to take on 3 challenges before he can come on back. Whether it’s participating in a crazy cultural custom, taste-testing a bizarre food delicacy, or trying a traditional sport or exercise, the reactions are sure to cause a global sensation!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "59f894d9-ea76-48b0-a822-2ca78ac6fc15",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "86b718db-c07b-46f8-8ef2-a55fea0a0f46",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "82d1a036-bb05-44ff-a405-c06285a0c278",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "f331d2d4-85dc-400b-845b-050c32dfd636",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_CanICome"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "9cf3c338-beef-467f-8e47-8c9f05a4722c",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "05ebc27a-54cb-4d46-9bd4-9631216d8c98",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001P3aPIAS",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "8b84b9c5-77be-4415-8a0b-11caa9768497",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b9747c2f-fe8e-4174-9e5c-57cd1a4abf63",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-canicome"
+}

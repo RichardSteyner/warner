@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "29250ece-8039-47df-9f44-2103f6ac78b5",
+  "label" : "TALENT_Jeannie_Klisiewicz",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_36.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "29429250-6284-47bc-95b3-0a80aa90ccec",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "89b702b5-ab75-4b38-8ca5-657aded31776",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.NPIhH81sGTc7c0byZxFKnvEeUnwYROaE_Gj.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "21d0737b-a79b-47f9-b0dd-95e1b2a57aec",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d0a936fc-108d-4d0b-a2cf-e4b860e12ade",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;JEANNIE KLISIEWICZ&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">34-year-old Jeannie Klisiewicz (Stathis) was born and raised in Sugar Grove, Illinois. Jeannie is a graduate of the University of Illinois at Urbana-Champaign Class of 2008 where she earned a degree in elementary education. Jeannie was fresh out of college when she received the opportunity to work at The Ellen Show after six years of submitting herself to every contest the show hosted, Ellen offered her a job. 11 years later, Jeannie has worked at </span><i style=\"font-size: 18px;\">The Ellen DeGeneres Show</i><span style=\"font-size: 18px;\"> as a correspondent interviewing talent and surprising deserving people with giveaways, the receptionist for the production office, and host of her Ellen Digital Ventures series, </span><b style=\"font-size: 18px;\">“</b><span style=\"font-size: 18px;\">Jeannie’s Life’s First Evers</span><b style=\"font-size: 18px;\">”</b><span style=\"font-size: 18px;\">. Jeannie’s outstanding work has allowed her to spend the past decade paying it forward which she will continue to do with Ellen Digital Ventures new series, “Hearts Up!”</span></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "9e1d2609-34dd-4eb8-b43e-769a6929c1f6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "f12b491d-81f9-4d6b-9cba-b4fdb909c2e1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a615b09c-36ef-4030-af29-986556dacdba",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "568a6f82-7923-4453-b666-fcd7431378a9",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_Jeannie_Klisiewicz"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "9e50576b-6d22-4c8c-af16-cd3b23eda7f0",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bfa33860-a110-42c6-a802-899fad6dcafe",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-jeannie-klisiewicz"
+}

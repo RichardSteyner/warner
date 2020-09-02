@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "cd8e13a3-dd9f-4167-a417-69aa5fc7fe9b",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "1b83918f-6af4-4fdc-8abf-b1203473f414",
+  "label" : "ON-AIR_Tentpole_Episode_BREAST_CANCER_AW",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-breast-cancer-aw",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-breast-cancer-aw"
+}

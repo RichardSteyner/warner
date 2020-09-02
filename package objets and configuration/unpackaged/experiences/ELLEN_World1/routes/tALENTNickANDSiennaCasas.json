@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "ad58248d-124f-476a-b625-3187b5349f79",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "ba12e3da-ee8d-411d-b647-0a9610ef7bc1",
+  "label" : "TALENT_Nick_AND_Sienna_Casas",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-nick-and-sienna-casas",
+  "type" : "route",
+  "urlPrefix" : "talent-nick-and-sienna-casas"
+}

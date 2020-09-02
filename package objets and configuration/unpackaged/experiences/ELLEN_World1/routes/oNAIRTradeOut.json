@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "81b03191-e740-4b68-b8fc-fc5f033fa876",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "fe096895-ea85-4af9-a89a-2911d6df36da",
+  "label" : "ON-AIR_Trade_out",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-trade-out",
+  "type" : "route",
+  "urlPrefix" : "on-air-trade-out"
+}

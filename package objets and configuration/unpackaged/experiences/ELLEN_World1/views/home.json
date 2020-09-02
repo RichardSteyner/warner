@@ -1,0 +1,115 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "b54c849c-4d01-4b58-b275-41f0c864cfcb",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Replace this text with content of your own.</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b11327e9-6d9a-4107-9847-a9e9659dd35a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "910d492a-f419-4e4a-8919-502338ae6211",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "New_Branding_Pitch",
+          "isPublic" : true
+        } ],
+        "label" : "CLICK HERE To Submit Your Brand Pitch"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "faea1813-51fc-41be-b85d-94eb5ba07aec",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "align" : "center",
+        "borderColor" : "",
+        "byLine" : "from",
+        "handle" : "ellentube",
+        "hasBorder" : false,
+        "heading" : "Tweets",
+        "height" : "600",
+        "linkColor" : "820bbb",
+        "showHandle" : true,
+        "showReplies" : true,
+        "theme" : "light",
+        "tweetLimit" : ""
+      },
+      "componentName" : "SS_TF:SS_TwitterFeed",
+      "id" : "5404b97b-ed36-4007-b75d-9c34f849970d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "richTextValue" : "<p> </p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "27d7e937-121d-4400-90da-082eb8f6c5d3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "56211c81-c458-478d-872a-0638ca563f11",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "align" : "center",
+        "borderColor" : "",
+        "byLine" : "from",
+        "handle" : "theellenshow",
+        "hasBorder" : false,
+        "heading" : "Tweets",
+        "height" : "600",
+        "linkColor" : "820bbb",
+        "showHandle" : true,
+        "showReplies" : true,
+        "theme" : "light",
+        "tweetLimit" : ""
+      },
+      "componentName" : "SS_TF:SS_TwitterFeed",
+      "id" : "557c9dbc-8c7d-401a-ac0d-1c0e1d8bb983",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "02eb08a4-467b-4e9b-a1b5-40fa56e37ddf",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "1ecf1a1b-db88-417d-afeb-87943a44fb94",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "HOME"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b5e7474c-0954-4b89-9d28-71085d825245",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "816ed468-faa5-45da-935c-a615d502fef6",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

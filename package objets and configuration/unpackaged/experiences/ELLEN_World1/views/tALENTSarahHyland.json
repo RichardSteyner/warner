@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "1bb080a9-0854-4cab-9d24-82ca2dd732a1",
+  "label" : "TALENT_Sarah_Hyland",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_38.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "8ba9c461-33f2-4d80-a5a4-ede67b5405d9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ad5261cb-1ff3-4ae2-bafe-a03650b302e0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "Replace this text with content of your own."
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "c50895c2-f006-43d2-8b8f-99321251a4cb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0e3d6026-84da-4661-88d0-b27db8178948",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;SARAH HYLAND&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Best known for her breakout role of beloved, snarky and oldest sibling, Haley Dunphy, on the hit series, </span><i style=\"font-size: 18px;\">Modern Family</i><span style=\"font-size: 18px;\">, New York native Sarah Hyland’s true self is actually determined, courageous, ambitious and unapologetic. Recently and happily engaged to </span><i style=\"font-size: 18px;\">The Bachelorette</i><span style=\"font-size: 18px;\"> and </span><i style=\"font-size: 18px;\">Bachelor in Paradise</i><span style=\"font-size: 18px;\"> alum, Wells Adams, Hyland has been candid about her ongoing physical and mental health issues, including the struggles of two kidney transplants, endometriosis, 16 surgeries and her battle with depression. </span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Her inspiring story has been featured in </span><i style=\"font-size: 18px;\">Self </i><span style=\"font-size: 18px;\">and on the cover of </span><i style=\"font-size: 18px;\">Cosmopolitan</i><span style=\"font-size: 18px;\">, as she continues to advocate for self-awareness, self-care and healthy living. With over 10 million followers, being the face of No B.S. Skin Care and a wedding to plan, Hyland is ready to tackle new adventures now that the 11th and final season of </span><i style=\"font-size: 18px;\">Modern Family</i><span style=\"font-size: 18px;\"> has wrapped up. 29-year-old Hyland was born in Manhattan, NY and currently lives in Los Angeles, CA, with her fiancé and her dog Boo.</span></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0f9be7a7-3094-48ce-96d2-01cae3e3c1e0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "43e35961-9c0f-4f62-b57a-856ecbd4935b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e711facc-bf9d-4422-b15e-d8ddae41efc9",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "f26ed65a-0e00-466e-9d82-8d6d2d55c4fb",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_Sarah_Hyland"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "39337727-f947-47a4-a09a-57a75c3ab5c6",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9dbe7e00-666d-42f9-84f8-9bbd536a0a39",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-sarah-hyland"
+}

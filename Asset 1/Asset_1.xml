@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>A_Decent_Proposal_with_Hannah_Hart</members>
+		<members>Aidan_McCann</members>
+		<members>Andy_RT</members>
+		<members>Anyone_vs_Kid_Experts1</members>
+		<members>Ashley_Graham</members>
+		<members>Average_Andy_Title_Still</members>
+		<members>Birthday_ShowTradout</members>
+		<members>Birthday_Show_Tradout1</members>
+		<members>Breast_cancer_Awareness_Month11</members>
+		<members>Brielle_Milla</members>
+		<members>Bubly</members>
+		<members>BublyBreast_Cancer</members>
+		<members>CA_WalnutsValentines</members>
+		<members>Can_I_Come_Home_Now</members>
+		<members>Cinco_De_Mayo</members>
+		<members>Date_My_Friend_Mock_Logo01</members>
+		<members>Digital_Momsplaining</members>
+		<members>Do_It_Scared</members>
+		<members>Do_It_Scared_Mock_Logo</members>
+		<members>Dove_Cameron_Headshot_2018_Martina</members>
+		<members>DrSherylRoss</members>
+		<members>ELLEN_BOX_BANNER</members>
+		<members>ELLEN_DIGITAL_BANNER</members>
+		<members>ELLEN_DIGITAL_BANNER_3</members>
+		<members>ELLEN_DIGITAL_BANNER_31</members>
+		<members>ELLEN_DIGITAL_BANNER_32</members>
+		<members>ELLEN_EDN_BANNER</members>
+		<members>ELLEN_GENERAL_BANNER</members>
+		<members>ELLEN_GENERAL_BANNER2png</members>
+		<members>ELLEN_GENERAL_BANNER_31</members>
+		<name>ContentAsset</name>
+	</types>
+	<version>48.0</version>
+</Package>

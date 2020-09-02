@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "899883a3-dd05-4091-aceb-1b03413e2f10",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "766da496-d2cf-4dbf-a658-c68e5f1d8bea",
+  "label" : "TALENT_Lauren_Pomerantz",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-lauren-pomerantz",
+  "type" : "route",
+  "urlPrefix" : "talent-lauren-pomerantz"
+}

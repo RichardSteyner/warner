@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "15a5a7d1-e307-4a1c-a18e-06aa81cd0743",
+  "label" : "TALENT_Ayesha_Curry",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f84b7261-18e6-45be-98a1-5e1d7ebdf677",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3e225f3f-2225-4fab-913a-2edf4028231f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.wmmayeshacurryv2.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "3cd61b07-6757-4c26-94d2-e4351dc014b4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8ac8c3c3-0f37-4581-a21f-a6838efe11b2",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "8812e4b9-7a90-4704-bb6c-99ecb9838997",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "ce135f72-19bb-4145-b9fd-06dce93f7a5b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c50246c6-515e-416c-983a-e19d53fd9a71",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;AYESHA CURRY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">She may be “in the thick of it,” as wife of NBA superstar Steph Curry and mom to three young children ages 7, 4, and 1, but Ayesha Curry is known for embracing the “beautiful chaos” and juggling her roles inside and outside the home like a boss! The culinary chef, restaurateur, and wine entrepreneur’s side hustles include authoring the New York Times bestseller The Seasoned Life, hosting, judging and executive producing ABC’s Family Food Fight, and serving as an ambassador to CoverGirl cosmetics. In addition to her cookware and bedding lines that are sold at retailers like Target, Bed, Bath &amp; Beyond and, Wayfair, her curated time- and stress-saving lifestyle solutions can be shopped and experienced on her website, shophomemade.com. Ayesha also currently provides up-and-coming female entrepreneurs with the advice and tools they need to build their businesses on the ellentube original series Fempire.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "c40c8c02-a78f-425a-8e5f-6b7e9f7b6e9f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "0a04a106-29ce-4a96-bdaf-5c4280e40aea",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "faff4509-5e73-4f57-83b7-bc1701aa2dca",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-ayesha-curry"
+}

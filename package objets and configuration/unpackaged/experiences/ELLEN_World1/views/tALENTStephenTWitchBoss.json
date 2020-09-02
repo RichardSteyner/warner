@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "586e9a2b-b515-4083-afb5-481c54200844",
+  "label" : "TALENT_Stephen_“tWitch”_Boss",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "29d1c1b1-a4bb-4492-9835-885599059040",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f7eb2cb4-89c2-4be0-ae7d-ff8eb5abf450",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Stephen_twitch_Boss.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d7dd1bdf-49c2-4b3b-b66f-8b30cd9b28d5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1f6dbcaa-6b2d-48e3-9304-9815e8b48257",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "a0c9564e-b8a9-4908-9ef6-3259304e9c26",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "78355f7b-63e2-4e83-8ccd-a767e36c6843",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "763fd9e9-6729-49ed-9fcf-127a897a1acf",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;\"TWITCH\" STEPHEN BOSS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">Born and raised in Montgomery, Alabama, Stephen’s early practice of “popping,” the funk dance style characterized by tensing and releasing muscles to the rhythm of beats, earned him the nickname “tWitch.” After studying dance in college, his big break came as a runner-up on season 4 of So You Think You Can Dance (SYTYCD), where the piece choreographed for him and a partner by Mia Michaels was later nominated for an Emmy. tWitch has subsequently returned to the show as an All Star in seasons 7, 8, and 9, and as a Team Captain in season 12. Since 2014 he’s kept audiences and celebrities movin’ and groovin’ as resident DJ for The Ellen DeGeneres Show; he’s also hosted his own ellentube series, “tWitch Please...Help Me Dance!” and serves as announcer/sidekick on the NBC primetime show Ellen’s Game of Games. tWtich lives in Los Angeles with his wife, fellow SYTYCD alum Allison Holker, and their three children, Weslie, Maddox, and Zaia.&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "da51779b-1f61-44c1-93f2-8b8f287a1f44",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "484ba61d-347d-47ac-8121-974ae7c7eb77",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "28028f83-4b46-46ab-91f3-da39811bd881",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-stephen-twitch-boss"
+}

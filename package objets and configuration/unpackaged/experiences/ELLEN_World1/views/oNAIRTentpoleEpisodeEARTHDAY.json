@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "c16ac8dd-9fbe-4c5a-bae7-17022cc1c7b9",
+  "label" : "ON-AIR_Tentpole_Episode_EARTH_DAY",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "cce254e8-41f7-4604-9bb6-19462f5a1bfe",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e540c927-b182-4150-b202-88c01f336dd7",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">APRIL</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(102, 163, 224); font-size: 36px;\">&nbsp;&nbsp;EARTH DAY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Each year, ELLEN’s Earth Day Episode reminds fans and viewers of the important commitment to protecting and saving our planet.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "4e5eec52-0c63-47db-bb7a-bad7e1af3682",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "14390787-0838-48c1-99f8-0b36aa160659",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fd9c652c-c5e8-4d36-843e-00096924ca75",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "16528e94-1aa7-4869-95b4-842274984b7a",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "80afb14c-69d6-4d3b-bdfd-5470c1b1356e",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a83257e9-dacf-4705-93ba-c143a5725904",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.asset_8GreensEarth_Day.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "084488bc-210d-48c4-a364-8c0157a55758",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5a3d1279-583a-49e1-80be-826b44b1e5cd",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-earth-day"
+}

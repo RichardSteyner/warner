@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "016c54a7-c7af-4160-8d83-3e79c847da16",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "d96e2e34-4147-4914-b775-ea5b11972a3b",
+  "label" : "TALENT_Kalen_Allen",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-kalen-allen",
+  "type" : "route",
+  "urlPrefix" : "talent-kalen-allen"
+}

@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "a3f7f17f-44a7-4636-a241-2b0d36f78d1b",
+  "label" : "TALENT_Finn_Hathaway",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "780550ff-eb72-4e40-ac28-9943ffe05835",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "de22325b-ae60-4308-8872-0578a8f28c09",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Talent_Finn_Hathaway.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f5090474-ffbd-49c3-bfe4-d1bc65e656d7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fa9e8952-c710-4b1b-8741-8035a082b848",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "1bf079b0-07c0-43a4-8c65-49275336a1cd",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "05e8e7ee-bd9d-4b44-9e1d-265c9bc8de98",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f6c9124e-a2cc-4ef6-9a7d-946b4461ed58",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;FINN HATHAWAY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">At just eight years old, Denver, CO math and chemistry whiz Finn Hathaway has already mastered the periodic table to the point where he’s officially “over it.” He first showed off his backwards-and-forwards knowledge of each element’s name, atomic number, and usage on The Ellen DeGeneres Show in 2018, and has since returned to discuss his new obsession—anagrams—which he can solve within seconds. A board game enthusiast, Finn recently created his own “possible casino game” called “Flippet.” Not surprisingly given his current interest in wordplay, the third-grader’s favorite board game is Scrabble.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a2f2456c-813d-4159-a947-3850fca2cda1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "515040ad-30c0-4bf9-9343-80fa8aeb05f4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d1d8b735-393d-4ed5-b0f7-34aa8b0041e9",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-finn-hathaway"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "34c3b19e-6739-4e4b-ae1e-36e9171d317e",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "778fa4b5-a0ef-4fc7-a799-686eff92e48c",
+  "label" : "DIGITAL_ellentube_series_Think_Tank",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-think-tank",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-think-tank"
+}

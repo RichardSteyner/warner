@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "a684690f-d188-47d8-a422-1799b115083a",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "5f15ef95-b71c-4fb2-b769-cb577614bc40",
+  "label" : "on-air-trade-out_Game Prizing",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-trade-out-game-prizing",
+  "type" : "route",
+  "urlPrefix" : "on-air-trade-out-game-prizing"
+}

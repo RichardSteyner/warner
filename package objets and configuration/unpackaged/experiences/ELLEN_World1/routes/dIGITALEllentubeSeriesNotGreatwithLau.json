@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "d1eb42cd-eef3-44cb-9c63-528e4cfd184e",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "d20c0fda-19ce-4abb-9d12-661c142d8a0d",
+  "label" : "DIGITAL_ellentube_series_NotGreatwithLau",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-notgreatwithlau",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-notgreatwithlau"
+}

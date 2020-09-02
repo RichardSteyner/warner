@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "5ebf4649-2ee0-42f5-a021-218b6741b3c8",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "def3cc70-bc17-40e5-b627-d2340cdd7906",
+  "label" : "TALENT_Kristen_Bell",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-kristen-bell",
+  "type" : "route",
+  "urlPrefix" : "talent-kristen-bell"
+}

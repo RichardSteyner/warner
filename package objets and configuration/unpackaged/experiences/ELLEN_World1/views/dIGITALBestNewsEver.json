@@ -1,0 +1,71 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "d61a6ef7-76c0-4214-9ab2-821a6dc6ebe0",
+  "label" : "DIGITAL_Best_News_Ever",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Replace this text with content of your own.</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2d72bb98-d29b-4d1e-bfbc-777be4c68795",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "79c0a077-783f-4c7d-b421-50720d56c95c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "Replace this text with content of your own."
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b9f49119-e1d2-4cef-8941-a8f3fdbea0b7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5699cec1-5763-4f2d-b715-1c96605cd853",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "Replace this text with content of your own."
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "7286c1cc-0822-4c1a-8389-e98986e154c0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bea2b643-7a6a-4619-9f9b-9a8631259016",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "4fd83245-282e-4ebe-9c9f-068a082702e4",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_Best_News_Ever"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "8ab478a7-6764-414f-97a8-8b64e8314d33",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d6c9c9c1-4c74-425b-af46-55579da01dbd",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-best-news-ever"
+}

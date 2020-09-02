@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "b5f0f16d-cf6f-4c5d-b87d-36aedec47286",
+  "label" : "DIGITAL_ellentube_series_Momsplaining",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1ce18237-ffef-48fe-909a-6e9a5e227e5a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a8ef0255-03f4-4adf-89f3-ff9166b9b0a5",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;MOMSPLAINING&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;WITH&nbsp;KRISTEN BELL&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Co-produced by Ellen DeGeneres and Kristen Bell, Momsplaining is ellentube’s Emmy-Award Nominated, top performing digital series!</span><a href=\"https://wb--tpx7--livepreview.cs41.force.com/s/null\" target=\"null\" style=\"font-size: 18px;\"><b> </b></a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Season after season, Momsplaining continues to make a real difference in viewers’ lives regardless if they are a parent or not, because it offers an unfiltered glimpse into the ups and downs of what it takes to raise tiny humans with a few tips along the way!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "eb319683-8952-495a-8870-395bcff5c229",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "e951d946-1333-4a48-a1bc-333bed12afc2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8da61941-2839-4b0a-86c5-5ee7540d0e11",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9499be04-a5cd-4235-b7a3-b4f6396b8064",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_Momsplaining"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "08ed784a-6af0-4c46-b27a-83d4392b19de",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c1ec5a00-d37d-47a4-9a0d-4f27f65f9c0c",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OP9TIAW",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "7cfd33df-9337-4c99-8344-bf2bf76d1f7a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "12fae76e-91f7-4b85-81a2-8a62e0c9eb9b",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-momsplaining"
+}

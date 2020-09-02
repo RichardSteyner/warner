@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "9eea2fe4-0937-4d57-8798-449ef1d47e57",
+  "label" : "TALENT_Justin_Wilson",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "97bd79f0-1743-41b8-af1c-69a24d3a9b8c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4923558a-40de-46c2-8887-df32d25e1814",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Justin_Wilson.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b9248d94-57a9-45af-af66-ad24f32b86df",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f92183b8-6dc7-42d4-b156-eb4f5c0d625f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "b3b02dbf-84c3-49e6-83e2-b37fc605052a",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "3df5f28e-7a17-459e-8dba-c6c1f8280971",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "37d8b9e4-cad8-423c-ba3a-f7e437d1d086",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;JUSTIN WILSON&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The son of a vocalist and a Grammy-winning pianist, five-year-old Justin was born to rock—and he’s been making his parents proud tapping out beats since he was only a few months old. First appearing on the social and mainstream media scene at the age of one, the so-called BabyBoyDrummer has released his own album, LJ’s World, and met and performed for his musical idols including Jonathan Sugarfoot Moffett (Michael Jackson’s drummer) and for players and fans at an NBA Golden State Warriors game. He’s also a new friend of ELLEN: during his second appearance on The Show, she surprised Justin by bringing out one of his all-time favorite musicians, Lenny Kravitz!&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1f43ca58-c28d-441d-98e8-54323f0ce287",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "86e4551c-35f1-47cc-bd86-8de3439c9619",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c114c8fa-326c-4f38-a63f-b60395ff7d53",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-justin-wilson"
+}

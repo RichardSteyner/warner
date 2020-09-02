@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "d61a6ef7-76c0-4214-9ab2-821a6dc6ebe0",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "78e7eacf-7de5-4ee3-9bb0-d555d9df91a8",
+  "label" : "DIGITAL_Best_News_Ever",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-best-news-ever",
+  "type" : "route",
+  "urlPrefix" : "digital-best-news-ever"
+}

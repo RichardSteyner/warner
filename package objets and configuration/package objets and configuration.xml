@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Account.Category__c</members>
+		<members>Brand_Details__c.Account__c</members>
+		<members>Brand_Details__c.Brand_Category__c</members>
+		<members>Brand_Details__c.Brand_Name__c</members>
+		<members>Brand_Details__c.Budget__c</members>
+		<members>Brand_Details__c.Contact__c</members>
+		<members>Brand_Details__c.Deal__c</members>
+		<members>Brand_Details__c.Details_of_Marketing_Campaign__c</members>
+		<members>Brand_Details__c.Important_things_about_Brand__c</members>
+		<members>Brand_Details__c.Lead__c</members>
+		<members>Brand_Details__c.Main_KPIs__c</members>
+		<members>Brand_Details__c.Priority_elements__c</members>
+		<members>Brand_Details__c.Product__c</members>
+		<members>Brand_Details__c.Timing_of_Integration__c</members>
+		<members>Brand_Details__c.X2_3_Key_Messages__c</members>
+		<members>Custom_Content__c.ContentDocumentId__c</members>
+		<members>Custom_Content__c.Download_Url__c</members>
+		<members>Lead.Brand_Category__c</members>
+		<members>Lead.Brand_Name__c</members>
+		<members>Lead.Budget__c</members>
+		<members>Lead.Details_of_Marketing_Campaign__c</members>
+		<members>Lead.Important_things_about_Brand__c</members>
+		<members>Lead.Main_KPIs__c</members>
+		<members>Lead.Priority_elements__c</members>
+		<members>Lead.Timing_of_Integration__c</members>
+		<members>Lead.X2_3_Key_Messages__c</members>		
+		<members>Lead.Message_To_Ellen_Team__c</members>
+		<members>Lead.What_do_you_want_to_learn_about__c</members>				
+		<name>CustomField</name>
+	</types>	
+	<types>
+		<members>Lead.Ellen_Community</members>
+		<name>RecordType</name>
+	</types>
+	<types>
+		<members>Brand_Details__c</members>
+		<members>Custom_Content__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Brand_Details__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>unfiled$public/Ellen_Community_Alert_Alex</members>
+		<name>EmailTemplate</name>
+	</types>
+	<types>
+		<members>Ellen_Community_Brand_Details_record_Correction</members>
+		<members>Ellen_Community_Brand_Details_record_update</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>Brand_Details__c-Brand Detail Layout</members>
+		<members>Custom_Content__c-Custom Content Layout</members>
+		<members>Lead-Ellen Community</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>Brand_Details__c.All</members>
+		<name>ListView</name>
+	</types>	
+	<types>
+		<members>Ellen Community Partner User</members>
+		<members>Ellen%27s World Guest user</members>
+		<members>TPX - Standard User</members>
+		<name>Profile</name>
+	</types>
+	<types>
+		<members>Community_Builder_Access</members>
+		<name>PermissionSet</name>
+	</types>	
+	<types>
+		<members>Lead.Ellen Lead Assignment</members>
+		<name>AssignmentRule</name>
+	</types>
+	<types>
+		<members>Create_Lead_Community_Controller</members>
+		<members>Create_lead_Community_Controller_Test</members>
+		<members>CustomVideoGallery</members>
+		<members>CustomVideoGalleryTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>CustomVideoGalleryGenerateURL</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>Lead.Ellen Process New</members>
+		<name>BusinessProcess</name>
+	</types>
+	<types>
+		<members>Create_Lead_Community</members>
+		<members>CustomVideoGallery</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
+	<types>
+		<members>ELLEN_World</members>
+		<name>CustomSite</name>
+	</types>
+	<types>
+		<members>ELLEN_World1</members>
+		<name>ExperienceBundle</name>
+	</types>	
+	<types>
+		<members>ELLEN World</members>
+		<name>Network</name>
+	</types>
+	<types>
+		<members>Visualfoce_1</members>
+		<members>publicCommunityLink</members>
+		<members>Community_deploy</members>
+		<name>CspTrustedSite</name>
+	</types>		
+	<types>
+		<members>cbELLEN_World</members>
+		<name>NetworkBranding</name>
+	</types>
+	<version>48.0</version>
+</Package>

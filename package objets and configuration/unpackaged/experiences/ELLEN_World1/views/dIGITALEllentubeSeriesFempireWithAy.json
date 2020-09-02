@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "367efe49-dc06-4fb8-9828-08b3726d4d47",
+  "label" : "DIGITAL_ellentube_series_Fempire_with_Ay",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "06529337-b6b2-4f68-924c-65e600e34335",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "640a7647-1eac-4edf-b1b0-ed17fc24f6e5",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;FEMPIRE WITH </b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\"> AYESHA CURRY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Let’s face it — juggling your own business can be challenging. Women often put so much pressure on themselves to achieve milestones or goals that can sometimes feel unattainable and feel counterproductive when they don’t measure up.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Work/life balance can be challenging when so much life gets in the way! Mom Boss and host of Fempire Ayesha Curry understands this dilemma better than anyone. By lending her wisdom, business savvy, and sense of humor, she’ll empower even more female entrepreneurs in the next season of Fempire to help them achieve the goal of building their fempire and take it to the next level.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Whether it’s reminding a young mother what she’s truly gifted at so she feels ready to launch her business or accompanying a shy girl boss to her first pitch to secure more funding, Ayesha is the relatable yet unflappable business-savvy friend you want in your corner!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "9e8edc34-9fdc-40a1-be6e-ff959b59a8ba",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "d7d2823c-c950-42cf-b9af-719330c4b6d3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6a0aa602-87a5-479e-9777-ef137caee0a7",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Logo_Ayesha.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "3f1c2eb2-32eb-411f-9f2c-c93413531bc4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "48ada17f-7435-4104-b786-3bfbfd7526f1",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "ea2cc467-93f7-40ea-bc99-751a161c142a",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "ea4e7a0e-475e-46e3-a0a4-0c482db7ade5",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "73b5442f-f337-4a9a-af5b-34d4034d5f8b",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-fempire-with-ay"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "b595cdf6-f481-4e3f-8259-306d5c8cdf10",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "078e3ad9-6e77-4f88-be7d-3df81b383f22",
+  "label" : "MOBILE GAMES",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-mobile-games",
+  "type" : "route",
+  "urlPrefix" : "mobile-games"
+}

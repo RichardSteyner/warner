@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "d1eb42cd-eef3-44cb-9c63-528e4cfd184e",
+  "label" : "DIGITAL_ellentube_series_NotGreatwithLau",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "eb562535-0fb3-4f0f-ae35-72835bad429a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "150461c1-5b83-4d7b-bf0d-124d49e3af09",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;NOT GREAT WITH LAUREN&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Lauren is surrounded by strong, fearless, powerful women – she works for one as the head writer of The Ellen Show, she’s married to one – and yet she’s scared of most things. Join Lauren as she’s forced out of her comfort zone and attempts to conquer her fears one terrifying moment at a time. All while feeling… not great.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "ee1f1a6b-07a0-4406-8cc6-0efbd04de138",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "6a8fd662-9ad7-4334-8a9e-417f8f0ac6e7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "88ed049d-02d5-4df2-840e-e52d69cb6eaa",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "a44be8b6-6494-44f7-bbeb-05a280099ac2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_NotGreatwithLau"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "95ff8ab4-b795-4f44-95c3-c7a0dc432536",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1726bf2f-faa1-410d-8749-7b8bc2b49e2a",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OOrFIAW",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "498d2063-8071-4ad7-85db-41f7ecb1dc97",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c9ea364a-000c-4d6e-bf69-4e40264bf7a6",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-notgreatwithlau"
+}

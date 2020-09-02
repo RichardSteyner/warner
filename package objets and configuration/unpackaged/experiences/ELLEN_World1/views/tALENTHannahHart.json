@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "ae1ea6ef-24cf-4cf6-9577-b1f77ff9397d",
+  "label" : "TALENT_Hannah_Hart",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "523981db-76a2-4bc0-8eea-c281475a7d4e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2bb1dbe2-edad-4f53-904b-9a0771758055",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Hannah_Hart.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "41caf13e-dab5-4d87-9558-b716c6dc8ac6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8a5769c6-514b-4ddd-bcf1-54630c62aa34",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "844ab028-d18c-4eff-a136-0fd820e58519",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "38c67921-66d6-4bb3-9d07-c512aaa3eda6",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6f3b4cfc-cb0e-4802-81ce-e2d4d24f7e9c",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;HANNAH HART&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Accidental viral sensation Hannah Hart was a pioneer for the “Internet famous”—although these days, the longtime YouTuber (“My Drunk Kitchen”), best-selling author (Insatiable), podcaster (“Hannahlyze This”), television personality (Food Network’s I Hart Food) and feature film star (Dirty 30) is the epitome of an all-around entertainer. Named a top 10 influencer by Forbes, Hart’s positive, inclusive, and powerful messaging resonates with millennial and Gen Z audiences, whether she’s advocating for LBGTQ rights, mobilizing food drive volunteers through her nationwide “Have a Hart Day” initiatives, or just keeping her 2.5 million subscribers smiling with her unique brand of fun and authenticity. Shortly after announcing her engagement to girlfriend Ella Mielniczenko, Hanna debuted a new web series on ellentube called “A Decent Proposal,” in which she helps couples make their dream proposals come true.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d9eb78cf-7561-47e6-80d7-4a84f8d0f9fc",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "fb70f52b-9096-4fba-9aed-890de8839ebd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7bf41072-e439-473b-86a3-cace7990caf5",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-hannah-hart"
+}

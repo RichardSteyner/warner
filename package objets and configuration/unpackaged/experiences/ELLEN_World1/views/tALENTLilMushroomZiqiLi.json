@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "84c287a8-8c5b-4fca-8314-ca2d72d61fed",
+  "label" : "TALENT_Lil’_Mushroom_Ziqi_Li",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f9e273d0-bb85-4afa-bc0c-f5e452cd7b44",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1b18c7ef-55ae-4826-a04f-3a2194710a26",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Talent_Lil_Mushroom_Ziqi_Li.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "30630d59-19cd-4b28-a19f-a6dd59273f52",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3bdcfc69-93fb-4bb1-8b63-88ca21ea75f1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "5f6660e1-bf5a-44e5-9b1d-d9849dd91a04",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b68553db-f49a-4789-8079-1c6a0a0f4c3b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "95584ccf-14b4-413b-bc66-69cc2f881f04",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); font-size: 36px; background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;LIL' MUSHROOM ZIQI LIL&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Since her first appearance on The Ellen DeGeneres Show in 2017, pint-sized pop-and-lock master Lil’ Mushroom has returned numerous times to show off her mad breakdancing skillz. The nine-year-old Beijing, China native (whose real name is Ziqi Li), but her talent and sense of humor are far from lost in translation, whether she’s wow’g resident DJ and SYTYCD All Star tWitch or scaring the shitake out of producer Andy Lassner—always with the help of her fun and friendly interpreter, Grace. When she isn’t performing her latest routine and telling her quirky stories on ELLEN, Lil’ Mushroom is competing around the world—and winning—against dancers of all ages.</span></p><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1b8aae11-3e7b-4c46-9adb-1426d2935f45",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "3b3351bd-04c5-4b65-b0ba-decdfd5bbac8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "19756929-b312-4310-9230-0dea7c1b491b",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-lil-mushroom-ziqi-li"
+}

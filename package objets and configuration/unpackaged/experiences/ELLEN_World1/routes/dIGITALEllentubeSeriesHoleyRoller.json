@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "2b7d7aa4-b490-4185-a457-7358c03f35a6",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "4ab5d20a-57d3-40df-8b21-9a6e722fe10d",
+  "label" : "DIGITAL_ellentube_series_HoleyRoller",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-holeyroller",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-holeyroller"
+}

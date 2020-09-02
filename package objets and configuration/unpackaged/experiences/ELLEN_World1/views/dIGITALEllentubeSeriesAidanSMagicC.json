@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "e4339576-9806-4223-b952-0ff633f3bce9",
+  "label" : "DIGITAL_ellentube_series_Aidan’s_Magic_C",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "cc4955b2-27e4-4d90-9cc6-08888a5ba969",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "55d16936-ca47-41d0-bc99-cc7240ee8c77",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(240, 102, 102); font-size: 18px;\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;AIDAN'S MAGIC </b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\"> CORNER&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">At just nine years old, Aidan McCann is Ireland’s youngest magician and a recent third-place winner on Ireland’s Got Talent. He’s wowed audiences all over the world and on The Ellen Show, where he’s dazzled everyone with impressive close-up magic and mind-bending card tricks (not to mention his adorable accent!).</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Now the self-taught spellbinder is back, this time in his own ellentube original series. In Aidan’s Magic Corner, he’ll set the stage and showcase some of his favorite tricks with a little vaudevillian flair — and a helping hand from some major celebrities.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">For advertisers, this corner of the ELLEN universe offers a whole new way to entertain and enchant consumers with your messaging. Leverage loyal fans’ enthusiasm for kid experts, ELLEN’s unparalleled access to celebrities, and a rare mix of highly dramatic yet sweetly whimsical content and help us create a special co-watching opportunity that will better connect families with each other and your brand.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "70581eee-49d1-420b-831a-057551588e3a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "523f7081-9564-418e-ad14-9e65e5264bb6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f4417195-2f70-4ed1-bfe4-2a0d17af075f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Titlecard_Logo_Isolated.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "82aaed55-9c08-43a1-908d-4a829506d72f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "80abcc99-bc43-46c7-9d52-c42db5247456",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "7add22d6-62a0-4f62-9783-65e8575dc73f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "2cba36d5-dc65-41b3-96db-69c2652eeaec",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "22c5add3-f29e-4670-868c-a832ba90a460",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-aidans-magic-c"
+}

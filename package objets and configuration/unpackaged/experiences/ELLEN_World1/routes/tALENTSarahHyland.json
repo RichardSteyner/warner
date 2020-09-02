@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "1bb080a9-0854-4cab-9d24-82ca2dd732a1",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "430da9bd-8bbd-4dd6-a257-a769dc344fa2",
+  "label" : "TALENT_Sarah_Hyland",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-sarah-hyland",
+  "type" : "route",
+  "urlPrefix" : "talent-sarah-hyland"
+}

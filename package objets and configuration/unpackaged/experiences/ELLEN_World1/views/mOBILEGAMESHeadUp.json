@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "f410c5da-52bb-4b32-bd2d-03c93825bc54",
+  "label" : "MOBILE GAMES_Head_Up!",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_MOBILE_GAMES_BANNER.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "3ccc48b5-9c0b-4faf-83c9-37066a7c3df0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d0130aea-4762-4610-b9c6-fb4937f0c71a",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(107, 36, 178); font-size: 18px;\">MOBILE GAMES</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(107, 36, 178); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;HEADS UP!&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">\"Heads Up!\" is ELLEN’s most popular app that reinvents charades for the ultimate fun and hilarious game night challenge! ELLEN can integrate your brand into this massively popular game and drive tremendous awareness through the following opportunities:</span></p><p><br></p><p><br></p><ul><li><b style=\"font-size: 18px;\">Custom Heads Up! Deck:</b><span style=\"font-size: 18px;\"> Engage with ELLEN’s devoted players by creating&nbsp;a custom Heads Up! deck inspired by your brand. Opportunity includes logo inclusion on pop up flyer, cover card, description card, game card, and results screen. ELLEN will drive awareness for the custom Heads Up! deck with promotion across the massive Ellen Digital Network drive fans to download the deck and play!</span></li><li><b style=\"font-size: 18px;\">Heads Up! Challenges</b><span style=\"font-size: 18px;\">: This opportunity super-charges fandom by tasking them with completing a round of Heads Up! all while doing something else like holding an object, dressed up in their festive frocks, etc. Players have to record this and then submit a video of their game play to be entered to win fun prizes!&nbsp;&nbsp;</span></li></ul><p><span style=\"font-size: 18px;\">&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "28eab031-3bfc-4381-96bf-b160606b7273",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "b4cf4ea5-ef44-4daf-b7c5-ed7f81240160",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b717da41-8c66-452d-851a-5bb1d5dffef9",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "4b443520-615e-46a3-bcc1-d6addf6edc85",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "MOBILE GAMES_Head_Up!"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "9fc0c155-c7f9-44cf-833e-6d0a9e5eb318",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d8753582-6545-4e5e-8e6e-9ee8a5856861",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-mobile-games-head-up"
+}

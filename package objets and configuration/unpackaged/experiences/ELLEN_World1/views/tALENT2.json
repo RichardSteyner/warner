@@ -1,0 +1,47 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "dcc73497-92ff-4522-8c57-5420d4317caf",
+  "label" : "TALENT 2",
+  "regions" : [ {
+    "id" : "3873d7eb-b793-42c5-bc1b-5e53b2c74566",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "TALENT2"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "c3fa24c3-e0f9-4760-89fe-bf4c105ac2bd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "dc63abda-20dd-4135-82be-67e3d468b311",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "83d98bdb-2b6d-4f49-8966-e9b83a940d97",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "bcbc3b04-9199-4678-9fac-9dc56fc14048",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fa167814-e3c0-4291-b672-f27588f3cd3e",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent"
+}

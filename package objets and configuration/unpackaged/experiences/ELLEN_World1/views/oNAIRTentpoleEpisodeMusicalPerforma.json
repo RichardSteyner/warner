@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "750efdf0-f905-4331-8d69-cc969e6bb402",
+  "label" : "ON-AIR_Tentpole_Episode_Musical_Performa",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f32f1901-d908-4aac-9a13-b5ec805dfd68",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "23fbcfe9-5e3a-4dc7-9e45-463be3e2c064",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">EVERGREEN</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(102, 163, 224); font-size: 36px;\">&nbsp;&nbsp;MUSICAL PERFORMANCES&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Music is an essential part of The Ellen DeGeneres Show. Featuring exclusive talent bookings (and big surprises), ELLEN is known for hosting some of the hottest and most iconic musical performances all season long.&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "6c7b3be9-aaac-460e-978a-4057c007c08a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "89dd7790-bcdf-440c-98ef-66f7a9eb6991",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "40e68fdb-3e73-469b-8391-9eb60e6c4ded",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "cd2fb86f-2a4e-4b5f-910b-be0bebe9b659",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "1b27c772-3d1c-4678-a134-cfbb1cd609ab",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "708d25b8-6e81-4fbd-8207-27d72682d9f7",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Ed_SheeranMusic.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "c72a4a98-74f0-4f3b-a8c6-a22182eb4e16",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d09a2c4a-d92f-4a81-9f0e-549cf6ddde0e",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-musical-performa"
+}

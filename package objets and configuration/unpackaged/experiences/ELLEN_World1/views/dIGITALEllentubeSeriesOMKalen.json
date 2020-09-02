@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "672c54d2-aced-49bc-a66c-353ca463dd80",
+  "label" : "DIGITAL_ellentube_series_OMKalen",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "66d553fd-2cac-4eed-b033-cc39f4293a94",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a24ba395-a455-4b5b-ad48-63b2ea5e8809",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;OMKALEN&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">At just 24 years old, Kalen Allen is the hottest, fastest-growing, viral influencer who has built a community of millions of fans worldwide across his platforms!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Discovered by Ellen, this confident and authentic pop-culture phenomenon first made a name for himself through his hilarious Kalen Reacts videos giving colorful and witty commentary on some questionable culinary creations.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Kalen Allen is bringing his signature style of laugh-out-loud commentary to digital and spicing things up! Introducing OMKALEN, a self-contained, weekly topical series starring the hilarious Kalen Allen sharing his candid reactions to the top trending stories and hot topics of the week! Our in-house talent does it all, from food, fashion, travel, music, and red carpet interviews. Kalen is the one-stop shop for all things trending!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "87410960-179f-4095-a31b-0459339c224f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "7c6e5676-ee78-4281-abf1-8b0d9937a59a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8cb3d565-4c0c-4c2f-8ecd-95d2aa5ccaa1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Logo_Alpha2.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "66b222b2-13c5-40d7-820b-8528f4295697",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8decc37e-8e54-478a-a2f4-a6394a84c252",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "d20f3d9e-da10-4053-88cd-ee09496d21a2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "f0126516-b0f4-43e3-86bc-a218aced4aee",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "27a92633-1c7b-42b3-89a5-63c44740c166",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-omkalen"
+}

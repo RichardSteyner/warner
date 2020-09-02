@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "03c0df00-4083-4dbd-96e9-2a92eaca7f76",
+  "label" : "TALENT_Aidan_McCann",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "7ee4c555-d28b-4e38-8797-3ff600971d9f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "434e952d-b1f6-4fef-8f14-e01e492f18df",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Aidan_McCann.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b3f81f03-a7a5-4308-8409-5e708276c62b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c6069be1-f136-4441-be50-02faf416ca4d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "dc485ea7-7793-4bac-b060-e0d5919cb321",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b3bd7aff-05fc-4f4d-a5bc-b9b1037d1c74",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "013ecc23-5f19-4a58-bb0d-7d4d59e40ee5",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(255, 194, 102); font-size: 36px;\">&nbsp;&nbsp;AIDAN McCANN&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">At just nine years old, Aidan is Ireland’s youngest magician and a recent third place winner on Ireland’s Got Talent. The self-taught spellbinder began studying other magicians and YouTube videos at the age of four, testing tricks on his dad and sister (with a little help from his mom). After his first appearance on The Ellen DeGeneres Show in season 16, the talk show queen gifted him the opportunity to see his idol, Shin Lim, perform live in Las Vegas. Aidan and his has since returned to The Show to recount his Vegas trip, show Ellen the latest tricks up his sleeve, and win the audience over with his incredible talents and adorable accent.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "116cf339-e5b5-4d3a-9db4-9eaca816eea7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "314d1ca9-8ab9-4d52-a8f2-d4f0ef742efa",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0e2cc220-36ac-4790-be12-a3cd33776708",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-aidan-mccann"
+}

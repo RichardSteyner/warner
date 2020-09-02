@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "990a9f8e-4981-41cb-abc6-fd1d24bb23ba",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "570fef10-4e80-40e9-bf07-c4ed8c3019e0",
+  "label" : "MOBILE GAMES_Game_of_Games_Events",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-mobile-games-game-of-games-events",
+  "type" : "route",
+  "urlPrefix" : "mobile-games-game-of-games-events"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "19c68add-a9a0-4798-a550-b5c90a16a534",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "17019c89-3416-4c30-b5e0-e86dfbbb19d5",
+  "label" : "ON-AIR_Tentpole_Episode_SUPER_BOWL",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-on-air-tentpole-episode-super-bowl",
+  "type" : "route",
+  "urlPrefix" : "on-air-tentpole-episode-super-bowl"
+}

@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "415a1552-7d90-490c-b93b-2ce5dd3554a5",
+  "label" : "TALENT_Brielle_Milla",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "315dcae2-e7ea-4a5b-b195-686d47ac7c0a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "424308e8-53f4-4b96-ad22-425c59a7cc7d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Brielle_Milla.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "be73c8e5-9f1d-474e-b9f7-86b7d2efd3c8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b01fc55a-1125-422c-b317-ed581f6e6844",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "21f7bf62-b4fa-4777-b172-1389a835b3b9",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "2148b345-9b95-4c32-b089-c87534f1a569",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f8684ef0-0a93-47d7-9e05-5526d25ae133",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;BRIELLE MILLA&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Since her debut on The Ellen DeGeneres Show as an adorable three-year-old reciting the periodic table of elements, Salinas, CA native Brielle Milla has returned as a “kid expert” more than a dozen times, offering her extensive knowledge of the human body, outer space, Halloween, and more. Now eight, the fan favorite has grown before the audience’s eyes, whether showing off her loose teeth, meeting fellow pint-sized prodigy Nate Seltzer, or dishing on her favorite candy (Smarties, of course!). In addition to educating viewers on a range of topics in her ellentube original series, “She’s Brielle-iant,” this whiz kid can be found sharing weekly random facts and other special moments on her own YouTube channel (20K subscribers) and Instagram (630K followers).</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d5789f5b-33e5-47d9-9bac-9d190dca1708",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "124a7c5d-8389-40f9-8bab-d9a039e0fe32",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "61b1c345-f570-4f6c-9d28-dc068f2e7e61",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-brielle-milla"
+}

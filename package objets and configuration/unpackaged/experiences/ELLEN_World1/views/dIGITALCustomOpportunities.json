@@ -1,0 +1,64 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "5bb18e00-eeee-4632-9119-6cd9bc16f37a",
+  "label" : "DIGITAL_custom_opportunities",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e0150ba4-83ec-4fed-bbf6-580b05fb80cf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e657e904-1cb2-4091-85d1-3fc2afd0bd47",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;CUSTOM VIDEO&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Leverage the talent of ELLEN’s Emmy award-winning team to produce fun and exciting content inspired by your brand that can be distributed across ellentube, Ellen’s YouTube channel and official social platforms! We’ll create a custom video that brings to life your brand’s marketing objectives in a way that only ELLEN can do it! Plus, we’ll harness the power of ELLEN’s massive reach to distribute the custom original video across the powerful Ellen Digital Network to drive tons of engagement and views for your brand!&nbsp;&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "94668f19-900b-40d7-b974-5296c9a84d70",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "77e5bc13-9609-4765-a0e0-f94db854ca84",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "828be4ba-f312-4199-adca-1ac2ea9849f5",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "2de30a75-51c7-4707-8722-3f1668023726",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_custom_opportunities"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "05ddc509-52b7-45eb-a8d0-3e0f64122fba",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "745bb97c-bba3-4f51-b9d0-2583242836f8",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-custom-opportunities"
+}

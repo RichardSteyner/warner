@@ -1,0 +1,137 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "id" : "e5425eee-911b-4e71-be0d-d1f68707275d",
+  "label" : "MOBILE GAMES UnAuth",
+  "regions" : [ {
+    "id" : "00db58bf-909f-42ea-986d-9285e5134fff",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tabsetConfig" : {
+          "UUID" : "8274c316-66b0-491b-a6d2-dc7580ce5c45",
+          "activeTab" : "",
+          "useOverflowMenu" : false,
+          "tabs" : [ {
+            "UUID" : "7e22a06d-3a8a-466b-a695-db56754ca601",
+            "tabName" : "Heads Up",
+            "tabKey" : "2",
+            "locked" : false,
+            "allowGuestUser" : true,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "25e35082-e232-419e-97b8-f021d73553b3",
+            "tabName" : "ELLEN's Game of Games",
+            "tabKey" : "1",
+            "locked" : false,
+            "allowGuestUser" : true,
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "f158a0f0-83ae-4894-bec9-0cddfe0e4106",
+            "tabName" : "PSYCH!",
+            "tabKey" : "3",
+            "locked" : false,
+            "allowGuestUser" : true,
+            "seedComponents" : [ ]
+          } ]
+        }
+      },
+      "componentName" : "forceCommunity:tabset",
+      "id" : "8274c316-66b0-491b-a6d2-dc7580ce5c45",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p>Heads Up! is ELLEN’s most popular app that reinvents charades for the ultimate fun and hilarious game night challenge! With over <b>44M+ downloads to date</b>—Heads Up! is a pop culture phenomenon that keeps players guessing! ELLEN can integrate your brand into this massively popular game and drive tremendous awareness.&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "630e5012-879f-412e-ac26-7cc279a03279",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "7e22a06d-3a8a-466b-a695-db56754ca601",
+        "regionLabel" : "Heads Up",
+        "regionName" : "2",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p>Ellen is the ultimate destination for fun, family-friendly games that deliver emotionally rewarding experiences for players! That’s why ELLEN created a mobile game where users can play their favorite games from Ellen’s hit primetime NBC show, <i>Ellen’s Game of Games</i>!</p><p>&nbsp;</p><p>This app is played like Ellen’s hit game show. Challenge other players live to trivia games like Make it Rain or One Eyed Monster for the chance to become the champion of Ellen’s Game of Games!</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "c5af1e47-35f1-46d7-8b0f-9260b2820a2f",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "25e35082-e232-419e-97b8-f021d73553b3",
+        "regionLabel" : "ELLEN's Game of Games",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><span style=\"color: black;\">The makers of “Heads Up!” have delivered another incredible party game, “PSYCH!” —perfect for almost any crowd. It blends trivia and bluffing for maximum hilarity, challenging everyone in the room to craft an answer to each quest ion. Answers are paired with the correct one, and players earn points by guessing right, and for each player you “PSYCH!” in to choosing yours. Can you trick people with a believable response?&nbsp;Or would you rat her make t hem crack up with an outrageous response?&nbsp;Either way, a great time is guaranteed!</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "25bea9b3-bae7-47cc-980a-45b81795e638",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "f158a0f0-83ae-4894-bec9-0cddfe0e4106",
+        "regionLabel" : "PSYCH!",
+        "regionName" : "3",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f4d7dd73-ee39-4c7b-9189-b124bd05d715",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "NewCase",
+          "isPublic" : true
+        } ],
+        "label" : "Click Here To Submit Your Brand Pitch"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "b01f04e0-b857-4ce8-a3f1-cb45aeb14619",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4b8db316-d9bd-423a-a8b7-b88573504342",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "9e2ce700-f8e5-4e0f-bd22-b3419e824c4f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "MOBILE GAMES"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "3afe1346-08c1-4299-b653-a1c1bf0837cd",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bfa0eac8-ff58-4d33-a161-154d24a93b98",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-mobile-games"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "a19bec15-6af4-4cc8-a1da-4bed6678326b",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "dc68cbff-6ee5-4925-91b5-bd60fabe2e06",
+  "label" : "TALENT_Ashley_Graham",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-ashley-graham",
+  "type" : "route",
+  "urlPrefix" : "talent-ashley-graham"
+}

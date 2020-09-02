@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "90e8c452-eadb-41f7-9708-13d6e07028fe",
+  "label" : "ON-AIR_Branded_Game",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "a0fb1d74-6c7a-4ffa-9376-fd1d493a7495",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b22f1a87-a4f1-4b32-87f4-edd86bc0984d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">BRANDED FUN</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;BRANDED GAME&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Games are an integral part of the DNA of The Ellen DeGeneres Show. These games are larger-than-life, sometimes messy, and a great opportunity for big branding moments for our integration partners. Our creative staff could develop a custom game specifically for your brand or create a new version of a beloved ELLEN game that will entertain viewers at home and engage the in-studio audience. Regardless of creative, the game is sure to keep viewers on their toes and further expose them to your brand’s key messages with a shareable, hilarious custom integration. Ellen's digital audience will also enjoy the fun wherever they are with a supporting digital distribution plan, inclusive of social media and digital media placements</span><span style=\"font-size: 14px;\">.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "626bc2e3-aa5b-4a03-8c51-352289655bc2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "a9d216a9-131d-4377-a1af-562567181cbf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "990373ef-43c5-4eae-b574-c6a968c8f8b8",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ca883046-3ef4-471f-b47d-bb7bb1f51003",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Branded_Game"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "565d8f90-cd14-43f2-acd8-c6330d49d5a5",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "932590cd-7bbc-4113-93a3-b6cca191fc07",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OfxZIAS",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "d329b5ca-ac46-4f43-a690-b0a6523e6fba",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9fca9e44-f557-4f89-93b2-75246eff3b69",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-branded-game"
+}

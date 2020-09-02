@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "7ccdc31f-2f4f-4f09-bced-933ef900ec9f",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "3e9ff13b-35d8-462d-9297-beccc5d5d691",
+  "label" : "TALENT_Nate_Seltzer",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-nate-seltzer",
+  "type" : "route",
+  "urlPrefix" : "talent-nate-seltzer"
+}

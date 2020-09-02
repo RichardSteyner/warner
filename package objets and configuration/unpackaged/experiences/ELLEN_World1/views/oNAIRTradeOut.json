@@ -1,0 +1,73 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "81b03191-e740-4b68-b8fc-fc5f033fa876",
+  "label" : "ON-AIR_Trade_out",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>&nbsp;<img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b898bfa0-6fdc-40d5-b504-740a3f599a7b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d0aac0c1-f229-4eda-8351-67adf732e264",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">GIVEAWAYS</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(102, 163, 224); font-size: 36px;\">&nbsp;&nbsp;TRADE-OUT&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Whether its Ellen’s iconic 12 Days of Giveaways or the Mother’s Day tentpole episode, Ellen loves to spoil her fans! Over the course of a Season on The Ellen DeGeneres Show, Ellen gifts her audience with jaw-dropping prizes and trips! We invite your brand to be a part of these big moments on-air through trade-out opportunities! </span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "632f1b6c-ae4d-45fd-8bfd-37c73d3f6750",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tileMenuEditor" : "ON_AIR_Trade_out"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "8223186f-9520-4115-94bd-f844a8ed7ec7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "3523ddad-cbf8-42dc-ad1a-514d75a403f0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f13a21ba-733e-409c-bc5f-2bface00e226",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9bf626b8-e189-4176-a7fa-e2a189be37c2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Trade_out"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "233091bc-d10c-4ba0-ac48-3ea47367ea23",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4253d59a-07af-47f1-b4df-3cfc947aeeec",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-trade-out"
+}

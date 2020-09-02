@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "ac4786f0-38a7-494a-aaac-0f552f424eec",
+  "label" : "TALENT_Jerry_Morrison_III",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "56717001-8623-4ab1-a48d-13b935a92b78",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "38706c92-ab4c-46f7-b815-d24f4f50df7a",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Talent_Jerry_Morrison_III.2}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b094c40b-61a5-4d23-a6f2-68cf60eb5e11",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bd89422f-81ef-46cb-a4fb-cdaaa7c69b92",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "1b56d890-82d5-472b-ab02-61f2c109e489",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "54f8ceb7-3c7d-4052-a3da-270da59fd4cc",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "51ef8ead-89c9-481f-a016-b2179dfbd054",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;JERRY MORRISON III&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Jerry is a six-year-old kid astronomy expert from Orlando, Florida who enthusiastically shares his passion for the solar system through videos on Facebook and YouTube. Fans of all ages are inspired by his fun facts, adorable energy, and rousing call to “learn together, grow together, and Reach for the Stars!!” A new friend of The Ellen DeGeneres Show, Jerry had the chance to chat during a recent appearance with fellow space enthusiast (and Toy Story star) Tom Hanks. Uranus is his favorite planet because it spins on its side and has a bluish-green color.&nbsp;</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "dd3d4e59-e107-4c2f-88b8-40e49d55fb8e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "501bd37f-e187-4797-8109-026e904560ec",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3ca58a1b-b7f6-49a1-b77e-bccfc90cf113",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-jerry-morrison-iii"
+}

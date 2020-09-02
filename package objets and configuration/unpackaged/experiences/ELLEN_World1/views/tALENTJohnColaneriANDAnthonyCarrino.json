@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "c6a944e9-3d6e-45a4-9d32-c489d96e7e7f",
+  "label" : "TALENT_John_Colaneri_AND_Anthony_Carrino",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "90365b58-2930-45e5-83ca-e23dc85db43d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f1aaa3e1-511d-4917-90c3-51066ad619a6",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.John_Colaneri_Anthony_Carrino.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f2b41c16-53b3-4a8c-805f-3da8b16eb797",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f7af2ba0-9524-49b3-87d8-2cabfd76f5ab",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "b5974f7c-5501-43ce-a688-4fc81f0573f2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "991090dc-cf12-4954-928f-fb41660ca813",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "222f3baa-faf5-4cf2-8823-d4de0a24611d",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;JOHN COLANERI &amp;&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;ANTHONY CARRINO&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Known to fans of HGTV as “The Cousins” (as in the breakout renovation hits Kitchen Cousins, Cousins On Call, and Cousins Undercover), Jersey boys John Colaneri and Anthony Carrino are as dedicated to building communities as they are to constructing homes. In addition to other joint projects like their Amazon best-selling children’s book What Can You Do with a Toolbox and their “Home with the Cousins” podcast, the design experts are ELLEN regulars, with two ellentube series under their belt including “Grand Design” and more recently, “The Build Up!” When they aren’t working their magic on homes as a team, the contractors make time for individual pursuits, from private design clients and digital series The Build.tv (Anthony) to a design and development company and YouTube exercise and wellness channel (John).</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f3cb0b7e-b953-4247-9647-c20f5a142963",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "1784d681-4ce7-47e3-b37e-5d8a44e82b31",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "12a4d7c4-df0f-4512-bcaa-8a97f5a82d87",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-john-colaneri-and-anthony-carrino"
+}

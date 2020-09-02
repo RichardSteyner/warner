@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "4d6f7040-d73e-4494-abd2-b808823e42af",
+  "label" : "DIGITAL_ellentube_series_AnyopneVsKid",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "c10a8c78-cae0-449f-9f82-0b4fc499595a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "425c0990-df42-4b8f-a85e-12caae2e6b69",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;ANYONE VS KID EXPERTS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: windowtext;\">The President has his Cabinet. Luke Skywalker had Yoda. Ellen has her incredibly cute and amazingly smart team of kid experts including 7-year-old Landon Gregory (geography), 9-year-old Macey Hensley (U.S. Presidents), and more to keep her and the audience schooled in everything from flags of the world (7-year-old Nate Seltzer) to the periodic table of elements (8-year-old Finn Hathaway). And what these pint-size prodigies lack in stature, they more than make up for in viral sensation—consistently surprising and delighting fans across all ages and platforms.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: windowtext;\">Anyone vs. Kid Experts, the latest gameshow-style opportunity from ellentube, features ELLEN fan favorites like 7-year-old science whiz Brielle Milla, and 9-year-old pop-and-lock dancer Lil Mushroom going head-to-head against average Joes and Janes, and perhaps even celebrities who knows who’ll win—or who the audience will be rooting for?!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "b88e42ce-cd15-4ef8-9f2d-5a6afd3b1664",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "69a57fa8-c097-447e-b8ef-3e8678aa1314",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ef4617fb-f60f-44c9-8920-3cc85e3f852c",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "c4d96a21-a84e-4e67-af7b-f8b37e71f1ac",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_ellentube_series_AnyopneVsKid"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "6da6478d-ba5f-4b93-8e7f-e3c625839dbd",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "16752fea-2978-4f23-b4a8-91971d30f5d1",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Anyone_vs_Kid_Experts1.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2cbb316d-1807-402a-a449-eede87018d93",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0ca0afbb-e70b-4792-877e-910fb468044c",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-anyopnevskid"
+}

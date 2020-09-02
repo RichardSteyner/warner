@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "d58416d7-cfab-4217-8212-b9e546629370",
+  "label" : "ON-AIR_Tentpole_Episode_12_DAYS_OF_GIVEA",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "9d4de1de-ebf4-4011-b66e-10ecf09dbf9e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fdcbcabc-0817-4d8e-b7de-eea2aaa13e24",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">NOVEMBER/DECEMBER</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(102, 163, 224); font-size: 36px;\">&nbsp;&nbsp;12 DAYS OF GIVEAWAYS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">It’s the most wonderful time of year! Ellen highlights all of the season’s must-have products while spoiling her audience with amazing gifts throughout these magical, holiday-themed episodes.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d0335e44-6715-4f0c-85cf-4afc167164a3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "38829de7-ffdf-4f4a-a924-0cb2cb71b366",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ea76d61f-ee01-4d53-a402-837afdf061bd",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ec587da6-0f4e-4117-bba9-13da52477a61",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "c4f27454-71df-49f6-9343-98b75fa731af",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "19fba447-6dee-449f-8f78-5c4536e27a93",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Scotch12_Days.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "00cc48c5-5c27-4991-a59c-26c83d777d8d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "552a1909-8d36-41ec-b371-41952eacd098",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-12-days-of-givea"
+}

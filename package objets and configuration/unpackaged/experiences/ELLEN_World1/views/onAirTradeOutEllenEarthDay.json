@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "771c942a-556b-4acb-9082-1de762c5769a",
+  "label" : "on-air-trade-out_Ellen earth day",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1c5456eb-816e-4597-93a9-2f9687b8adfa",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "67b23a84-5ab5-41ab-bd2b-b89d27930b63",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">APRIL</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255); background-color: rgb(102, 163, 224); font-size: 36px;\">&nbsp;&nbsp;EARTH DAY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN is committed to the environment. That's why every year, The Show devotes an entire episode to honor our Mother Earth! Keeping with The Show's tradition, each year Ellen surprises her audience with products and brands that are helping lead these green, earth-friendly initiatives.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "474be9b0-47d5-4a54-adff-11c35728ef3b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "eaf5b0d1-fa92-4f01-a0e8-d0d1b8b971d7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fa1fc4e7-710f-4bfd-bcfe-72ac34aeeaf6",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Earth_Day_Tradout.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "173e1186-0e6f-446b-9716-308350cf4bf2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b9705216-b117-4da4-8d75-c9e3405d5641",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "a97812bd-1d36-47a5-8543-a1c866c013bc",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "e6dd9697-440c-444c-ace3-c80f7f658d0a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f6475fa4-cde5-4234-add6-3433b9648fa9",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-trade-out-ellen-earth-day"
+}

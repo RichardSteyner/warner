@@ -1,0 +1,51 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "eeeba326-826f-4d13-85d5-b177d2363512",
+  "label" : "TALENT_Kym_Douglas",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Replace this text with content of your own.</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0bac7c28-0903-4399-b71d-0b98cf7dbde2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5330cce4-59ea-4a5d-9c60-0d68bd40de85",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "8c923049-68ea-4d49-b247-47c7b8739128",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "f487b4a7-3c46-4940-98da-b904e28e0473",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "f195eb3d-8e54-4e04-b3b4-437e01e736fc",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "TALENT_Kym_Douglas"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "594e99b2-8747-49b3-b7da-f43152a1cbd7",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b0203b68-6ec2-4c53-9618-08270e4cbe94",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-kym-douglas"
+}

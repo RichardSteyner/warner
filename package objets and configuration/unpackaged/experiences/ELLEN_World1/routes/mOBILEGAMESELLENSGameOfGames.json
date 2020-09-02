@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "ae20edd9-f8ce-4261-98b5-68a7becbc83c",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "be3a8c4f-a88f-4c60-a36b-661466f02e38",
+  "label" : "MOBILE GAMES_ELLENS_Game_of_Games",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-mobile-games-ellens-game-of-games",
+  "type" : "route",
+  "urlPrefix" : "mobile-games-ellens-game-of-games"
+}

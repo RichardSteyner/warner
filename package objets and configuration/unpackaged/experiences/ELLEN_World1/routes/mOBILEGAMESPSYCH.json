@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "c51eb043-752e-4b40-b7bc-b2ad01f7bd13",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "eab5a986-5794-4190-8c10-6dcc6048ccf6",
+  "label" : "MOBILE GAMES_PSYCH!",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-mobile-games-psych",
+  "type" : "route",
+  "urlPrefix" : "mobile-games-psych"
+}

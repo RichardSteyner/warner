@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "870778ee-82e9-44e3-9858-3d5dd7a11848",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "470ee1ef-7e01-4d74-9379-ad64aaf366fb",
+  "label" : "TALENT_ELLEN_STAFFERS",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-ellen-staffers",
+  "type" : "route",
+  "urlPrefix" : "talent-ellen-staffers"
+}

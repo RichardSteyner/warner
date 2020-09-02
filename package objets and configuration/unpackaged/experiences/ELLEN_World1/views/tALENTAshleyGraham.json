@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "a19bec15-6af4-4cc8-a1da-4bed6678326b",
+  "label" : "TALENT_Ashley_Graham",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "85e321b8-f7d3-4654-b2d3-aa22bc8eb310",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d83aec72-1e8d-4d21-af8a-89c83ee7024c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Ashley_Graham.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "ca48a2a5-68ee-4d46-8ace-9bb8d699dfed",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "414de194-4c23-4641-a9db-669ec183cb18",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "d58457d2-b46a-4d86-9ca6-e97d8a7bc8e7",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b9856275-d82a-40b2-b301-66e3a2bad2e2",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "358e9b4e-f24f-457f-b58f-5afe00cb0517",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(255, 194, 102); font-size: 18px;\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(255, 194, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;ASHLEY GRAHAM&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Since her discovery as a teenager in a Nebraska shopping mall, model Ashley Graham has appeared in the pages of Glamour, Vogue, and Harper’s Bazaar, on the cover of the 2016 Sports Illustrated Swimsuit Issue, and in notable campaigns for major brands including Lane Bryant, Levis, and Marina Rinaldi. An advocate for body positivity, she has shared her personal experiences and healthy outlook in her 2017 book, A New Model: What Confidence, Beauty, and Power Really Look Like, as well as in her own TED Talk on the subject. As host of the successful and inspiring digital series “Fearless” on Ellentube, Ashley comes face-to-face with real people struggling with their own confidence issues, offering the support to rally, rise above, and take the next step in their lives.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5081156a-a801-44b1-981a-144597dfb795",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "c5914014-23a4-4c27-8a62-6f4baadbc465",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "24ed458c-ac11-45c6-82e6-9a7d0486baed",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-ashley-graham"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "84b8395d-6caa-4e5d-a189-8d09466854b3",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "58f6b4a0-6f20-4ddf-9ed8-75c568902852",
+  "label" : "DIGITAL_ellentube_series_TwitchPlease",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-twitchplease",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-twitchplease"
+}

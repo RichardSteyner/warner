@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "e47c2d5a-6050-4d99-839d-2ed83d13b482",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "2fe96981-abed-4e95-9548-d71391f3c177",
+  "label" : "TALENT_Nandi_Bushell",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-nandi-bushell",
+  "type" : "route",
+  "urlPrefix" : "talent-nandi-bushell"
+}

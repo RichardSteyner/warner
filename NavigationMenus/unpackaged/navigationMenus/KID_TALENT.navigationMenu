@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NavigationMenu xmlns="http://soap.sforce.com/2006/04/metadata">
+    <container>ELLEN World</container>
+    <containerType>Network</containerType>
+    <label>KID TALENT</label>
+    <navigationMenuItem>
+        <label>AIDAN MCCANN</label>
+        <position>1</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-aidan-mccann</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>BRIELLE MILLA</label>
+        <position>2</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-brielle-milla</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>FINN HATHAWAY</label>
+        <position>3</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-finn-hathaway</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>JADEN JEFFERSON</label>
+        <position>4</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-jaden-jefferson</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>JERRY MORRISON III</label>
+        <position>5</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-jerry-morrison-iii</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>JUSTIN WILSON</label>
+        <position>6</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-justin-wilson</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>LANDON GREGORY</label>
+        <position>7</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-landon-gregory</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>LIL&apos; MUSHROOM</label>
+        <position>8</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-lil-mushroom-ziqi-li</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>MACEY HENSLEY</label>
+        <position>9</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-macey-hensley</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>NANDI BUSHELL</label>
+        <position>10</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-nandi-bushell</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>NATE SELTZER</label>
+        <position>11</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-nate-seltzer</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>NICK &amp; SIENNA CASAS</label>
+        <position>12</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-nick-and-sienna-casas</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>&quot;YOUNG DYLAN&quot; GILMER</label>
+        <position>13</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/talent-young-dylan-gilmer</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
+</NavigationMenu>

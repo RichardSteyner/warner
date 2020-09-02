@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "adb82371-1abb-4a57-933a-0fd50586fea3",
+  "label" : "ON-AIR_Tentpole_Episode_OSCARS",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "db4c0c11-3e3f-454c-a573-7fa20846a03b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d17a71d6-0d4f-48d7-bb5b-0959f85797bc",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(102, 163, 224);\">MARCH</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; background-color: rgb(102, 163, 224); color: rgb(255, 255, 255);\">&nbsp;&nbsp;OSCARS&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">It’s the biggest night in show biz, and ELLEN celebrates with glitz, glamour, and visits from some of the most talked-about nominees!</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "067db45f-769f-42eb-9e08-d141f68be0bb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "7dfcca81-e415-40d9-ae5f-e6d29753d164",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c60c2b42-e7dc-4c0c-b54c-389a6e8d0999",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "d47fc8d1-0ff7-4fac-bbdf-830cf0a7fc05",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "5efdb375-22b5-45cb-be8f-9187be8ddef6",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "33739e8e-ee5e-4ff8-bfca-286694998715",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Oscars.1}\" width=\"674\" height=\"379\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "84230a72-4677-4082-9102-2a81771b1cd0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "221e03eb-326c-462c-b4bf-43e1aeda01b1",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-tentpole-episode-oscars"
+}

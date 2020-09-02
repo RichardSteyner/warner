@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "57b07dfd-ab69-4522-ab8e-6b3a6702bac2",
+  "label" : "TALENT_Jaden_Jefferson",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER2_1.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e3033379-b839-445f-966b-1a1a07c904db",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ce9f14b4-ed70-4630-a216-278e175d8d17",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p> </p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5a1a797d-972a-49ba-929f-163107d28302",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "eafca98c-0543-4167-83a7-392ca35c4ee3",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "1d11c4a4-6d98-4e99-883f-d980d019a525",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d9e42325-fa85-4b98-853f-87302d1a4627",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1cd2c057-37fc-4765-92ef-c3676b50352b",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;JADEN JEFFERSON&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Some sixth graders dream of becoming a reporter someday, but 11-year-old Jaden Jefferson is making it happen today on his YouTube Channel, Jaden Reports NOW. After gaining a local following in his hometown of Toledo, OH, the multimedia journalist became newsworthy himself this past summer when his one-on-one interview with Presidential candidate Senator Elizabeth Warren went viral. He has since appeared twice on The Ellen DeGeneres Show, receiving $10,000 in video equipment from Shutterfly as well as the opportunity to interview megastars Brad Pitt and Oprah Winfrey. Dedicated to “changing lives of those around me for the positive,” Jaden is passionate about politics and community news. He writes all of his own questions, conducts his own research, and is proud to have his grandmother with him for every assignment.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "725caac2-f7f5-428b-9f58-c950203f0988",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "c3810dd7-fa46-4cd0-915a-ff89ecf2ab35",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8b8991f5-3f21-4c17-9b53-dc719783ac04",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-jaden-jefferson"
+}

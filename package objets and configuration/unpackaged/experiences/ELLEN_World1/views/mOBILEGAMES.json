@@ -1,0 +1,68 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "b595cdf6-f481-4e3f-8259-306d5c8cdf10",
+  "label" : "MOBILE GAMES",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_MOBILE_GAMES_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0679c3cc-02dd-48eb-809c-00beafc58bd8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "467baba7-d8ea-4d77-95a8-3af169d08805",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "Mobil_Games"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "1ad87d78-b2ca-4291-8570-9eca2cb4670b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "7ce3d360-7b48-4a41-bcbc-ffb2d5651fe7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "392ca6da-3ed4-414c-9839-e23fe45b0acf",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "2ad6758f-733f-4955-867b-78ce884e08b8",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "faf87b21-082a-4a2f-99cd-54ece69f4cb2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "MOBILE GAMES"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "2b18bc95-eaef-44d4-84e6-ce5f3334db5c",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "248cef2a-2395-4d88-b0c4-731b8cf2b053",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-mobile-games"
+}

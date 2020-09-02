@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "599731f8-c3ba-4d51-ae48-313ba225db6a",
+  "label" : "DIGITAL_ellentube_series_Fearless_with_A",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "3d676cbb-883a-48ef-8f9d-6d4c59cabac6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e92d8299-1cd2-403d-9cd0-66ea7f7698db",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLEN ORIGINALS</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;FEARLESS WITH&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\"> ASHLEY GRAHAM&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Body activist, entrepreneur, supermodel, and one of today’s most powerful voices, Ashley Graham is back for a third season of the ellentube original digital series, Fearless.&nbsp;</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">Ashley, a game changer in the body-positive movement, continues to infuse her personal and candid insights into the six-episode digital-first series where she helps people struggling with confidence issues rally the courage and rise above to be totally and unapologetically fearless.&nbsp;</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">In the second season of Fearless, Ashley was able to expand her knowledge and influence in new topics such as non-binary individuals and those navigating motherhood for the first time, all while giving them confidence. The series garnered over 111 million cross-platform views and 2.6 million engagements!&nbsp;</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: black;\">In the next installment, Ashley will continue to help even more individuals and lead them to moments of self discovery by giving empowering everyday people to be totally, unapologetically fearless.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e43b400d-1943-490f-8a58-9ac0ed6047e3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "afdea75b-9b57-407d-9eb6-3c26a2ddf936",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0728ed79-c280-46dd-a9be-660173ed37f6",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Fearless_Logo_Black.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "33f81761-13cd-4931-a5a2-0a44056d4f0a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b6259a97-00eb-4dc6-8acb-6743427f91b0",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "a0ada793-a716-409a-933e-60f88edf4063",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "DIGITAL_ellentube_series_WeHeart"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "896e6bde-deeb-4f60-8fad-7156f0940d8e",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "777aa8bc-7dc8-4c23-a5a2-76c0034870b0",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-fearless-with-a"
+}

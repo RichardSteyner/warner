@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "8271733b-90bb-4a03-9b2e-b858b1f2ad61",
+  "label" : "TALENT_Macey_Hensley",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "704714a7-0ea9-4b49-874f-bc978d7b7661",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2f32cf53-1727-4248-81e4-93db7353ccb7",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Macey_Hensley_52.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "364497fd-198f-4229-8699-0ed688969282",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4b5cd6a7-c7e3-4909-96ca-16ee598edff1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "5ef72269-019a-4cb5-a332-17e5578e3ee3",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4d086687-339f-49d1-9f86-2e5f86760221",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8f24d65c-e39b-4db5-a88a-83410a7c3541",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">KID TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;MACEY HENSLEY&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">She’s no ordinary farm girl from Kansas anymore! 10-year-old Macey is something of an American treasure since becoming Ellen’s favorite presidential expert and resident political correspondent five years ago. Macey’s ability to name and offer fun facts about every president, VP, and first lady led to dozens of appearances on The Show, where she’s had the chance to sit beside Hillary Clinton and President Obama, meet the George W. Bushes, and chat with Lin-Manuel Miranda backstage at Hamilton. For two memorable summers, fans also enjoyed watching Macey and her family take a cross-country road trip to historical sites from Colonial Williamsburg to Alcatraz to Fenway Park in the ellentube digital series “Go RVing.”</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "0e6f90fd-8c24-4a6b-af90-0d96ac43fa46",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "7453551e-4625-410b-9756-b0942e2b54c8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fb5d6392-9e6d-4d75-ad4b-e240e9d1e973",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-macey-hensley"
+}

@@ -1,0 +1,75 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "7c797bc0-7b7f-49d5-b178-050b63407e6b",
+  "label" : "CASE STUDIES",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_GENERAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "5baaef13-8c1b-4e5b-8fa0-c9d9a87ebf67",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4e8c941b-d1ea-4887-bdd0-0ba17a3a1f5d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "CaseStudy"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "30a54601-2e57-4ff5-9240-4c40e53fd1c9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "89ddee82-c205-4c60-a951-2b0479e124fe",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "New_Branding_Pitch",
+          "isPublic" : true
+        } ],
+        "label" : "Click Here To Submit Your Brand Pitch"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "9ba3fa5c-6e63-4237-a345-0c0c5c2f24bd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b22f8386-d4b5-4d24-96f4-c8d811c30cd3",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "fd0a1080-c816-4020-88fa-39a413850e4d",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "CASE STUDIES"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "6881c025-6b32-4f92-a259-2632a14f97f5",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5e0c396a-e038-4b21-8893-c9c73bb2af10",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-case-studies"
+}

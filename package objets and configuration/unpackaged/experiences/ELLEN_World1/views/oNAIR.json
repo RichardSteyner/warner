@@ -1,0 +1,69 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "67d06500-dd6a-4e5a-970f-9dfc531afce2",
+  "label" : "ON-AIR",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "ea07f771-760f-4b79-8749-a90964989b4d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6d2ffdef-e07a-429f-a5e0-9da72f8f83b1",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "tileMenuEditor" : "ON_Air"
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "8b5f796f-851e-4fc6-9968-670da13b6583",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d750ee2f-a4e4-46bf-ab39-d0a63f1d4914",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "760f17d1-1dcb-4425-ad23-5bb51ed72cee",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8c2ca82d-ba0e-4aaa-959e-403efd8cefae",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b37abd64-7a10-413d-81fe-8c85cd77438f",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "030002f4-9379-4aba-948c-435ca3d155b4",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "id" : "c4fce19b-593c-4b39-92ec-92bd98450e97",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air"
+}

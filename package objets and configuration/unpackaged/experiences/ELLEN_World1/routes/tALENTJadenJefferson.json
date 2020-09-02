@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "57b07dfd-ab69-4522-ab8e-6b3a6702bac2",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "37e5473f-9c8b-427e-9589-65cde6772c58",
+  "label" : "TALENT_Jaden_Jefferson",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-jaden-jefferson",
+  "type" : "route",
+  "urlPrefix" : "talent-jaden-jefferson"
+}

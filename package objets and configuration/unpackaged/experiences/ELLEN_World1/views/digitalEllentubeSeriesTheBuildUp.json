@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "e1a2ac87-bb1e-49d9-b97e-2ef2f74184bb",
+  "label" : "digital-ellentube-series-The build up",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "e4ee39eb-1107-4b3c-8011-223963523844",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "81650367-c4c1-41bc-8bde-004df629a377",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(240, 102, 102);\">ELLENTUBE SERIES</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(240, 102, 102); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;THE BUILD UP&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">In Season 2 of The Build Up, design and construction experts John and Anthony are giving back to a deserving community that surrounds former NFL player-turned-firefighter, Eric, who was recently diagnosed with ALS. After receiving the devastating news just one month after marrying his college sweetheart, Amanda, the entire community has rallied around this couple for support. Even though Eric’s life has been turned upside down, he is determined to face his future with positivity and determination to make a difference in other people’s lives who are also struggling with ALS.</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">&nbsp;</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">John and Anthony are here to give back in a big way with life-changing surprises for the couple, like making their home handicap accessible, and spreading a message of awareness for people fighting ALS across the country.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">In addition to helping Eric and Amanda accomplish some of their dreams, the Cousins John &amp; Anthony are back to spread awareness for ALS and help inspire people across the country to give what they can to help people. Over six episodes of The Build Up, we’ll create powerful moments that leverage ELLEN’s powerful ecosystem to inspire a national movement.</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">&nbsp;</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Integration opportunities could include media sponsorships, product integrations, trade outs, and more.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "68bbe64c-c03d-4ae9-ad43-68e1f06641b6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "93d0a7e2-a7a6-43e8-9564-c547009549fb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d6d7d044-2878-4a1f-8c85-dbf10e045f41",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001OOk9IAG",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "4c26a074-d674-4bc1-8225-c90d30f510e2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "70bc8eff-757d-4bbb-a083-2d1d26e7482e",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "06838c4e-25d1-4285-99ec-331d25f4f7a2",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "a75b6eba-3f10-4ac5-afa1-1e340d1e5d9b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2c55268a-4b1f-4a46-9b62-61f3dbd69dc3",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-ellentube-series-the-build-up"
+}

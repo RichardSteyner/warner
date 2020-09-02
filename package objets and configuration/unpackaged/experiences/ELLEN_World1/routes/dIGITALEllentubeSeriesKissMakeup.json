@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "88da3539-f96b-4342-8486-530060f56c1c",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "ac237641-c405-499b-9dd6-c61e489a84b8",
+  "label" : "DIGITAL_ellentube_series_KissMakeup",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-kissmakeup",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-kissmakeup"
+}

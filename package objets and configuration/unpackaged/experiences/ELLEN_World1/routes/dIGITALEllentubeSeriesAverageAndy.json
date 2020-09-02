@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "dc5229cf-7606-43c6-a6f8-499d4262e1d9",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "86fa56e5-d880-480e-8a5d-418223d4b2e3",
+  "label" : "DIGITAL_ellentube_series_Average_Andy",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-average-andy",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-average-andy"
+}

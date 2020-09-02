@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "bd426ab5-b8b8-4b07-9993-ff24c1c358ea",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "1efc61b1-0c79-4c44-96dc-c7a133c0f010",
+  "label" : "TALENT_Celeb_Influencer",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-talent-celeb-influencer",
+  "type" : "route",
+  "urlPrefix" : "talent-celeb-influencer"
+}

@@ -1,0 +1,86 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "e691a519-b3d2-4ff8-aa8d-31381ace4a68",
+  "label" : "DIGITAL_Custom_Opportunities_Video",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_DIGITAL_BANNER_32.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1a4bc05e-ebe3-4f74-bad1-84a05e887392",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9ee64035-fc3f-4d0a-8398-80923b33ae45",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(240, 102, 102);\">&nbsp;&nbsp;CUSTOM VIDEO&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Leverage the talent of ELLEN’s Emmy award-winning team to produce fun and exciting content inspired by your brand that can be distributed across ellentube, Ellen’s YouTube channel and official social platforms! We’ll create a custom video that brings to life your brand’s marketing objectives in a way that only ELLEN can do it! Plus, we’ll harness the power of ELLEN’s massive reach to distribute the custom original video across the powerful Ellen Digital Network to drive tons of engagement and views for your brand!&nbsp;&nbsp;</span></p><p> </p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "8a022233-a98c-4d8e-b1e0-ded47279c9b4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "67253c70-838e-49f2-a574-87f44f9bdbf4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b0d6db5c-cef8-4a46-982a-ab485e237532",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "Description1" : "Quantas x Kalen",
+        "Description2" : "",
+        "Description3" : "",
+        "FileName1" : "069R0000001Pqw5IAC",
+        "FileName2" : "",
+        "FileName3" : "",
+        "Title1" : "Custom Video",
+        "Title2" : "",
+        "Title3" : ""
+      },
+      "componentName" : "c:CustomVideoGallery",
+      "id" : "3a588c53-8134-4b9d-b224-c0b4d23c7749",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "336d246b-1039-43b6-986d-91f44799d3be",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "02fc875a-0812-43da-a0ad-222d99baa6b9",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "DIGITAL_custom_opportunities"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "2b848e27-5719-4fe4-9ca5-e188fb9ccbc4",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "53ebad19-8758-4909-b96c-e0f51d510b99",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-digital-custom-opportunities"
+}

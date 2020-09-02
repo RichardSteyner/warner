@@ -1,0 +1,76 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "9b4cbd12-ddcc-4eb4-bcdd-b980d65723d5",
+  "label" : "TALENT_Tank_Sinatra",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_TALENT_BANNER2_1.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "99a6d365-dcd6-4815-b82f-5ed8cf96ff67",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "14d469a2-e65b-4b9e-a373-585d8249b46b",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.Tank_Sinatra.1}\" />&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "1623d3fd-9ecf-4ab4-9cfb-542e59a37b36",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "85ff3f18-ec59-443f-a375-5683a547a2ce",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "f31294a8-eb30-41cd-bffb-ad191a309da9",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "TALENT"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4ecfb8cb-dcab-421a-9b06-1541f463bbd1",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bc47fcdc-284a-4cd1-8817-6146c17bc6b3",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"font-size: 18px; color: rgb(255, 194, 102);\">TALENT</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(255, 194, 102);\">&nbsp;&nbsp;TANK SINATRA&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(68, 68, 68);\">“Tank Sinatra” is the alter ego of social media personality and meme-generator George Resch. The husband, father, and former fencing salesman from Long Island (who resembles a massive, bodybuilder version of Ol’ Blue Eyes) left his job in 2017 to focus full-time on his Instagram accounts and related opportunities, such as a collaboration with dating app Bumble and his book, Happy Is the New Rich. Sober for more than 15 years, Tank knows the value of a good laugh and the power of good news better than anyone. He gladly shares both through his main Instagram account, Tank.Sinatra (2.2 million followers)—which offers relatable “humor with a hint of positivity”—and his secondary account tanksgoodnews (1.2 million followers), which offers “positivity with a hint of humor” via uplifting stories and feel-good news.</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "344f3518-f99f-4e19-a3be-348dff7f12ae",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "d587f6cd-e0ea-4706-92db-6170e5ca24e4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "457ad521-76e0-4d7f-99df-30da2cb83db9",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-talent-tank-sinatra"
+}

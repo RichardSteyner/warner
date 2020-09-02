@@ -1,0 +1,78 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol66Layout",
+  "id" : "a684690f-d188-47d8-a422-1799b115083a",
+  "label" : "on-air-trade-out_Game Prizing",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_ONAIR_BANNER_3.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "f538a43e-f6bd-485b-b15a-f63a89310398",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5a28c573-3321-47fe-83de-305c22fede34",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">EVERGREEN</b></p><p style=\"text-align: center;\"><b style=\"background-color: rgb(102, 163, 224); color: rgb(255, 255, 255); font-size: 36px;\">&nbsp;&nbsp;GAME PRIZING&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">ELLEN is the ultimate destination for larger-than-life games that leave</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">viewers both at home and in-studio with their jaws dropped! All throughout</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">the Season, Ellen will continue the fun with some of her all-time favorite</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">games like “What’s in the Box?” and debuting all-new, over-the-top games</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">that have huge prize payoffs. ELLEN invites your brand to join in on the fun</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">through a trade out audience giveaway. This special opportunity will leave</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">audiences with an emotional rewarding experience all thanks to your brand!</span></p><p style=\"text-align: center;\"><br></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d2a4e934-9452-4f66-bbef-87937e8535f5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "c:Create_Lead_Community",
+      "id" : "96e85d80-fa95-4df0-8773-c0d392e50982",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8fad934f-1884-473a-8bc9-708f0b1c6ce9",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.GamingTradout.1}\" /></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "d66dd5b4-2630-4eac-b39c-ae4531cb3ce0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "be7a9f43-b177-455a-a945-b3be7b36845f",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "4b258ab4-6ffd-446b-8e0e-71b4ad3ddee4",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "ON-AIR_Tentpole_Episode_SEASON_PREMIERE"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "135349fc-4c98-445b-9a37-23d09fbcaf6d",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6d7c0a13-83ed-499c-a983-a8856cacd4e6",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-on-air-trade-out-game-prizing"
+}

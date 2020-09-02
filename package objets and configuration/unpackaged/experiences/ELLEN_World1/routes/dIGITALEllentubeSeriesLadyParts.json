@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "808b7059-239d-4e93-859c-e6945cb3bf06",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "57cf40da-8510-4286-901d-45f3ab344093",
+  "label" : "DIGITAL_ellentube_series_LadyParts",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-digital-ellentube-series-ladyparts",
+  "type" : "route",
+  "urlPrefix" : "digital-ellentube-series-ladyparts"
+}

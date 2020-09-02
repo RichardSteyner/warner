@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "7c797bc0-7b7f-49d5-b178-050b63407e6b",
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "id" : "80472039-ad9d-4726-80a9-42ed1bd60c59",
+  "label" : "CASE STUDIES",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-case-studies",
+  "type" : "route",
+  "urlPrefix" : "case-studies"
+}

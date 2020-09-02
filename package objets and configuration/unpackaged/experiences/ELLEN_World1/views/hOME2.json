@@ -1,0 +1,100 @@
+{
+  "appPageId" : "0d58bdb6-9225-4b36-9ff9-75998066216f",
+  "componentName" : "siteforce:sldsTwoCol84SidebarFeaturedLayout",
+  "id" : "93a29e2a-1d3c-4e2c-b684-2324310e3857",
+  "label" : "HOME (2)",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><b style=\"font-size: 22px; background-color: rgb(255, 255, 255); color: rgb(102, 163, 224);\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.ELLEN_GENERAL_BANNER2png.1}\" /></b></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2b9d73fa-0bc5-4930-8d69-7f3f9a4c2450",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a70f1d56-fab9-4d4f-9f7e-097159f01d2f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "actions" : [ {
+          "name" : "NewEventTPX",
+          "isPublic" : true
+        } ],
+        "label" : "WORK WITH ELLEN"
+      },
+      "componentName" : "forceCommunity:createRecordButton",
+      "id" : "00b892b7-b392-4384-ac3f-e16252573d4c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "33dc3f14-fa0d-48bd-849e-bca78d65fbca",
+    "regionName" : "featured",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><br></p><p style=\"text-align: center;\"><b style=\"color: rgb(102, 163, 224); font-size: 18px;\">LET'S WORK TOGETHER</b></p><p style=\"text-align: center;\"><b style=\"font-size: 36px; color: rgb(255, 255, 255); background-color: rgb(102, 163, 224);\">&nbsp;&nbsp;WELCOME TO ELLEN!&nbsp;&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(68, 68, 68); font-size: 18px;\">We are the ELLEN Brand Content &amp; Partnerships Team — a custom media and content group that is part of the Warner Bros. portfolio of brands. For the past 17 Seasons, we have worked with brands and agencies as a strategic partner to deliver world-class 360 partnerships that seamlessly align brands with the world of ELLEN.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(68, 68, 68); font-size: 18px;\">By leveraging the Emmy-award-winning writers, producers, and digital talent at The Ellen DeGeneres Show, we are a full-functioning ad agency that provides highly custom cross-platform content that garners millions of views.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(68, 68, 68); font-size: 18px;\">Let’s motivate ELLEN’s millions of fans for your brand by partnering together on your next campaign. Complete the brand pitch doc below so ELLEN can start ideating on how your brand can come to life across ELLEN’s properties.</span><span style=\"color: rgb(68, 68, 68); font-size: 14px;\">﻿</span></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "914efa10-86d9-4179-bf3a-0721166ecd64",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4f2821e2-826e-4493-9746-ec6d9bbe76a1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "align" : "center",
+        "borderColor" : "",
+        "byLine" : "from",
+        "handle" : "theellenshow",
+        "hasBorder" : false,
+        "heading" : "Tweets",
+        "height" : "600",
+        "linkColor" : "820bbb",
+        "showHandle" : true,
+        "showReplies" : true,
+        "theme" : "light",
+        "tweetLimit" : ""
+      },
+      "componentName" : "SS_TF:SS_TwitterFeed",
+      "id" : "361f3b15-6472-4df6-9813-239bf5f0a1bd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "02aca785-d7ac-4400-ae53-94b9e80f2e8b",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "b33fdfaa-3a58-4d77-b93f-030a8da3cfcf",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "HOME (2)"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "1906f902-a1e5-4102-8ac2-d1068a16a866",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "20ce0847-4ca0-4274-a87d-641905cfed14",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-home-2"
+}
